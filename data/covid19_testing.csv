@@ -1,0 +1,3300 @@
+Month,Date,State,TotalSamples,Negative,Positive
+4,17,Andaman and Nicobar Islands,1403,1210,12
+4,2,Andhra Pradesh,1800,1175,132
+4,10,Andhra Pradesh,6374,6009,365
+4,11,Andhra Pradesh,6958,6577,381
+4,12,Andhra Pradesh,6958,6553,405
+4,13,Andhra Pradesh,8755,8323,432
+4,14,Andhra Pradesh,10505,10032,473
+4,15,Andhra Pradesh,11613,11088,525
+4,16,Andhra Pradesh,20235,19701,534
+4,18,Andhra Pradesh,21450,20487,603
+4,19,Andhra Pradesh,26958,26311,647
+4,20,Andhra Pradesh,30733,30011,722
+4,21,Andhra Pradesh,35755,34998,757
+4,22,Andhra Pradesh,41512,40699,813
+4,23,Andhra Pradesh,48032,47139,893
+4,24,Andhra Pradesh,54338,53383,955
+4,25,Andhra Pradesh,61266,60250,1016
+4,26,Andhra Pradesh,68034,66937,1097
+4,27,Andhra Pradesh,74551,73374,1177
+4,28,Andhra Pradesh,80334,79075,1259
+4,29,Andhra Pradesh,88061,86729,1332
+4,30,Andhra Pradesh,94558,93155,1403
+5,1,Andhra Pradesh,102460,100997,1463
+5,2,Andhra Pradesh,108403,106878,1525
+5,3,Andhra Pradesh,114937,113354,1583
+5,4,Andhra Pradesh,125229,123579,1650
+5,5,Andhra Pradesh,133492,131775,1717
+5,6,Andhra Pradesh,141274,139497,1777
+5,7,Andhra Pradesh,149361,147528,1833
+5,8,Andhra Pradesh,156681,154794,1887
+5,9,Andhra Pradesh,165069,163139,1930
+5,10,Andhra Pradesh,173735,171755,1980
+5,11,Andhra Pradesh,181144,179126,2018
+5,12,Andhra Pradesh,191874,189823,2051
+5,13,Andhra Pradesh,201196,199059,2137
+5,14,Andhra Pradesh,210452,208247,2100
+5,15,Andhra Pradesh,219490,217183,2157
+5,17,Andhra Pradesh,238998,236618,2230
+5,18,Andhra Pradesh,248771,246279,2282
+5,19,Andhra Pradesh,258450,255961,2339
+5,20,Andhra Pradesh,267612,265052,2407
+5,21,Andhra Pradesh,275704,273099,2452
+5,22,Andhra Pradesh,284119,281452,2514
+5,23,Andhra Pradesh,292969,290255,2561
+5,24,Andhra Pradesh,304326,301529,2627
+5,25,Andhra Pradesh,314566,311680,2671
+5,26,Andhra Pradesh,322714,319731,2719
+5,27,Andhra Pradesh,332378,329261,2787
+5,28,Andhra Pradesh,342236,338991,2841
+5,29,Andhra Pradesh,353874,350544,2874
+5,30,Andhra Pradesh,363378,359917,2944
+5,31,Andhra Pradesh,372748,369177,3045
+6,1,Andhra Pradesh,383315,379639,3118
+6,2,Andhra Pradesh,395681,391890,3200
+6,3,Andhra Pradesh,403747,399776,3279
+6,4,Andhra Pradesh,413733,409621,3377
+6,5,Andhra Pradesh,423564,419314,3427
+6,6,Andhra Pradesh,436335,431875,3588
+6,7,Andhra Pradesh,454030,449371,3718
+6,8,Andhra Pradesh,468276,463463,3843
+6,9,Andhra Pradesh,483361,478332,3990
+6,10,Andhra Pradesh,498716,493469,4126
+6,11,Andhra Pradesh,510318,504889,4261
+6,12,Andhra Pradesh,522093,516457,4402
+6,13,Andhra Pradesh,536570,530712,4588
+6,14,Andhra Pradesh,552202,546050,4841
+6,15,Andhra Pradesh,567375,560919,5087
+6,16,Andhra Pradesh,583286,576566,5280
+6,17,Andhra Pradesh,598474,591403,5555
+6,18,Andhra Pradesh,612397,604901,5854
+6,19,Andhra Pradesh,630006,622045,7961
+6,20,Andhra Pradesh,652377,643925,8452
+6,21,Andhra Pradesh,676828,667899,8929
+6,22,Andhra Pradesh,693548,684176,9372
+6,23,Andhra Pradesh,714187,704353,9834
+6,24,Andhra Pradesh,750234,739903,10331
+6,25,Andhra Pradesh,769319,758435,10884
+6,26,Andhra Pradesh,791624,780135,11489
+6,27,Andhra Pradesh,816082,803797,12285
+6,28,Andhra Pradesh,841860,828762,13098
+6,29,Andhra Pradesh,872076,858185,13891
+6,30,Andhra Pradesh,890190,875595,14595
+7,1,Andhra Pradesh,918429,903177,15252
+7,2,Andhra Pradesh,932713,916616,16097
+7,3,Andhra Pradesh,971611,954677,16934
+7,4,Andhra Pradesh,996573,978874,17699
+7,5,Andhra Pradesh,1017140,998443,18697
+7,6,Andhra Pradesh,1033852,1013833,20019
+7,7,Andhra Pradesh,1050090,1028897,21197
+7,8,Andhra Pradesh,1077733,1055474,22259
+7,9,Andhra Pradesh,1094615,1070801,23814
+7,10,Andhra Pradesh,1115635,1090213,25422
+7,11,Andhra Pradesh,1136225,1108990,27235
+7,12,Andhra Pradesh,1153849,1124681,29168
+7,13,Andhra Pradesh,1173096,1141993,31103
+7,14,Andhra Pradesh,1195766,1162747,33019
+7,15,Andhra Pradesh,1217963,1182512,35451
+7,16,Andhra Pradesh,1240267,1202223,38044
+7,17,Andhra Pradesh,1260512,1219866,40646
+7,18,Andhra Pradesh,1284384,1239775,44609
+7,19,Andhra Pradesh,1315532,1265882,49650
+7,20,Andhra Pradesh,1349112,1295388,53724
+7,21,Andhra Pradesh,1386274,1327606,58668
+7,22,Andhra Pradesh,1435827,1371114,64713
+7,23,Andhra Pradesh,1493879,1421168,72711
+7,24,Andhra Pradesh,1541993,1461135,80858
+7,25,Andhra Pradesh,1595674,1507003,88671
+7,26,Andhra Pradesh,1643319,1547021,96298
+7,27,Andhra Pradesh,1686446,1584097,102349
+7,28,Andhra Pradesh,1749425,1639128,110297
+7,29,Andhra Pradesh,1820009,1699619,120390
+7,30,Andhra Pradesh,1890077,1759520,130557
+7,31,Andhra Pradesh,1951776,1810843,140933
+8,1,Andhra Pradesh,2012573,1862364,150209
+8,2,Andhra Pradesh,2065407,1906643,158764
+8,3,Andhra Pradesh,2110923,1944337,166586
+8,4,Andhra Pradesh,2175070,1998737,176333
+8,5,Andhra Pradesh,2235646,2049185,186461
+8,6,Andhra Pradesh,2299332,2102543,196789
+8,7,Andhra Pradesh,2362270,2155310,206960
+8,8,Andhra Pradesh,2424393,2207353,217040
+8,9,Andhra Pradesh,2487305,2259445,227860
+8,10,Andhra Pradesh,2534304,2298779,235525
+4,9,Arunachal Pradesh,206,185,1
+4,14,Arunachal Pradesh,280,250,1
+4,17,Arunachal Pradesh,363,338,1
+4,18,Arunachal Pradesh,389,358,1
+4,20,Arunachal Pradesh,439,405,1
+4,21,Arunachal Pradesh,454,433,1
+4,22,Arunachal Pradesh,496,441,2
+4,24,Arunachal Pradesh,526,508,2
+4,26,Arunachal Pradesh,568,529,2
+4,27,Arunachal Pradesh,584,566,2
+4,28,Arunachal Pradesh,610,581,2
+4,29,Arunachal Pradesh,662,595,2
+4,30,Arunachal Pradesh,694,656,2
+5,1,Arunachal Pradesh,724,692,2
+5,3,Arunachal Pradesh,810,761,2
+5,4,Arunachal Pradesh,869,762,2
+5,5,Arunachal Pradesh,970,814,2
+5,6,Arunachal Pradesh,1039,857,2
+5,7,Arunachal Pradesh,1144,952,2
+5,8,Arunachal Pradesh,1354,1015,2
+5,9,Arunachal Pradesh,1597,1266,2
+5,10,Arunachal Pradesh,1823,1363,2
+5,11,Arunachal Pradesh,2078,1538,2
+5,12,Arunachal Pradesh,2257,1798,2
+5,13,Arunachal Pradesh,2483,1902,2
+5,14,Arunachal Pradesh,2677,2233,2
+5,15,Arunachal Pradesh,2942,2546,2
+5,16,Arunachal Pradesh,3163,2861,2
+5,17,Arunachal Pradesh,3349,2966,2
+5,18,Arunachal Pradesh,3662,3166,2
+5,19,Arunachal Pradesh,3941,3392,2
+5,20,Arunachal Pradesh,4157,3710,2
+5,21,Arunachal Pradesh,4438,3963,2
+5,22,Arunachal Pradesh,4844,4211,2
+5,23,Arunachal Pradesh,5206,4340,2
+5,24,Arunachal Pradesh,5428,4552,2
+5,25,Arunachal Pradesh,5997,4941,2
+5,26,Arunachal Pradesh,6319,5083,2
+5,27,Arunachal Pradesh,6436,5405,2
+5,28,Arunachal Pradesh,6984,5677,3
+5,29,Arunachal Pradesh,7488,6268,3
+5,30,Arunachal Pradesh,8017,6675,4
+5,31,Arunachal Pradesh,8283,7012,4
+6,1,Arunachal Pradesh,8768,7528,22
+6,2,Arunachal Pradesh,9079,7806,28
+6,3,Arunachal Pradesh,9551,7927,38
+6,4,Arunachal Pradesh,10025,8552,43
+6,5,Arunachal Pradesh,10790,8877,46
+6,6,Arunachal Pradesh,11261,9350,49
+6,7,Arunachal Pradesh,11516,9921,51
+6,8,Arunachal Pradesh,12012,10376,57
+6,9,Arunachal Pradesh,12455,10642,57
+6,10,Arunachal Pradesh,13035,11420,61
+6,11,Arunachal Pradesh,13479,11754,67
+6,12,Arunachal Pradesh,14047,12119,87
+6,13,Arunachal Pradesh,14518,12817,88
+6,15,Arunachal Pradesh,15453,13610,95
+6,16,Arunachal Pradesh,16158,14339,99
+6,17,Arunachal Pradesh,16630,14698,103
+6,18,Arunachal Pradesh,16630,14698,103
+6,19,Arunachal Pradesh,18008,14698,135
+6,20,Arunachal Pradesh,18521,16827,135
+6,21,Arunachal Pradesh,19154,17100,139
+6,22,Arunachal Pradesh,19799,18123,148
+6,23,Arunachal Pradesh,20398,18571,158
+6,24,Arunachal Pradesh,20938,18979,160
+6,25,Arunachal Pradesh,21274,19298,172
+6,26,Arunachal Pradesh,21890,19877,174
+6,27,Arunachal Pradesh,22623,20209,177
+6,28,Arunachal Pradesh,23011,20673,182
+6,29,Arunachal Pradesh,23709,21408,187
+6,30,Arunachal Pradesh,24237,21766,191
+7,1,Arunachal Pradesh,24856,22443,195
+7,2,Arunachal Pradesh,25440,23025,232
+7,3,Arunachal Pradesh,25917,23486,252
+7,4,Arunachal Pradesh,26569,24025,259
+7,5,Arunachal Pradesh,26808,24466,269
+7,6,Arunachal Pradesh,27645,24900,270
+7,7,Arunachal Pradesh,28072,25649,276
+7,8,Arunachal Pradesh,28581,25996,287
+7,9,Arunachal Pradesh,29232,26707,302
+7,10,Arunachal Pradesh,29834,28023,335
+7,11,Arunachal Pradesh,30922,28711,341
+7,12,Arunachal Pradesh,31520,29296,359
+7,13,Arunachal Pradesh,32691,30725,387
+7,14,Arunachal Pradesh,33807,31688,462
+7,15,Arunachal Pradesh,34619,32450,491
+7,16,Arunachal Pradesh,35430,33222,543
+7,17,Arunachal Pradesh,36426,34040,609
+7,18,Arunachal Pradesh,38042,35471,650
+7,19,Arunachal Pradesh,39288,37032,740
+7,20,Arunachal Pradesh,40477,37752,790
+7,21,Arunachal Pradesh,41772,39116,858
+7,22,Arunachal Pradesh,44986,42369,949
+7,23,Arunachal Pradesh,48880,46332,991
+7,24,Arunachal Pradesh,53335,51033,1056
+7,25,Arunachal Pradesh,57861,55574,1126
+7,26,Arunachal Pradesh,59558,57541,1158
+7,27,Arunachal Pradesh,63784,61629,1239
+7,28,Arunachal Pradesh,68034,65962,1330
+7,29,Arunachal Pradesh,72739,70551,1410
+7,30,Arunachal Pradesh,77630,75572,1484
+7,31,Arunachal Pradesh,81865,77637,1591
+8,1,Arunachal Pradesh,86288,81988,1673
+8,2,Arunachal Pradesh,89031,84700,1698
+8,3,Arunachal Pradesh,91227,86828,1758
+8,4,Arunachal Pradesh,93365,91127,1790
+8,5,Arunachal Pradesh,95983,91164,1855
+8,6,Arunachal Pradesh,98733,93684,1948
+8,7,Arunachal Pradesh,101947,96758,2049
+8,8,Arunachal Pradesh,104833,99460,2117
+8,9,Arunachal Pradesh,106792,101265,2155
+8,10,Arunachal Pradesh,109863,104171,2231
+8,11,Arunachal Pradesh,112689,106807,2327
+8,14,Arunachal Pradesh,121371,115112,2607
+8,15,Arunachal Pradesh,122854,116538,2658
+4,2,Assam,962,819,16
+4,10,Assam,2863,2685,29
+4,11,Assam,3011,2842,29
+4,12,Assam,3138,2973,29
+4,14,Assam,3491,3267,31
+4,15,Assam,3613,3492,32
+4,16,Assam,4108,3803,34
+4,17,Assam,4236,4024,34
+4,18,Assam,4400,4199,34
+4,19,Assam,4865,4584,34
+4,20,Assam,5112,4937,34
+4,21,Assam,5514,5245,34
+4,24,Assam,6680,6391,35
+4,25,Assam,7159,6781,35
+4,26,Assam,7823,7474,35
+4,27,Assam,8117,7985,35
+4,29,Assam,9520,8771,37
+5,2,Assam,11623,10499,42
+5,4,Assam,12775,11764,42
+5,5,Assam,13442,12533,43
+5,9,Assam,16167,15076,59
+5,10,Assam,18002,16236,62
+5,11,Assam,19589,17813,64
+5,12,Assam,21791,19211,64
+5,14,Assam,25824,23178,86
+5,15,Assam,28178,25431,86
+5,16,Assam,31276,28332,91
+5,17,Assam,34376,32035,97
+5,18,Assam,37898,35159,106
+5,19,Assam,41116,38138,141
+5,20,Assam,47084,42729,170
+5,21,Assam,51730,46442,203
+5,22,Assam,55791,50450,259
+5,23,Assam,60405,54185,329
+5,24,Assam,66444,58972,378
+5,25,Assam,70029,62244,526
+5,26,Assam,72654,66562,616
+5,29,Assam,92390,84933,1024
+5,30,Assam,101257,91248,1185
+5,31,Assam,109097,101006,1272
+6,2,Assam,120375,111229,1513
+6,3,Assam,126726,117650,1672
+6,4,Assam,133029,122618,1988
+6,6,Assam,146605,136154,2397
+6,7,Assam,153326,142192,2565
+6,9,Assam,169842,159760,2937
+6,11,Assam,181108,171070,3319
+6,12,Assam,188090,177989,3498
+4,5,Bihar,3037,2299,32
+4,2,Chandigarh,124,98,18
+4,8,Chandigarh,184,162,18
+4,10,Chandigarh,223,199,19
+4,11,Chandigarh,264,223,19
+4,12,Chandigarh,279,247,21
+4,13,Chandigarh,296,263,21
+4,14,Chandigarh,309,285,21
+4,15,Chandigarh,317,293,21
+4,16,Chandigarh,337,315,21
+4,17,Chandigarh,358,335,21
+4,18,Chandigarh,381,348,23
+4,19,Chandigarh,430,388,26
+4,20,Chandigarh,453,417,26
+4,21,Chandigarh,497,445,27
+4,22,Chandigarh,529,492,27
+4,23,Chandigarh,599,557,27
+4,24,Chandigarh,638,603,27
+4,25,Chandigarh,734,668,28
+4,26,Chandigarh,756,677,30
+4,27,Chandigarh,843,777,40
+4,28,Chandigarh,924,857,56
+4,29,Chandigarh,1012,922,67
+4,30,Chandigarh,1147,1022,74
+5,1,Chandigarh,1252,1131,88
+5,2,Chandigarh,1462,1339,94
+5,3,Chandigarh,1616,1491,97
+5,4,Chandigarh,1678,1545,102
+5,5,Chandigarh,1713,1576,115
+5,6,Chandigarh,1785,1641,120
+5,7,Chandigarh,1845,1698,129
+5,8,Chandigarh,1913,1748,146
+5,9,Chandigarh,2055,1871,169
+5,10,Chandigarh,2142,1947,173
+5,11,Chandigarh,2177,1978,173
+5,12,Chandigarh,2276,2069,187
+5,13,Chandigarh,2420,2206,189
+5,14,Chandigarh,2505,2299,191
+5,15,Chandigarh,2586,2383,191
+5,16,Chandigarh,2718,2513,191
+5,17,Chandigarh,2812,2604,191
+5,18,Chandigarh,2892,2663,196
+5,19,Chandigarh,3031,2783,199
+5,21,Chandigarh,3369,3125,216
+5,22,Chandigarh,3531,3234,219
+5,23,Chandigarh,3749,3390,225
+5,24,Chandigarh,3904,3514,238
+5,25,Chandigarh,4089,3695,266
+5,26,Chandigarh,4207,3828,278
+5,27,Chandigarh,4332,3991,279
+5,28,Chandigarh,4467,4138,289
+5,29,Chandigarh,4543,4222,289
+5,30,Chandigarh,4654,4342,289
+5,31,Chandigarh,4785,4478,293
+6,1,Chandigarh,4816,4495,294
+6,2,Chandigarh,4902,4573,301
+6,3,Chandigarh,4977,4658,301
+6,4,Chandigarh,5059,4735,302
+6,5,Chandigarh,5121,4793,309
+6,6,Chandigarh,5237,4906,309
+6,7,Chandigarh,5312,4977,314
+6,8,Chandigarh,5385,5040,318
+6,10,Chandigarh,5532,5182,328
+6,11,Chandigarh,5636,5267,332
+6,12,Chandigarh,5708,5342,334
+6,13,Chandigarh,5839,5459,345
+6,14,Chandigarh,5937,5563,350
+6,15,Chandigarh,6027,5643,357
+6,16,Chandigarh,6115,5727,358
+6,17,Chandigarh,6233,5830,368
+6,18,Chandigarh,6315,5912,373
+6,19,Chandigarh,6438,6032,375
+6,20,Chandigarh,6578,6162,390
+6,21,Chandigarh,6677,6243,404
+6,22,Chandigarh,6745,6301,410
+6,23,Chandigarh,6840,6390,415
+6,24,Chandigarh,6981,6528,420
+6,25,Chandigarh,7072,6618,423
+6,26,Chandigarh,7201,6746,424
+6,27,Chandigarh,7342,6883,427
+6,28,Chandigarh,7455,6992,429
+6,29,Chandigarh,7548,7083,434
+6,30,Chandigarh,7689,7219,440
+7,1,Chandigarh,7792,7317,446
+7,2,Chandigarh,7938,7457,450
+7,3,Chandigarh,8074,7591,454
+7,4,Chandigarh,8209,7717,459
+7,5,Chandigarh,8419,7922,466
+7,6,Chandigarh,8528,8007,487
+7,7,Chandigarh,8669,8137,492
+7,8,Chandigarh,8833,8267,507
+7,9,Chandigarh,9096,8518,523
+7,10,Chandigarh,9253,8672,536
+7,11,Chandigarh,9405,8803,549
+7,12,Chandigarh,9571,8966,559
+7,13,Chandigarh,9722,9094,588
+7,14,Chandigarh,9834,9192,600
+7,15,Chandigarh,10050,9385,619
+7,16,Chandigarh,10244,9560,635
+7,17,Chandigarh,10457,9744,660
+7,18,Chandigarh,10773,10024,691
+7,19,Chandigarh,10959,10180,717
+7,20,Chandigarh,11075,10277,739
+7,21,Chandigarh,11271,10468,751
+7,22,Chandigarh,11547,10719,780
+7,23,Chandigarh,11780,10930,800
+7,24,Chandigarh,12030,11159,823
+7,25,Chandigarh,12358,11450,852
+7,26,Chandigarh,12608,11665,887
+7,27,Chandigarh,12786,11816,910
+7,28,Chandigarh,13069,12076,934
+7,29,Chandigarh,13327,12284,978
+7,30,Chandigarh,13683,12601,1016
+7,31,Chandigarh,13959,12838,1051
+8,1,Chandigarh,14239,13090,1079
+8,2,Chandigarh,14493,13304,1117
+8,3,Chandigarh,14778,13541,1159
+8,4,Chandigarh,15116,13833,1206
+8,5,Chandigarh,15611,14264,1270
+8,6,Chandigarh,16034,14623,1327
+8,7,Chandigarh,16596,15138,1374
+8,8,Chandigarh,17067,15560,1426
+8,9,Chandigarh,17510,15910,1515
+8,10,Chandigarh,17928,16246,1595
+8,13,Chandigarh,19593,17662,1842
+8,14,Chandigarh,20060,18042,1928
+8,15,Chandigarh,20520,18419,2009
+8,18,Chandigarh,22198,19787,2305
+4,2,Chhattisgarh,1232,921,9
+4,10,Chhattisgarh,3473,3322,18
+4,11,Chhattisgarh,3858,3503,18
+4,12,Chhattisgarh,3945,3856,31
+4,13,Chhattisgarh,4377,3969,31
+4,14,Chhattisgarh,4812,4319,33
+4,15,Chhattisgarh,5122,4878,33
+4,16,Chhattisgarh,5519,5168,33
+4,17,Chhattisgarh,5776,5484,36
+4,18,Chhattisgarh,5776,5484,36
+4,19,Chhattisgarh,6675,6086,36
+4,20,Chhattisgarh,7601,7029,36
+4,21,Chhattisgarh,8272,7555,36
+4,22,Chhattisgarh,9220,8296,36
+4,23,Chhattisgarh,10346,9206,36
+4,24,Chhattisgarh,11386,10213,36
+4,25,Chhattisgarh,12596,11168,37
+4,26,Chhattisgarh,13786,12406,37
+4,27,Chhattisgarh,14987,13882,37
+4,28,Chhattisgarh,15737,14953,38
+4,29,Chhattisgarh,16546,15658,38
+4,30,Chhattisgarh,17541,16602,40
+5,1,Chhattisgarh,18039,17199,43
+5,3,Chhattisgarh,19902,18848,57
+5,5,Chhattisgarh,21323,20300,58
+5,6,Chhattisgarh,22188,20873,59
+5,8,Chhattisgarh,23629,22509,59
+5,9,Chhattisgarh,24506,23326,59
+5,10,Chhattisgarh,25282,24186,59
+5,12,Chhattisgarh,27339,25741,59
+5,13,Chhattisgarh,28837,27012,59
+5,14,Chhattisgarh,29697,28234,59
+5,15,Chhattisgarh,31341,29812,66
+5,16,Chhattisgarh,32678,31275,67
+5,18,Chhattisgarh,36606,34656,93
+5,19,Chhattisgarh,39010,36586,100
+5,21,Chhattisgarh,45522,42618,128
+5,22,Chhattisgarh,48116,45022,172
+5,23,Chhattisgarh,49763,46894,214
+5,25,Chhattisgarh,55022,52598,292
+5,26,Chhattisgarh,57479,55539,360
+5,27,Chhattisgarh,59320,57283,364
+5,28,Chhattisgarh,61771,59585,398
+5,29,Chhattisgarh,63992,62983,415
+5,30,Chhattisgarh,66417,64762,447
+5,31,Chhattisgarh,69152,67268,492
+6,1,Chhattisgarh,70726,69361,539
+6,2,Chhattisgarh,73198,71218,556
+6,3,Chhattisgarh,76446,73706,626
+6,4,Chhattisgarh,78971,75519,756
+6,5,Chhattisgarh,81773,78134,863
+6,6,Chhattisgarh,85346,80477,923
+6,7,Chhattisgarh,88896,84344,1073
+6,8,Chhattisgarh,92598,86719,1160
+6,9,Chhattisgarh,93059,89914,1211
+6,10,Chhattisgarh,94576,92049,1262
+6,11,Chhattisgarh,96230,93903,1398
+6,12,Chhattisgarh,98603,95965,1429
+6,19,Chhattisgarh,120523,115197,2018
+6,21,Chhattisgarh,126246,121044,2273
+6,22,Chhattisgarh,129731,124679,2302
+6,23,Chhattisgarh,133753,127831,2356
+6,24,Chhattisgarh,137400,132332,2419
+4,9,Dadra and Nagar Haveli and Daman and Diu,80,80,0
+4,10,Dadra and Nagar Haveli and Daman and Diu,130,130,0
+4,11,Dadra and Nagar Haveli and Daman and Diu,211,211,0
+4,15,Dadra and Nagar Haveli and Daman and Diu,356,356,0
+4,16,Dadra and Nagar Haveli and Daman and Diu,382,382,0
+4,21,Dadra and Nagar Haveli and Daman and Diu,474,474,0
+4,22,Dadra and Nagar Haveli and Daman and Diu,674,674,0
+4,23,Dadra and Nagar Haveli and Daman and Diu,913,913,0
+4,25,Dadra and Nagar Haveli and Daman and Diu,1386,1386,0
+4,26,Dadra and Nagar Haveli and Daman and Diu,1901,1901,0
+4,27,Dadra and Nagar Haveli and Daman and Diu,2379,2379,0
+4,29,Dadra and Nagar Haveli and Daman and Diu,2921,2921,0
+4,30,Dadra and Nagar Haveli and Daman and Diu,3464,3464,0
+5,1,Dadra and Nagar Haveli and Daman and Diu,4003,4003,0
+5,3,Dadra and Nagar Haveli and Daman and Diu,4328,4328,0
+5,4,Dadra and Nagar Haveli and Daman and Diu,4434,4434,0
+5,5,Dadra and Nagar Haveli and Daman and Diu,4781,4780,1
+5,6,Dadra and Nagar Haveli and Daman and Diu,4967,4966,1
+5,7,Dadra and Nagar Haveli and Daman and Diu,5272,5271,1
+5,8,Dadra and Nagar Haveli and Daman and Diu,5430,5429,1
+5,10,Dadra and Nagar Haveli and Daman and Diu,5581,5580,1
+5,11,Dadra and Nagar Haveli and Daman and Diu,5763,5762,1
+5,12,Dadra and Nagar Haveli and Daman and Diu,5977,5976,1
+5,13,Dadra and Nagar Haveli and Daman and Diu,6294,6293,1
+5,14,Dadra and Nagar Haveli and Daman and Diu,6554,6553,1
+5,15,Dadra and Nagar Haveli and Daman and Diu,6916,6915,1
+5,17,Dadra and Nagar Haveli and Daman and Diu,7157,7156,1
+5,18,Dadra and Nagar Haveli and Daman and Diu,7571,7570,1
+5,19,Dadra and Nagar Haveli and Daman and Diu,7829,7828,1
+5,20,Dadra and Nagar Haveli and Daman and Diu,8137,8136,1
+5,21,Dadra and Nagar Haveli and Daman and Diu,8456,8455,1
+5,22,Dadra and Nagar Haveli and Daman and Diu,8979,8978,1
+5,23,Dadra and Nagar Haveli and Daman and Diu,9298,9296,2
+5,24,Dadra and Nagar Haveli and Daman and Diu,9678,9676,2
+5,25,Dadra and Nagar Haveli and Daman and Diu,10085,10083,2
+5,26,Dadra and Nagar Haveli and Daman and Diu,10388,10386,2
+5,27,Dadra and Nagar Haveli and Daman and Diu,10872,10870,2
+5,28,Dadra and Nagar Haveli and Daman and Diu,11177,11175,2
+5,29,Dadra and Nagar Haveli and Daman and Diu,11477,11475,2
+6,1,Dadra and Nagar Haveli and Daman and Diu,11693,11690,3
+6,3,Dadra and Nagar Haveli and Daman and Diu,12064,12052,12
+6,4,Dadra and Nagar Haveli and Daman and Diu,12375,12361,14
+6,5,Dadra and Nagar Haveli and Daman and Diu,13667,13653,14
+6,6,Dadra and Nagar Haveli and Daman and Diu,14780,14761,19
+6,7,Dadra and Nagar Haveli and Daman and Diu,15546,14926,20
+6,8,Dadra and Nagar Haveli and Daman and Diu,16277,15655,22
+6,10,Dadra and Nagar Haveli and Daman and Diu,17179,16552,27
+6,13,Dadra and Nagar Haveli and Daman and Diu,17649,17021,28
+6,14,Dadra and Nagar Haveli and Daman and Diu,18445,17813,31
+6,15,Dadra and Nagar Haveli and Daman and Diu,23835,23072,38
+6,16,Dadra and Nagar Haveli and Daman and Diu,24492,23695,51
+6,17,Dadra and Nagar Haveli and Daman and Diu,25575,24650,58
+6,18,Dadra and Nagar Haveli and Daman and Diu,26752,25461,69
+6,20,Dadra and Nagar Haveli and Daman and Diu,27617,26901,93
+6,21,Dadra and Nagar Haveli and Daman and Diu,27839,27241,97
+6,22,Dadra and Nagar Haveli and Daman and Diu,28364,27572,112
+6,23,Dadra and Nagar Haveli and Daman and Diu,29072,28096,121
+6,24,Dadra and Nagar Haveli and Daman and Diu,29403,28697,134
+6,25,Dadra and Nagar Haveli and Daman and Diu,30188,29015,154
+6,26,Dadra and Nagar Haveli and Daman and Diu,30602,29864,169
+6,27,Dadra and Nagar Haveli and Daman and Diu,31015,30316,184
+6,28,Dadra and Nagar Haveli and Daman and Diu,31321,30781,188
+6,29,Dadra and Nagar Haveli and Daman and Diu,31602,30977,203
+6,30,Dadra and Nagar Haveli and Daman and Diu,32031,31396,213
+7,1,Dadra and Nagar Haveli and Daman and Diu,32435,31783,229
+7,2,Dadra and Nagar Haveli and Daman and Diu,32834,32157,254
+7,3,Dadra and Nagar Haveli and Daman and Diu,33618,32899,304
+7,4,Dadra and Nagar Haveli and Daman and Diu,33995,33156,333
+7,5,Dadra and Nagar Haveli and Daman and Diu,34179,33341,371
+7,6,Dadra and Nagar Haveli and Daman and Diu,34444,33441,398
+7,7,Dadra and Nagar Haveli and Daman and Diu,34761,33926,423
+7,8,Dadra and Nagar Haveli and Daman and Diu,35234,34176,440
+7,9,Dadra and Nagar Haveli and Daman and Diu,35391,34585,454
+7,10,Dadra and Nagar Haveli and Daman and Diu,35829,34827,468
+7,11,Dadra and Nagar Haveli and Daman and Diu,36166,35279,480
+7,12,Dadra and Nagar Haveli and Daman and Diu,36310,35611,495
+7,13,Dadra and Nagar Haveli and Daman and Diu,36621,35696,520
+7,14,Dadra and Nagar Haveli and Daman and Diu,36905,35963,536
+7,15,Dadra and Nagar Haveli and Daman and Diu,37392,36195,552
+7,16,Dadra and Nagar Haveli and Daman and Diu,37880,36548,570
+7,17,Dadra and Nagar Haveli and Daman and Diu,38176,36898,601
+7,18,Dadra and Nagar Haveli and Daman and Diu,38313,37291,646
+7,19,Dadra and Nagar Haveli and Daman and Diu,38640,37520,684
+7,20,Dadra and Nagar Haveli and Daman and Diu,38880,37789,705
+7,21,Dadra and Nagar Haveli and Daman and Diu,39199,38022,733
+7,24,Dadra and Nagar Haveli and Daman and Diu,40425,39019,854
+7,25,Dadra and Nagar Haveli and Daman and Diu,40881,39431,890
+7,26,Dadra and Nagar Haveli and Daman and Diu,41143,39815,940
+7,28,Dadra and Nagar Haveli and Daman and Diu,41588,40258,1020
+7,29,Dadra and Nagar Haveli and Daman and Diu,41895,40411,1058
+7,30,Dadra and Nagar Haveli and Daman and Diu,42148,40564,1093
+7,31,Dadra and Nagar Haveli and Daman and Diu,42403,40775,1136
+8,1,Dadra and Nagar Haveli and Daman and Diu,42635,40916,1181
+8,2,Dadra and Nagar Haveli and Daman and Diu,42718,41132,1232
+8,3,Dadra and Nagar Haveli and Daman and Diu,42926,41402,1265
+8,4,Dadra and Nagar Haveli and Daman and Diu,43191,41514,1304
+8,5,Dadra and Nagar Haveli and Daman and Diu,43478,41781,1368
+8,6,Dadra and Nagar Haveli and Daman and Diu,43899,42059,1412
+8,7,Dadra and Nagar Haveli and Daman and Diu,44456,42608,1456
+8,8,Dadra and Nagar Haveli and Daman and Diu,44777,42805,1505
+8,14,Dadra and Nagar Haveli and Daman and Diu,47272,45021,1797
+8,15,Dadra and Nagar Haveli and Daman and Diu,47643,45335,1843
+8,16,Dadra and Nagar Haveli and Daman and Diu,48212,45676,1878
+8,17,Dadra and Nagar Haveli and Daman and Diu,48710,46224,1908
+8,18,Dadra and Nagar Haveli and Daman and Diu,49290,46665,1951
+8,19,Dadra and Nagar Haveli and Daman and Diu,49879,47184,1995
+8,20,Dadra and Nagar Haveli and Daman and Diu,50293,47703,2030
+8,21,Dadra and Nagar Haveli and Daman and Diu,50923,48105,2082
+8,22,Dadra and Nagar Haveli and Daman and Diu,51285,48524,2120
+8,23,Dadra and Nagar Haveli and Daman and Diu,51580,48995,2161
+8,24,Dadra and Nagar Haveli and Daman and Diu,51843,49322,2181
+8,25,Dadra and Nagar Haveli and Daman and Diu,52160,49538,2203
+8,26,Dadra and Nagar Haveli and Daman and Diu,52524,49806,2228
+8,27,Dadra and Nagar Haveli and Daman and Diu,52859,50236,2266
+8,28,Dadra and Nagar Haveli and Daman and Diu,53227,50539,2290
+8,29,Dadra and Nagar Haveli and Daman and Diu,53527,50809,2306
+8,30,Dadra and Nagar Haveli and Daman and Diu,53769,51141,2340
+9,14,Dadra and Nagar Haveli and Daman and Diu,59154,55686,2763
+9,15,Dadra and Nagar Haveli and Daman and Diu,59530,56305,2783
+9,16,Dadra and Nagar Haveli and Daman and Diu,59771,56646,2810
+9,17,Dadra and Nagar Haveli and Daman and Diu,60237,56905,2831
+9,18,Dadra and Nagar Haveli and Daman and Diu,60738,57338,2859
+9,19,Dadra and Nagar Haveli and Daman and Diu,61270,57759,2887
+9,20,Dadra and Nagar Haveli and Daman and Diu,61482,58254,2924
+9,21,Dadra and Nagar Haveli and Daman and Diu,62055,58459,2933
+9,23,Dadra and Nagar Haveli and Daman and Diu,63047,59438,2962
+9,24,Dadra and Nagar Haveli and Daman and Diu,63512,59995,2977
+9,26,Dadra and Nagar Haveli and Daman and Diu,64336,60848,2996
+9,27,Dadra and Nagar Haveli and Daman and Diu,64691,61264,3002
+9,28,Dadra and Nagar Haveli and Daman and Diu,65134,61618,3012
+9,29,Dadra and Nagar Haveli and Daman and Diu,65539,62045,3032
+9,30,Dadra and Nagar Haveli and Daman and Diu,65953,62439,3040
+10,1,Dadra and Nagar Haveli and Daman and Diu,66337,62840,3054
+10,2,Dadra and Nagar Haveli and Daman and Diu,66566,63228,3063
+10,3,Dadra and Nagar Haveli and Daman and Diu,67029,63509,3070
+10,4,Dadra and Nagar Haveli and Daman and Diu,67272,63873,3087
+10,5,Dadra and Nagar Haveli and Daman and Diu,67666,64129,3092
+10,6,Dadra and Nagar Haveli and Daman and Diu,68056,64498,3103
+10,7,Dadra and Nagar Haveli and Daman and Diu,68466,64888,3120
+10,8,Dadra and Nagar Haveli and Daman and Diu,68831,65283,3132
+10,9,Dadra and Nagar Haveli and Daman and Diu,69192,65638,3140
+10,10,Dadra and Nagar Haveli and Daman and Diu,69529,65980,3152
+10,11,Dadra and Nagar Haveli and Daman and Diu,69785,66324,3163
+10,13,Dadra and Nagar Haveli and Daman and Diu,70514,66935,3168
+10,14,Dadra and Nagar Haveli and Daman and Diu,70815,67297,3171
+10,15,Dadra and Nagar Haveli and Daman and Diu,71144,67588,3172
+10,16,Dadra and Nagar Haveli and Daman and Diu,71386,67909,3177
+10,17,Dadra and Nagar Haveli and Daman and Diu,71664,68164,3180
+10,18,Dadra and Nagar Haveli and Daman and Diu,71807,68439,3183
+10,19,Dadra and Nagar Haveli and Daman and Diu,72136,68578,3185
+10,20,Dadra and Nagar Haveli and Daman and Diu,72410,68894,3194
+4,7,Delhi,9041,7308,576
+4,9,Delhi,9968,8643,720
+4,10,Delhi,11061,9662,903
+4,11,Delhi,11709,10218,1069
+4,12,Delhi,14036,11748,1154
+4,13,Delhi,15032,12283,1510
+4,14,Delhi,16282,13748,1561
+4,15,Delhi,16605,13865,1578
+4,16,Delhi,18784,14692,1640
+4,17,Delhi,21409,16899,1707
+4,18,Delhi,22283,17449,1893
+4,19,Delhi,24387,19393,2003
+4,20,Delhi,25900,20712,2081
+4,21,Delhi,26627,21810,2156
+4,22,Delhi,28309,22713,2248
+4,23,Delhi,30560,24538,2375
+4,24,Delhi,33672,26552,2514
+4,25,Delhi,35519,28693,2625
+4,26,Delhi,37613,31919,2918
+4,27,Delhi,39911,34145,3108
+4,28,Delhi,43370,36195,3314
+4,29,Delhi,47225,39920,3439
+4,2,Goa,220,197,5
+7,28,Goa,126655,115434,5287
+4,8,Gujarat,4224,3905,186
+4,10,Gujarat,7718,7237,378
+4,11,Gujarat,9763,8888,468
+4,12,Gujarat,11715,10867,516
+4,13,Gujarat,14251,12970,572
+4,14,Gujarat,14980,14363,617
+4,15,Gujarat,19197,18431,766
+4,16,Gujarat,20903,19974,929
+4,17,Gujarat,23483,22339,1099
+4,18,Gujarat,26102,24726,1376
+4,19,Gujarat,29104,27361,1743
+4,20,Gujarat,33316,31377,1939
+4,21,Gujarat,36829,34651,2178
+4,22,Gujarat,39421,37014,2407
+4,23,Gujarat,42384,39760,2624
+4,24,Gujarat,46743,41007,2815
+4,25,Gujarat,48315,45254,3061
+4,26,Gujarat,51091,47790,3301
+4,27,Gujarat,53575,50028,3547
+4,28,Gujarat,56101,52327,3774
+4,29,Gujarat,59488,55406,4082
+4,30,Gujarat,64007,59612,4395
+5,1,Gujarat,68774,64053,4721
+5,2,Gujarat,74116,69062,5054
+5,3,Gujarat,80060,74632,5428
+5,4,Gujarat,84648,78844,5804
+5,5,Gujarat,89632,83387,6245
+5,6,Gujarat,95191,88566,6625
+5,7,Gujarat,100553,93540,7013
+5,8,Gujarat,105386,97984,7403
+5,9,Gujarat,109650,101853,7797
+5,10,Gujarat,113493,105298,8195
+5,11,Gujarat,116470,107929,8541
+5,12,Gujarat,119536,110633,8903
+5,13,Gujarat,122297,113029,9268
+5,14,Gujarat,124708,115117,9591
+5,15,Gujarat,127859,117927,9932
+5,16,Gujarat,138407,127418,10989
+5,17,Gujarat,143600,132220,11380
+5,18,Gujarat,148824,137078,11746
+5,19,Gujarat,154674,142533,12141
+5,20,Gujarat,160772,148233,12539
+5,21,Gujarat,166152,153242,12910
+5,22,Gujarat,172562,159289,13273
+5,23,Gujarat,178068,164399,13669
+5,24,Gujarat,182868,168806,14056
+5,25,Gujarat,186361,171893,14468
+6,26,Gujarat,351179,321021,30158
+7,3,Gujarat,395873,361187,34686
+7,4,Gujarat,404354,368956,35398
+7,5,Gujarat,412124,376001,36123
+7,6,Gujarat,418464,381606,36858
+7,7,Gujarat,425830,388194,37636
+7,8,Gujarat,433864,395445,38419
+7,9,Gujarat,441692,402412,39280
+7,10,Gujarat,449349,409194,40155
+7,11,Gujarat,457066,416039,41027
+7,12,Gujarat,464646,422749,41897
+7,13,Gujarat,470265,427457,42808
+7,14,Gujarat,478367,434644,43723
+7,15,Gujarat,487707,443059,44648
+7,16,Gujarat,499170,453603,45567
+7,17,Gujarat,512000,465484,46516
+7,18,Gujarat,524297,476821,47476
+7,19,Gujarat,536122,487681,48441
+7,20,Gujarat,548989,499550,49439
+7,21,Gujarat,562682,512217,50465
+7,22,Gujarat,576706,525221,51485
+7,24,Gujarat,606718,553087,53631
+7,25,Gujarat,620662,565950,54712
+7,27,Gujarat,667844,610970,56874
+7,28,Gujarat,690092,632110,57982
+7,29,Gujarat,713006,653880,59126
+7,30,Gujarat,738073,677788,60285
+7,31,Gujarat,764777,703339,61438
+8,1,Gujarat,791080,728506,62574
+8,2,Gujarat,814335,750660,63675
+8,3,Gujarat,834104,769420,64684
+8,4,Gujarat,854839,789135,65704
+8,5,Gujarat,879213,812436,66777
+8,6,Gujarat,903782,835971,67811
+8,7,Gujarat,930373,861488,68885
+8,8,Gujarat,956645,886659,69986
+8,9,Gujarat,987630,916566,71064
+8,10,Gujarat,1017234,945114,72120
+8,11,Gujarat,1058881,985643,73238
+8,12,Gujarat,1109005,1034615,74390
+8,13,Gujarat,1159822,1084340,75482
+8,14,Gujarat,1211047,1134478,76569
+8,15,Gujarat,1262264,1184601,77663
+8,16,Gujarat,1312824,1234041,78783
+8,17,Gujarat,1358364,1278548,79816
+9,6,Gujarat,2780681,2676340,104341
+9,7,Gujarat,2853371,2747700,105671
+9,8,Gujarat,2925447,2818481,106966
+4,3,Haryana,1325,938,44
+4,7,Haryana,2520,1821,141
+4,8,Haryana,2650,1885,153
+4,9,Haryana,2964,2017,156
+4,10,Haryana,3527,2447,162
+4,11,Haryana,3663,2472,165
+4,12,Haryana,3903,2513,181
+4,13,Haryana,4489,2961,182
+4,14,Haryana,5210,3681,184
+4,15,Haryana,7388,5581,190
+4,16,Haryana,8064,6465,214
+4,17,Haryana,8884,7148,223
+4,18,Haryana,10454,8093,232
+4,19,Haryana,12687,10230,250
+4,20,Haryana,13894,11523,251
+4,21,Haryana,14562,12253,255
+4,22,Haryana,15561,13397,264
+4,23,Haryana,17582,15452,270
+4,24,Haryana,18845,16642,275
+4,25,Haryana,20270,17787,287
+4,26,Haryana,21467,19241,296
+4,27,Haryana,22993,20702,301
+4,28,Haryana,24826,22578,308
+4,29,Haryana,26148,24071,311
+4,30,Haryana,28202,25929,339
+5,1,Haryana,30191,27784,357
+5,2,Haryana,31200,28867,369
+5,3,Haryana,35278,32583,442
+5,4,Haryana,38183,34501,517
+5,5,Haryana,40982,36806,548
+5,6,Haryana,43279,38590,594
+5,7,Haryana,46495,41861,625
+5,8,Haryana,49746,43974,647
+5,9,Haryana,53282,48468,675
+5,10,Haryana,56983,51046,703
+5,11,Haryana,59735,53697,730
+5,12,Haryana,62377,56440,780
+5,13,Haryana,65785,59890,793
+5,14,Haryana,69191,63791,818
+5,15,Haryana,72326,66687,854
+5,16,Haryana,75097,69660,887
+5,17,Haryana,78029,72494,910
+5,18,Haryana,80698,75045,928
+5,19,Haryana,82544,77296,964
+5,20,Haryana,83944,78379,970
+5,21,Haryana,88138,82372,1031
+5,22,Haryana,91119,85317,1067
+5,23,Haryana,94035,88051,1131
+5,24,Haryana,97006,91138,1184
+5,25,Haryana,99987,94725,1213
+5,26,Haryana,102018,97350,1305
+5,27,Haryana,104747,99555,1381
+5,28,Haryana,108031,102260,1504
+5,29,Haryana,110940,105169,1721
+5,30,Haryana,114683,108385,1923
+5,31,Haryana,118138,11709,2091
+6,1,Haryana,121779,114792,2356
+6,2,Haryana,124564,117340,2652
+6,3,Haryana,127895,120393,2954
+6,4,Haryana,132575,124769,3281
+6,5,Haryana,137452,129027,3597
+6,6,Haryana,141688,132684,3952
+6,7,Haryana,145722,136555,4448
+6,8,Haryana,150220,140081,4854
+6,9,Haryana,153692,143513,5209
+6,10,Haryana,158470,147453,5438
+6,11,Haryana,162967,151060,5968
+6,12,Haryana,167501,155395,6334
+6,13,Haryana,171560,159333,6749
+6,14,Haryana,185722,172678,7208
+6,15,Haryana,189914,176741,7722
+6,16,Haryana,193421,180051,8272
+6,17,Haryana,197703,183395,8832
+6,18,Haryana,202808,187303,9218
+6,19,Haryana,207675,192082,9743
+6,20,Haryana,212430,196836,10223
+6,21,Haryana,217797,201984,10635
+6,22,Haryana,222948,206436,11025
+6,23,Haryana,226951,210998,11520
+6,24,Haryana,231673,214896,12010
+6,25,Haryana,236898,219064,12463
+6,26,Haryana,241941,223797,12884
+6,27,Haryana,247139,228275,13427
+6,28,Haryana,252356,233567,13829
+6,29,Haryana,260341,241356,14210
+6,30,Haryana,264203,244000,14548
+7,1,Haryana,269726,249453,14941
+7,2,Haryana,277031,256053,15509
+7,3,Haryana,288478,267194,16003
+7,4,Haryana,298094,275869,16548
+7,5,Haryana,307159,284570,17005
+7,6,Haryana,315853,292701,17504
+7,7,Haryana,323491,300195,17999
+7,8,Haryana,332504,308289,18690
+7,9,Haryana,342404,317159,19369
+7,10,Haryana,352343,326679,19934
+7,11,Haryana,363428,336790,20582
+7,12,Haryana,372621,345903,21240
+7,13,Haryana,381420,353885,21929
+7,14,Haryana,388760,360991,22628
+7,15,Haryana,400155,371350,23306
+7,16,Haryana,409852,380138,24002
+7,17,Haryana,424692,393627,24797
+7,18,Haryana,436535,404852,25547
+7,19,Haryana,447345,414438,26164
+7,20,Haryana,457310,424137,26858
+7,21,Haryana,467740,434300,27462
+7,22,Haryana,477412,443585,28186
+7,23,Haryana,490414,455864,28975
+7,24,Haryana,505220,469631,29755
+7,25,Haryana,536323,500579,30538
+7,26,Haryana,549463,512734,31332
+7,27,Haryana,559326,521416,32127
+7,28,Haryana,570219,531644,32876
+7,29,Haryana,582639,543201,33631
+7,30,Haryana,600893,560863,34254
+7,31,Haryana,612591,571751,34965
+8,1,Haryana,628806,587418,35758
+8,2,Haryana,646286,604056,36519
+8,3,Haryana,657949,615375,37173
+8,4,Haryana,671064,628013,37796
+8,5,Haryana,683500,639335,38548
+8,6,Haryana,697779,652600,39303
+8,7,Haryana,713061,667244,40054
+8,8,Haryana,730036,683237,40843
+8,9,Haryana,744080,696664,41635
+8,10,Haryana,753945,705790,42429
+8,11,Haryana,771769,722780,43227
+8,12,Haryana,786839,736914,44024
+8,13,Haryana,801784,751225,44817
+8,14,Haryana,817509,766184,45614
+8,15,Haryana,830477,778189,46410
+8,17,Haryana,854757,801232,48040
+8,18,Haryana,867458,812490,48936
+8,22,Haryana,944764,885193,53290
+8,23,Haryana,964297,903523,54386
+8,24,Haryana,983187,921303,55460
+8,25,Haryana,1001781,938914,56608
+8,26,Haryana,1025524,961297,58005
+8,27,Haryana,1051189,985217,59298
+8,28,Haryana,1076063,1008916,60596
+8,29,Haryana,1103832,1035131,61987
+8,30,Haryana,1130073,1060143,63282
+9,1,Haryana,1172778,1100351,66426
+9,2,Haryana,1195800,1121546,68218
+9,5,Haryana,1268518,1187623,74272
+9,6,Haryana,1294598,1211295,76549
+4,10,Himachal Pradesh,900,870,30
+4,11,Himachal Pradesh,900,870,30
+4,12,Himachal Pradesh,1113,944,32
+4,13,Himachal Pradesh,1210,1109,32
+4,14,Himachal Pradesh,1311,1232,32
+4,15,Himachal Pradesh,1426,1391,35
+4,16,Himachal Pradesh,1604,1559,35
+4,17,Himachal Pradesh,1992,1740,36
+4,18,Himachal Pradesh,2207,2091,39
+4,19,Himachal Pradesh,2553,2337,39
+4,20,Himachal Pradesh,2892,2714,39
+4,21,Himachal Pradesh,3341,2933,39
+4,22,Himachal Pradesh,3700,3510,39
+4,23,Himachal Pradesh,4020,3943,40
+4,24,Himachal Pradesh,4328,4160,40
+4,25,Himachal Pradesh,4623,4363,40
+4,26,Himachal Pradesh,4901,4794,40
+4,27,Himachal Pradesh,5106,5022,40
+4,28,Himachal Pradesh,5391,5344,40
+4,29,Himachal Pradesh,5772,5726,40
+4,30,Himachal Pradesh,6133,6091,40
+5,1,Himachal Pradesh,6472,6432,40
+5,2,Himachal Pradesh,6836,6791,40
+5,3,Himachal Pradesh,7185,7133,40
+5,4,Himachal Pradesh,7430,7320,41
+5,5,Himachal Pradesh,7893,7800,42
+5,6,Himachal Pradesh,8491,8055,43
+5,7,Himachal Pradesh,9005,8833,46
+5,8,Himachal Pradesh,9522,9434,50
+5,9,Himachal Pradesh,10208,10047,52
+5,10,Himachal Pradesh,10791,10343,55
+5,11,Himachal Pradesh,11267,11016,59
+5,12,Himachal Pradesh,12224,11846,66
+5,13,Himachal Pradesh,13190,12867,67
+5,14,Himachal Pradesh,14256,13307,70
+5,15,Himachal Pradesh,15557,15076,76
+5,16,Himachal Pradesh,16534,16079,78
+5,17,Himachal Pradesh,17417,17049,80
+5,18,Himachal Pradesh,18224,17946,90
+5,19,Himachal Pradesh,19645,18994,92
+5,20,Himachal Pradesh,21147,20449,110
+5,21,Himachal Pradesh,22641,21812,152
+5,22,Himachal Pradesh,24246,23307,168
+5,23,Himachal Pradesh,25905,24625,185
+5,24,Himachal Pradesh,27288,26524,203
+5,25,Himachal Pradesh,28346,27596,223
+5,26,Himachal Pradesh,29379,28989,247
+5,27,Himachal Pradesh,30852,30019,273
+5,28,Himachal Pradesh,32449,31655,281
+5,29,Himachal Pradesh,33979,33486,295
+5,30,Himachal Pradesh,35668,34933,313
+5,31,Himachal Pradesh,37168,36618,331
+6,1,Himachal Pradesh,37897,37233,340
+6,2,Himachal Pradesh,39620,38993,345
+6,3,Himachal Pradesh,41351,40621,359
+6,4,Himachal Pradesh,42703,42081,383
+6,5,Himachal Pradesh,43688,43149,393
+6,6,Himachal Pradesh,44509,43942,400
+6,7,Himachal Pradesh,45888,45254,411
+6,8,Himachal Pradesh,46416,45956,421
+6,9,Himachal Pradesh,47655,46541,437
+6,10,Himachal Pradesh,48922,48123,451
+6,11,Himachal Pradesh,50222,49465,470
+6,12,Himachal Pradesh,51420,50793,486
+6,13,Himachal Pradesh,52737,51106,493
+6,14,Himachal Pradesh,53946,53301,518
+6,15,Himachal Pradesh,54484,53923,556
+6,16,Himachal Pradesh,56106,55333,560
+6,17,Himachal Pradesh,57479,56861,585
+6,18,Himachal Pradesh,59214,58063,595
+6,19,Himachal Pradesh,60814,59675,627
+6,20,Himachal Pradesh,62580,61662,656
+6,21,Himachal Pradesh,64338,62882,673
+6,22,Himachal Pradesh,65189,64324,727
+6,23,Himachal Pradesh,67020,65803,775
+6,24,Himachal Pradesh,68899,67420,806
+6,25,Himachal Pradesh,71078,69917,839
+6,26,Himachal Pradesh,72688,71426,864
+6,27,Himachal Pradesh,74764,73722,894
+6,28,Himachal Pradesh,76556,75285,916
+6,29,Himachal Pradesh,77384,76413,942
+6,30,Himachal Pradesh,79499,78335,953
+7,1,Himachal Pradesh,81516,80387,979
+7,2,Himachal Pradesh,83553,82435,1014
+7,3,Himachal Pradesh,85116,83959,1033
+7,4,Himachal Pradesh,87019,85953,1046
+7,5,Himachal Pradesh,88459,87369,1063
+7,6,Himachal Pradesh,89305,88223,1077
+7,7,Himachal Pradesh,91175,89803,1083
+7,8,Himachal Pradesh,93018,91736,1101
+7,9,Himachal Pradesh,94720,93132,1140
+7,10,Himachal Pradesh,96268,95037,1171
+7,11,Himachal Pradesh,98367,97104,1182
+7,12,Himachal Pradesh,100315,98802,1213
+7,13,Himachal Pradesh,101200,99695,1243
+7,14,Himachal Pradesh,103521,101677,1309
+7,15,Himachal Pradesh,105734,103730,1341
+7,16,Himachal Pradesh,108157,106280,1377
+7,17,Himachal Pradesh,110585,108954,1417
+7,18,Himachal Pradesh,113129,111393,1457
+7,19,Himachal Pradesh,115298,113621,1521
+7,20,Himachal Pradesh,116795,115063,1631
+7,21,Himachal Pradesh,119220,116963,1664
+7,22,Himachal Pradesh,121688,119350,1725
+7,23,Himachal Pradesh,124683,121543,1834
+7,24,Himachal Pradesh,127555,124568,1954
+7,25,Himachal Pradesh,130253,127436,2049
+7,26,Himachal Pradesh,132703,129501,2176
+7,27,Himachal Pradesh,134606,131862,2270
+7,28,Himachal Pradesh,137251,134209,2330
+7,29,Himachal Pradesh,139955,136536,2403
+7,30,Himachal Pradesh,142618,138881,2506
+7,31,Himachal Pradesh,145154,141682,2564
+8,1,Himachal Pradesh,147997,144814,2634
+8,2,Himachal Pradesh,150186,146514,2703
+8,3,Himachal Pradesh,151574,148206,2818
+8,4,Himachal Pradesh,152958,149644,2879
+8,5,Himachal Pradesh,156104,151154,2916
+8,6,Himachal Pradesh,158537,154295,3047
+8,7,Himachal Pradesh,161232,156956,3150
+8,8,Himachal Pradesh,163395,159325,3264
+8,9,Himachal Pradesh,165496,161538,3371
+8,10,Himachal Pradesh,166469,162567,3463
+8,11,Himachal Pradesh,168843,164436,3497
+8,12,Himachal Pradesh,171538,166391,3636
+8,13,Himachal Pradesh,172985,168454,3816
+8,14,Himachal Pradesh,175666,170882,3874
+8,15,Himachal Pradesh,178075,173077,3993
+4,5,Jammu and Kashmir,1551,1429,106
+4,10,Jammu and Kashmir,2961,2754,207
+4,11,Jammu and Kashmir,3206,2982,224
+4,12,Jammu and Kashmir,3600,3355,245
+4,13,Jammu and Kashmir,4065,3795,270
+4,14,Jammu and Kashmir,4619,4341,278
+4,15,Jammu and Kashmir,5171,4871,300
+4,16,Jammu and Kashmir,5680,5366,314
+4,17,Jammu and Kashmir,6438,6110,328
+4,18,Jammu and Kashmir,6937,6596,341
+4,19,Jammu and Kashmir,7895,7545,350
+4,20,Jammu and Kashmir,8612,8244,368
+4,21,Jammu and Kashmir,9220,8840,380
+4,22,Jammu and Kashmir,10039,9632,407
+4,23,Jammu and Kashmir,10977,10550,427
+4,24,Jammu and Kashmir,11764,11310,454
+4,25,Jammu and Kashmir,12835,12341,494
+4,26,Jammu and Kashmir,13959,13436,523
+4,27,Jammu and Kashmir,14988,14442,546
+4,28,Jammu and Kashmir,16619,16054,565
+4,29,Jammu and Kashmir,18450,17869,581
+4,30,Jammu and Kashmir,19746,19132,614
+5,1,Jammu and Kashmir,21695,21056,639
+5,2,Jammu and Kashmir,23406,22794,666
+5,3,Jammu and Kashmir,26038,25337,701
+5,4,Jammu and Kashmir,28199,27473,726
+5,5,Jammu and Kashmir,31312,30571,741
+5,6,Jammu and Kashmir,34277,33502,775
+5,7,Jammu and Kashmir,37706,36913,793
+5,8,Jammu and Kashmir,42427,41604,823
+5,9,Jammu and Kashmir,44753,43917,836
+5,10,Jammu and Kashmir,47080,46291,861
+5,11,Jammu and Kashmir,51334,50455,879
+5,12,Jammu and Kashmir,53726,52792,934
+5,13,Jammu and Kashmir,57111,56140,971
+5,14,Jammu and Kashmir,63515,62532,983
+5,15,Jammu and Kashmir,70306,69293,1013
+5,16,Jammu and Kashmir,76191,75070,1121
+5,17,Jammu and Kashmir,80934,79751,1183
+5,18,Jammu and Kashmir,88601,87312,1289
+5,19,Jammu and Kashmir,96826,95509,1317
+5,20,Jammu and Kashmir,101950,100560,1390
+5,21,Jammu and Kashmir,107108,105659,1449
+5,22,Jammu and Kashmir,114859,113370,1489
+5,23,Jammu and Kashmir,124074,122505,1569
+5,24,Jammu and Kashmir,130433,128812,1621
+5,25,Jammu and Kashmir,134188,132520,1668
+5,26,Jammu and Kashmir,140962,139203,1759
+5,27,Jammu and Kashmir,145162,143241,1921
+5,28,Jammu and Kashmir,153522,151486,2036
+5,29,Jammu and Kashmir,158729,156565,2164
+5,30,Jammu and Kashmir,164581,162240,2341
+5,31,Jammu and Kashmir,171045,168599,2446
+6,1,Jammu and Kashmir,176309,173708,2601
+6,2,Jammu and Kashmir,183067,180349,2718
+6,3,Jammu and Kashmir,189364,186507,2857
+6,4,Jammu and Kashmir,195677,192535,3142
+6,5,Jammu and Kashmir,202257,198933,3324
+6,6,Jammu and Kashmir,211880,208413,3467
+6,7,Jammu and Kashmir,218481,214394,4087
+6,8,Jammu and Kashmir,227906,223621,4285
+6,9,Jammu and Kashmir,235816,231470,4346
+6,10,Jammu and Kashmir,241891,237384,4507
+6,11,Jammu and Kashmir,247267,242693,4574
+6,12,Jammu and Kashmir,254059,249329,4730
+6,13,Jammu and Kashmir,260098,255220,4878
+6,14,Jammu and Kashmir,266163,261122,5041
+6,15,Jammu and Kashmir,271416,266196,5220
+6,16,Jammu and Kashmir,276174,270876,5298
+6,17,Jammu and Kashmir,282268,276862,5406
+6,18,Jammu and Kashmir,289027,283472,5555
+6,19,Jammu and Kashmir,295202,289522,5680
+6,20,Jammu and Kashmir,301209,295375,5834
+6,21,Jammu and Kashmir,307638,301682,5956
+6,22,Jammu and Kashmir,313687,307599,6088
+6,23,Jammu and Kashmir,319664,313428,6236
+6,24,Jammu and Kashmir,326430,320008,6422
+6,25,Jammu and Kashmir,332445,325896,6549
+6,26,Jammu and Kashmir,338903,332141,6762
+6,27,Jammu and Kashmir,345426,338460,6966
+6,28,Jammu and Kashmir,351865,344772,7093
+6,29,Jammu and Kashmir,358530,351293,7237
+6,30,Jammu and Kashmir,365058,357561,7497
+7,1,Jammu and Kashmir,371486,363791,7695
+7,2,Jammu and Kashmir,377961,370112,7849
+7,3,Jammu and Kashmir,385501,377482,8019
+7,4,Jammu and Kashmir,392919,384673,8246
+7,5,Jammu and Kashmir,399385,390956,8429
+7,6,Jammu and Kashmir,406212,397537,8675
+7,7,Jammu and Kashmir,413358,404427,8931
+7,8,Jammu and Kashmir,421571,412310,9261
+7,9,Jammu and Kashmir,429787,420286,9501
+7,10,Jammu and Kashmir,437928,428040,9888
+7,11,Jammu and Kashmir,445169,435013,10156
+7,12,Jammu and Kashmir,452455,441942,10513
+7,13,Jammu and Kashmir,459703,448876,10827
+7,14,Jammu and Kashmir,466333,455160,11173
+7,15,Jammu and Kashmir,474149,462483,11666
+7,16,Jammu and Kashmir,481452,469296,12156
+7,17,Jammu and Kashmir,489382,476625,12757
+7,18,Jammu and Kashmir,498007,484809,13198
+7,19,Jammu and Kashmir,507678,493779,13899
+7,20,Jammu and Kashmir,518029,503379,14650
+7,21,Jammu and Kashmir,528946,513688,15258
+7,22,Jammu and Kashmir,537891,522180,15711
+7,23,Jammu and Kashmir,548877,532448,16429
+7,24,Jammu and Kashmir,559399,542617,16782
+7,25,Jammu and Kashmir,570508,553203,17305
+7,26,Jammu and Kashmir,581707,563787,17920
+7,27,Jammu and Kashmir,592482,574092,18390
+7,28,Jammu and Kashmir,603728,584849,18879
+7,29,Jammu and Kashmir,615380,595961,19419
+7,30,Jammu and Kashmir,627387,607518,19869
+7,31,Jammu and Kashmir,637515,617156,20359
+8,1,Jammu and Kashmir,647271,626299,20972
+8,2,Jammu and Kashmir,654117,632701,21416
+8,3,Jammu and Kashmir,662941,640935,22006
+8,4,Jammu and Kashmir,671413,649017,22396
+8,5,Jammu and Kashmir,679415,656460,22955
+8,6,Jammu and Kashmir,686808,663354,23454
+8,7,Jammu and Kashmir,695620,671693,23927
+8,8,Jammu and Kashmir,706780,682390,24390
+8,9,Jammu and Kashmir,717110,692213,24897
+8,10,Jammu and Kashmir,725542,700175,25367
+8,12,Jammu and Kashmir,750847,724434,26413
+8,13,Jammu and Kashmir,763211,736262,26949
+8,14,Jammu and Kashmir,775333,747844,27489
+8,15,Jammu and Kashmir,785475,757454,28021
+8,21,Jammu and Kashmir,844641,813270,31371
+4,10,Jharkhand,1340,1326,14
+4,11,Jharkhand,1546,1529,17
+4,12,Jharkhand,1683,1666,17
+4,13,Jharkhand,1982,1963,19
+4,14,Jharkhand,2334,2307,27
+4,17,Jharkhand,3143,3111,32
+4,18,Jharkhand,3431,3398,33
+4,19,Jharkhand,3646,3608,38
+4,20,Jharkhand,4235,4190,45
+4,22,Jharkhand,5176,5127,49
+4,23,Jharkhand,5380,5327,53
+4,24,Jharkhand,6162,6105,57
+4,25,Jharkhand,6970,6903,67
+4,26,Jharkhand,7806,7724,82
+4,27,Jharkhand,8757,8654,103
+4,28,Jharkhand,9408,9303,105
+4,29,Jharkhand,10268,10161,107
+4,30,Jharkhand,10987,10878,109
+5,1,Jharkhand,11771,11658,113
+5,2,Jharkhand,12393,12278,115
+5,3,Jharkhand,13055,12940,115
+5,4,Jharkhand,13832,13717,115
+5,5,Jharkhand,15064,14939,125
+5,6,Jharkhand,15908,15799,127
+5,7,Jharkhand,17101,16969,132
+5,8,Jharkhand,17219,17087,132
+5,9,Jharkhand,18632,18478,154
+5,10,Jharkhand,20832,20675,157
+5,11,Jharkhand,21201,21041,160
+5,12,Jharkhand,22815,22651,164
+5,13,Jharkhand,25769,25592,177
+5,14,Jharkhand,27789,27592,197
+5,15,Jharkhand,29236,29025,211
+5,16,Jharkhand,31025,30808,217
+5,17,Jharkhand,33220,32997,223
+5,18,Jharkhand,35359,35131,228
+5,19,Jharkhand,37589,37341,248
+5,20,Jharkhand,39402,39121,281
+5,21,Jharkhand,41936,41633,303
+5,22,Jharkhand,43988,43665,323
+5,23,Jharkhand,45785,45435,350
+5,24,Jharkhand,48641,48271,370
+5,25,Jharkhand,50709,50304,405
+5,26,Jharkhand,53309,52883,426
+5,27,Jharkhand,55427,54969,458
+5,28,Jharkhand,57250,56781,469
+5,29,Jharkhand,59452,58931,521
+5,30,Jharkhand,62916,62353,563
+5,31,Jharkhand,65886,65256,610
+6,1,Jharkhand,69187,68526,661
+6,2,Jharkhand,71296,70584,712
+6,3,Jharkhand,74499,73735,764
+6,4,Jharkhand,77641,76814,827
+6,5,Jharkhand,80097,79175,922
+6,6,Jharkhand,84444,83416,1028
+6,7,Jharkhand,87721,86618,1103
+6,8,Jharkhand,92325,91035,1290
+6,9,Jharkhand,95099,93683,1416
+6,10,Jharkhand,95500,94077,1423
+6,11,Jharkhand,99931,98332,1599
+6,12,Jharkhand,102092,100436,1656
+6,13,Jharkhand,103905,102194,1711
+6,14,Jharkhand,106104,104343,1761
+6,15,Jharkhand,108576,106783,1793
+6,16,Jharkhand,110813,108974,1839
+6,17,Jharkhand,113004,111109,1895
+6,18,Jharkhand,115186,113267,1919
+6,19,Jharkhand,117569,115608,1961
+6,20,Jharkhand,120892,117722,2024
+6,21,Jharkhand,121770,119681,2089
+6,22,Jharkhand,124008,121868,2140
+6,23,Jharkhand,126007,123814,2193
+6,24,Jharkhand,128214,125995,2219
+6,25,Jharkhand,131169,128908,2261
+6,26,Jharkhand,133082,130788,2294
+6,27,Jharkhand,135276,132937,2339
+6,28,Jharkhand,137438,135074,2364
+6,29,Jharkhand,139907,137481,2426
+6,30,Jharkhand,142641,140151,2490
+7,1,Jharkhand,145692,143167,2525
+7,2,Jharkhand,148738,146153,2585
+7,3,Jharkhand,151699,149002,2697
+7,4,Jharkhand,154618,151879,2739
+7,5,Jharkhand,156778,153971,2807
+7,6,Jharkhand,159176,156322,2854
+7,7,Jharkhand,161564,158546,3018
+7,8,Jharkhand,164504,161370,3134
+7,9,Jharkhand,167650,164382,3268
+7,10,Jharkhand,172032,168514,3518
+7,11,Jharkhand,176858,173195,3663
+7,12,Jharkhand,180439,176679,3760
+7,13,Jharkhand,184656,180693,3963
+7,14,Jharkhand,189851,185626,4225
+7,15,Jharkhand,196070,191508,4562
+7,16,Jharkhand,203279,198496,4783
+7,17,Jharkhand,208492,203396,5096
+7,18,Jharkhand,212299,206914,5385
+7,19,Jharkhand,215661,210109,5552
+7,20,Jharkhand,222781,217004,5777
+7,21,Jharkhand,230535,224340,6195
+7,22,Jharkhand,236438,229756,6682
+7,23,Jharkhand,243276,236110,7166
+7,24,Jharkhand,248928,241364,7564
+7,25,Jharkhand,253411,245570,7841
+7,26,Jharkhand,259096,250747,8349
+7,27,Jharkhand,264449,255646,8803
+7,28,Jharkhand,272713,263150,9563
+7,29,Jharkhand,277984,268090,9894
+7,30,Jharkhand,286178,275779,10399
+7,31,Jharkhand,294476,283162,11314
+8,1,Jharkhand,307363,295259,12104
+8,2,Jharkhand,316332,303773,12559
+8,3,Jharkhand,339560,326060,13500
+8,4,Jharkhand,345907,331837,14070
+8,5,Jharkhand,351197,336149,15048
+8,6,Jharkhand,358208,342452,15756
+8,7,Jharkhand,367757,351275,16482
+8,8,Jharkhand,374813,357345,17468
+8,9,Jharkhand,380330,362174,18156
+8,10,Jharkhand,387184,368398,18786
+8,11,Jharkhand,394315,374846,19469
+8,12,Jharkhand,402072,381815,20257
+8,13,Jharkhand,411027,390077,20950
+8,14,Jharkhand,442286,420161,22125
+8,15,Jharkhand,448188,425516,22672
+8,16,Jharkhand,455715,432491,23224
+9,25,Jharkhand,1990078,1912369,77709
+9,26,Jharkhand,2029744,1950809,78935
+9,27,Jharkhand,2059696,1979787,79909
+9,28,Jharkhand,2153151,2071734,81417
+9,29,Jharkhand,2213350,2130810,82540
+9,30,Jharkhand,2250439,2166788,83651
+10,2,Jharkhand,2320493,2235093,85400
+10,3,Jharkhand,2363412,2277135,86277
+10,4,Jharkhand,2394406,2307196,87210
+10,5,Jharkhand,2418178,2330152,88026
+10,6,Jharkhand,2465841,2376968,88873
+10,7,Jharkhand,2496645,2406943,89702
+10,8,Jharkhand,2538755,2448269,90486
+10,9,Jharkhand,2576536,2485282,91254
+10,10,Jharkhand,2615470,2523519,91951
+10,12,Jharkhand,2674672,2581637,93035
+10,13,Jharkhand,2712374,2618638,93736
+10,14,Jharkhand,2742044,2647675,94369
+10,15,Jharkhand,2767553,2672601,94952
+10,16,Jharkhand,2802066,2706641,95425
+10,17,Jharkhand,2827248,2731281,95967
+10,18,Jharkhand,2848662,2752310,96352
+10,19,Jharkhand,2882567,2785725,96842
+10,20,Jharkhand,2913412,2815998,97414
+10,21,Jharkhand,2988023,2877145,98061
+10,22,Jharkhand,3019158,2920548,98610
+10,23,Jharkhand,3058954,2959909,99045
+10,24,Jharkhand,3087671,2988243,99428
+10,25,Jharkhand,3109483,3009797,99686
+10,26,Jharkhand,3126794,3015071,99906
+10,27,Jharkhand,3152647,3052423,100224
+10,28,Jharkhand,3193717,3093148,100569
+10,29,Jharkhand,3233520,3132556,100964
+10,30,Jharkhand,3274987,3173700,101287
+10,31,Jharkhand,3362394,3260633,101761
+11,1,Jharkhand,3402867,3291685,102087
+11,2,Jharkhand,3431063,3328573,102490
+11,3,Jharkhand,3461834,3358947,102887
+11,4,Jharkhand,3503516,3400328,103188
+11,5,Jharkhand,3540776,3437233,103543
+11,6,Jharkhand,3576191,3472292,103899
+11,7,Jharkhand,3607753,3503514,104239
+11,8,Jharkhand,3632362,3527920,104442
+11,9,Jharkhand,3656926,3552238,104688
+11,10,Jharkhand,3687269,3582329,104940
+11,11,Jharkhand,3714582,3609358,105224
+11,12,Jharkhand,3738656,3633163,105493
+11,13,Jharkhand,3764342,3658561,105781
+11,14,Jharkhand,3777488,3671553,105935
+11,15,Jharkhand,3790900,3684836,106064
+11,16,Jharkhand,3807997,3701767,106230
+11,17,Jharkhand,3826168,3719677,106491
+11,18,Jharkhand,3846092,3739350,106742
+11,19,Jharkhand,3866465,3759493,106972
+11,20,Jharkhand,3881733,3774576,107157
+11,21,Jharkhand,3895808,3788476,107332
+11,22,Jharkhand,3908002,3800533,107469
+11,24,Jharkhand,3946256,3838335,107921
+11,25,Jharkhand,3965685,3857527,108158
+11,26,Jharkhand,3984496,3871608,108388
+11,27,Jharkhand,4004056,3895479,108577
+11,28,Jharkhand,4038983,3930197,108786
+11,29,Jharkhand,4134660,4025676,108984
+11,30,Jharkhand,4178915,4069764,109151
+12,2,Jharkhand,4230863,4130863,109538
+12,3,Jharkhand,4265795,4156024,109771
+12,4,Jharkhand,4292594,4182604,109990
+12,5,Jharkhand,4319581,4209395,110186
+12,6,Jharkhand,4336774,4226496,110278
+12,7,Jharkhand,4355970,4245513,110457
+12,8,Jharkhand,4382789,4272150,110639
+12,9,Jharkhand,4404165,4293335,110830
+12,10,Jharkhand,4433006,4322003,111003
+12,11,Jharkhand,4457546,4346369,111177
+12,12,Jharkhand,4478351,4366985,111366
+12,13,Jharkhand,4469879,4385369,111510
+12,14,Jharkhand,4513805,4402083,111722
+12,15,Jharkhand,4533044,4421113,111931
+12,16,Jharkhand,4551337,4439216,112121
+12,17,Jharkhand,4571733,4459401,112332
+12,18,Jharkhand,4590771,4478165,112606
+12,19,Jharkhand,4609838,4496985,112853
+12,20,Jharkhand,4624374,4511349,113025
+12,21,Jharkhand,4644830,4531632,113198
+12,22,Jharkhand,4660936,4547529,113407
+12,23,Jharkhand,4678152,4564543,113609
+12,24,Jharkhand,4697404,4583618,113786
+12,25,Jharkhand,4709623,4595669,113954
+12,26,Jharkhand,4726287,4612141,114146
+12,27,Jharkhand,4737136,4622868,114268
+12,28,Jharkhand,4753586,4639166,114428
+12,29,Jharkhand,4767543,4652893,114650
+12,30,Jharkhand,4783653,4668780,114873
+12,31,Jharkhand,4799240,4684127,115113
+4,3,Karnataka,4587,4281,128
+4,7,Karnataka,6580,5942,175
+4,8,Karnataka,6967,6473,181
+4,9,Karnataka,7613,7176,197
+4,10,Karnataka,7975,7673,207
+4,11,Karnataka,8560,8231,215
+4,12,Karnataka,9251,8831,232
+4,13,Karnataka,10017,9572,247
+4,14,Karnataka,11107,10554,260
+4,15,Karnataka,12483,11905,279
+4,16,Karnataka,13724,13074,315
+4,17,Karnataka,17594,14606,359
+4,18,Karnataka,19186,15658,384
+4,19,Karnataka,21367,17662,390
+4,20,Karnataka,23460,19497,408
+4,21,Karnataka,26233,22222,418
+4,22,Karnataka,29512,25424,427
+4,23,Karnataka,32122,28174,445
+4,24,Karnataka,35958,31914,474
+4,25,Karnataka,39083,34888,500
+4,26,Karnataka,42964,38207,503
+4,27,Karnataka,45685,43791,512
+4,28,Karnataka,50512,48508,523
+4,29,Karnataka,55404,53241,535
+4,30,Karnataka,60156,57548,565
+5,1,Karnataka,64898,61855,589
+5,2,Karnataka,69730,66475,601
+5,3,Karnataka,74898,70998,614
+5,4,Karnataka,79193,74664,651
+5,5,Karnataka,83806,78860,673
+5,6,Karnataka,88777,83056,693
+5,7,Karnataka,93535,87756,705
+5,8,Karnataka,98081,92237,753
+5,9,Karnataka,103098,97326,794
+5,10,Karnataka,107311,102266,848
+5,11,Karnataka,111595,106467,862
+5,12,Karnataka,116533,111264,925
+5,13,Karnataka,121178,119420,959
+5,14,Karnataka,128373,126766,987
+5,15,Karnataka,133724,132074,1056
+5,16,Karnataka,140024,138216,1092
+5,17,Karnataka,145398,143444,1147
+5,18,Karnataka,151663,149566,1246
+5,19,Karnataka,158599,156247,1395
+5,20,Karnataka,166781,164199,1462
+5,21,Karnataka,174297,171484,1605
+5,22,Karnataka,186526,183088,1743
+5,23,Karnataka,196196,192127,1959
+5,24,Karnataka,206313,201978,2089
+5,25,Karnataka,219894,215308,2182
+5,26,Karnataka,228914,223477,2283
+5,27,Karnataka,241608,235876,2418
+5,28,Karnataka,252078,246115,2533
+5,29,Karnataka,264489,258130,2781
+5,30,Karnataka,280217,273404,2922
+5,31,Karnataka,293575,286245,3221
+6,1,Karnataka,304816,297052,3408
+6,2,Karnataka,319628,310967,3796
+6,3,Karnataka,334825,325686,4063
+6,4,Karnataka,347093,337154,4320
+6,5,Karnataka,360720,349951,4835
+6,6,Karnataka,372582,361382,5213
+6,7,Karnataka,384442,372399,5452
+6,8,Karnataka,393221,380630,5760
+6,9,Karnataka,400257,387027,5921
+6,10,Karnataka,408506,394603,6041
+6,11,Karnataka,416506,402105,6245
+6,12,Karnataka,426341,411244,6516
+6,13,Karnataka,436518,420773,6824
+6,14,Karnataka,443969,427608,7000
+6,15,Karnataka,449331,432346,7213
+6,16,Karnataka,457267,439654,7530
+6,17,Karnataka,464798,446448,7734
+6,18,Karnataka,473507,454476,7944
+6,19,Karnataka,484060,464338,8281
+6,20,Karnataka,493893,473357,8697
+6,21,Karnataka,506765,485345,9150
+6,22,Karnataka,515969,493921,9399
+6,23,Karnataka,526538,503734,9721
+6,24,Karnataka,539247,515388,10118
+6,25,Karnataka,553325,527731,10560
+6,26,Karnataka,568058,541548,11005
+6,27,Karnataka,581635,554095,11923
+6,28,Karnataka,595470,566543,13190
+6,29,Karnataka,605159,575337,14295
+6,30,Karnataka,620747,589637,15242
+7,1,Karnataka,637417,604822,16514
+7,2,Karnataka,653627,619292,18016
+7,3,Karnataka,671934,635582,19710
+7,4,Karnataka,689526,650876,21549
+7,5,Karnataka,706425,665525,23474
+7,6,Karnataka,722305,679267,25317
+7,7,Karnataka,740047,694816,26815
+7,8,Karnataka,759181,711319,28877
+7,9,Karnataka,779209,728887,31105
+7,10,Karnataka,798437,745360,33418
+7,11,Karnataka,819024,746375,36216
+7,12,Karnataka,839074,779609,38843
+7,13,Karnataka,856148,793561,41581
+7,14,Karnataka,879822,813164,44077
+7,15,Karnataka,902026,831246,47253
+7,16,Karnataka,925477,850593,51422
+7,17,Karnataka,953417,870466,55115
+7,18,Karnataka,982701,899016,59652
+7,19,Karnataka,999530,927945,63772
+7,20,Karnataka,1025420,958311,67420
+7,21,Karnataka,1051976,963725,71069
+7,22,Karnataka,1079749,1002045,75833
+4,1,Kerala,7965,7256,265
+4,2,Kerala,8456,7622,286
+4,3,Kerala,9139,8126,295
+4,4,Kerala,9744,8586,306
+4,5,Kerala,10221,9300,314
+4,6,Kerala,10716,9607,327
+4,7,Kerala,11232,10250,336
+4,8,Kerala,11986,10906,354
+4,9,Kerala,12710,11469,357
+4,10,Kerala,13339,12335,364
+4,11,Kerala,14163,12818,373
+4,12,Kerala,14989,13802,375
+4,13,Kerala,15683,14829,378
+4,14,Kerala,16235,15488,386
+4,15,Kerala,16475,16002,387
+4,16,Kerala,17400,16459,394
+4,17,Kerala,18029,17279,395
+4,18,Kerala,18774,17763,399
+4,19,Kerala,19351,18547,401
+4,20,Kerala,19756,19074,408
+4,21,Kerala,20252,19442,426
+4,22,Kerala,20821,19998,437
+4,23,Kerala,21334,20326,447
+4,24,Kerala,21940,20830,450
+4,25,Kerala,22360,21475,457
+4,26,Kerala,22954,21997,468
+4,27,Kerala,24146,23148,481
+4,28,Kerala,24855,24078,485
+4,29,Kerala,25827,24681,495
+4,30,Kerala,27481,26032,497
+5,1,Kerala,29012,27224,497
+5,2,Kerala,33276,31592,499
+5,3,Kerala,34608,33294,499
+5,4,Kerala,35441,34161,499
+5,5,Kerala,36312,35244,502
+5,6,Kerala,37546,36210,502
+5,7,Kerala,38206,36856,502
+5,8,Kerala,39266,38294,503
+5,9,Kerala,40123,39233,505
+5,10,Kerala,41279,40155,512
+5,11,Kerala,41700,40889,512
+5,12,Kerala,42461,41621,524
+5,13,Kerala,43648,42574,534
+5,14,Kerala,45039,43868,560
+5,15,Kerala,46831,45063,576
+5,16,Kerala,48433,46458,587
+5,17,Kerala,50036,47964,601
+5,18,Kerala,51059,49763,630
+5,19,Kerala,52588,50867,642
+5,20,Kerala,54633,52689,666
+5,21,Kerala,56373,54541,690
+5,22,Kerala,58382,56165,733
+5,23,Kerala,60443,58192,795
+5,24,Kerala,61900,59943,848
+5,25,Kerala,63009,61698,897
+5,26,Kerala,65303,63010,964
+5,27,Kerala,67961,65099,1004
+5,28,Kerala,70622,67677,1089
+5,29,Kerala,74214,71083,1151
+5,30,Kerala,77257,73775,1209
+5,31,Kerala,77508,75697,1270
+6,1,Kerala,82449,78310,1327
+6,2,Kerala,86169,81157,1413
+6,3,Kerala,95348,84870,1495
+6,4,Kerala,99692,87403,1589
+6,5,Kerala,104045,92818,1700
+6,6,Kerala,107796,97114,1808
+6,7,Kerala,111930,100319,1915
+6,8,Kerala,113956,103472,2006
+6,9,Kerala,126088,111892,2097
+6,10,Kerala,131006,116425,2162
+6,11,Kerala,135974,130857,2245
+6,12,Kerala,140457,134743,2323
+4,14,Ladakh,760,615,17
+4,15,Ladakh,820,657,18
+4,16,Ladakh,917,695,18
+4,19,Ladakh,991,797,18
+4,21,Ladakh,1137,896,18
+4,29,Ladakh,1949,1299,22
+4,30,Ladakh,2245,1384,22
+5,1,Ladakh,2430,1545,22
+5,2,Ladakh,2434,1618,23
+5,3,Ladakh,2434,1674,41
+5,4,Ladakh,2639,1879,41
+5,9,Ladakh,3503,2948,42
+5,13,Ladakh,3683,3353,43
+5,16,Ladakh,4067,3571,43
+5,18,Ladakh,4219,3791,43
+5,19,Ladakh,4730,3935,43
+5,21,Ladakh,5291,4081,44
+5,22,Ladakh,5505,4173,44
+5,23,Ladakh,5727,4505,49
+5,24,Ladakh,5730,4733,52
+5,25,Ladakh,5896,4894,53
+5,30,Ladakh,7354,6145,74
+5,31,Ladakh,7354,6167,77
+6,2,Ladakh,8310,6465,81
+6,5,Ladakh,9754,7204,97
+6,6,Ladakh,10164,7214,99
+6,9,Ladakh,10249,7888,108
+6,11,Ladakh,10855,8222,135
+6,12,Ladakh,10986,8460,239
+6,13,Ladakh,11135,8814,437
+6,14,Ladakh,11135,9087,539
+6,15,Ladakh,11260,9456,555
+6,16,Ladakh,11537,9660,649
+6,17,Ladakh,11626,9833,687
+6,18,Ladakh,12082,9901,687
+6,19,Ladakh,12516,10091,744
+6,20,Ladakh,12838,10307,836
+6,21,Ladakh,12838,10398,837
+6,22,Ladakh,13018,10715,847
+6,23,Ladakh,13118,10927,932
+6,24,Ladakh,13313,11191,932
+6,25,Ladakh,13521,11285,941
+6,26,Ladakh,13636,11563,946
+6,27,Ladakh,13717,11775,960
+6,29,Ladakh,13886,11880,964
+7,1,Ladakh,14076,12095,990
+7,2,Ladakh,14272,12142,990
+7,3,Ladakh,14361,12274,1001
+7,4,Ladakh,14537,12304,1005
+7,5,Ladakh,14537,12319,1005
+7,7,Ladakh,14833,12557,1041
+7,8,Ladakh,14938,12659,1047
+7,9,Ladakh,15067,12763,1055
+7,10,Ladakh,15186,12869,1064
+7,11,Ladakh,15293,12940,1077
+7,12,Ladakh,15295,13011,1086
+7,13,Ladakh,15393,13084,1093
+7,14,Ladakh,15603,13147,1128
+7,16,Ladakh,15830,13341,1147
+7,18,Ladakh,16192,13476,1159
+7,19,Ladakh,16225,13665,1178
+7,20,Ladakh,16467,13712,1195
+7,22,Ladakh,16850,13846,1206
+7,24,Ladakh,17395,14245,1246
+7,25,Ladakh,17625,14343,1276
+7,26,Ladakh,17626,14564,1285
+7,27,Ladakh,18071,14701,1306
+7,28,Ladakh,18438,14904,1327
+7,29,Ladakh,18849,14999,1347
+7,30,Ladakh,19143,15277,1378
+7,31,Ladakh,19465,15471,1404
+8,1,Ladakh,19833,15816,1462
+8,2,Ladakh,19860,15910,1466
+8,3,Ladakh,20240,15944,1485
+8,4,Ladakh,20601,16193,1534
+8,5,Ladakh,20978,16509,1592
+8,6,Ladakh,21383,16774,1595
+8,7,Ladakh,21740,17013,1614
+8,8,Ladakh,22013,17139,1639
+8,9,Ladakh,22015,17380,1688
+8,10,Ladakh,22161,17513,1717
+8,11,Ladakh,22709,17880,1770
+8,12,Ladakh,23034,18040,1811
+8,13,Ladakh,23430,18370,1849
+8,14,Ladakh,24197,18888,1879
+8,15,Ladakh,24253,19052,1909
+9,26,Ladakh,52003,44243,4093
+9,29,Ladakh,53758,45828,4195
+10,2,Ladakh,56277,47893,4429
+10,6,Ladakh,58978,50484,4720
+4,5,Madhya Pradesh,2812,1954,193
+4,7,Madhya Pradesh,3770,3125,290
+4,8,Madhya Pradesh,4056,3443,341
+4,9,Madhya Pradesh,5135,3989,411
+4,10,Madhya Pradesh,7049,4840,451
+4,11,Madhya Pradesh,8516,5790,529
+4,12,Madhya Pradesh,10481,6875,562
+4,13,Madhya Pradesh,10481,6875,614
+4,14,Madhya Pradesh,8105,7103,741
+4,15,Madhya Pradesh,9596,8658,938
+4,16,Madhya Pradesh,13492,12326,1164
+4,17,Madhya Pradesh,15302,13992,1310
+4,18,Madhya Pradesh,14978,13576,1402
+4,19,Madhya Pradesh,17835,16428,1407
+4,20,Madhya Pradesh,19142,17657,1485
+4,21,Madhya Pradesh,20905,19353,1552
+4,22,Madhya Pradesh,22664,21077,1587
+4,23,Madhya Pradesh,24548,22861,1687
+4,24,Madhya Pradesh,26233,24387,1846
+4,25,Madhya Pradesh,27866,25921,1945
+4,26,Madhya Pradesh,25232,21716,2090
+4,27,Madhya Pradesh,27009,23500,2165
+4,28,Madhya Pradesh,31060,26159,2387
+4,29,Madhya Pradesh,33837,29261,2560
+4,30,Madhya Pradesh,41712,29816,2625
+5,1,Madhya Pradesh,44116,39353,2715
+5,2,Madhya Pradesh,46578,41460,2788
+5,3,Madhya Pradesh,49186,43937,2837
+5,4,Madhya Pradesh,52095,46634,2942
+5,5,Madhya Pradesh,54595,48931,3049
+5,6,Madhya Pradesh,54595,51479,3138
+5,7,Madhya Pradesh,61020,55002,3252
+5,8,Madhya Pradesh,63705,57528,3341
+5,9,Madhya Pradesh,68010,61629,3457
+5,10,Madhya Pradesh,72069,65436,3614
+5,11,Madhya Pradesh,76039,69187,3785
+5,12,Madhya Pradesh,80885,73761,3986
+5,13,Madhya Pradesh,85903,77738,4173
+5,14,Madhya Pradesh,89760,82028,4426
+5,15,Madhya Pradesh,93849,85879,4595
+5,16,Madhya Pradesh,99677,91393,4790
+5,17,Madhya Pradesh,103898,95355,4977
+5,18,Madhya Pradesh,112168,100469,5236
+5,19,Madhya Pradesh,116473,104348,5465
+5,20,Madhya Pradesh,120737,108744,5735
+5,21,Madhya Pradesh,125608,112947,5981
+5,22,Madhya Pradesh,129060,116835,6170
+5,23,Madhya Pradesh,132769,121033,6371
+5,24,Madhya Pradesh,135889,124549,6665
+5,25,Madhya Pradesh,138584,128267,6859
+5,26,Madhya Pradesh,141508,131415,7024
+5,27,Madhya Pradesh,146144,134774,7261
+5,28,Madhya Pradesh,151182,138387,7453
+5,29,Madhya Pradesh,155436,142383,7645
+5,30,Madhya Pradesh,161552,146616,7891
+5,31,Madhya Pradesh,167808,151793,8089
+6,1,Madhya Pradesh,172019,157790,8283
+6,2,Madhya Pradesh,177481,163100,8420
+6,3,Madhya Pradesh,183662,168219,8588
+6,4,Madhya Pradesh,189252,173392,8762
+6,5,Madhya Pradesh,195249,179234,8996
+6,6,Madhya Pradesh,200913,184202,9228
+6,7,Madhya Pradesh,208514,190155,9401
+6,8,Madhya Pradesh,215194,196497,9638
+6,9,Madhya Pradesh,220936,203131,9849
+6,10,Madhya Pradesh,228042,210081,10049
+6,11,Madhya Pradesh,233740,217860,10241
+6,12,Madhya Pradesh,241461,224064,10443
+6,13,Madhya Pradesh,246973,231123,10641
+6,14,Madhya Pradesh,252762,236649,10802
+6,15,Madhya Pradesh,258040,242117,10935
+6,16,Madhya Pradesh,263983,247196,11083
+6,17,Madhya Pradesh,271205,253474,11244
+6,18,Madhya Pradesh,277451,260395,11426
+6,19,Madhya Pradesh,282674,267247,11582
+6,20,Madhya Pradesh,290831,273628,11724
+6,21,Madhya Pradesh,296943,280480,11903
+6,22,Madhya Pradesh,302673,286516,12078
+6,23,Madhya Pradesh,307812,291733,12261
+6,24,Madhya Pradesh,314978,298712,12448
+6,25,Madhya Pradesh,321595,305182,12595
+6,26,Madhya Pradesh,329079,312463,12798
+6,27,Madhya Pradesh,337041,320258,12965
+6,28,Madhya Pradesh,344836,327832,13186
+6,29,Madhya Pradesh,353612,336424,13370
+6,30,Madhya Pradesh,365467,346060,13593
+7,1,Madhya Pradesh,372811,355136,13861
+7,2,Madhya Pradesh,380655,362735,14106
+7,3,Madhya Pradesh,389180,371069,14297
+7,4,Madhya Pradesh,398329,379911,14604
+7,5,Madhya Pradesh,407882,389138,14930
+7,6,Madhya Pradesh,417402,398304,15284
+7,7,Madhya Pradesh,427143,407702,15627
+7,8,Madhya Pradesh,437930,418080,16036
+7,9,Madhya Pradesh,449680,429525,16341
+7,10,Madhya Pradesh,460941,440470,16657
+7,11,Madhya Pradesh,474461,453446,17201
+7,12,Madhya Pradesh,486176,465270,17632
+7,13,Madhya Pradesh,509223,486956,18207
+7,14,Madhya Pradesh,521700,498635,19005
+7,15,Madhya Pradesh,540483,516780,19643
+7,16,Madhya Pradesh,553082,528644,20378
+7,17,Madhya Pradesh,567364,542222,21082
+7,18,Madhya Pradesh,583655,557831,21763
+7,19,Madhya Pradesh,599640,572979,22600
+7,20,Madhya Pradesh,615862,588491,23310
+7,21,Madhya Pradesh,631067,602911,24095
+7,22,Madhya Pradesh,645003,616100,24842
+7,23,Madhya Pradesh,658869,629334,25474
+7,24,Madhya Pradesh,670155,639884,26210
+7,25,Madhya Pradesh,684419,653432,26926
+7,26,Madhya Pradesh,698171,666310,27800
+7,27,Madhya Pradesh,711982,679332,28589
+7,28,Madhya Pradesh,724673,691395,29217
+7,29,Madhya Pradesh,738986,704791,30134
+7,30,Madhya Pradesh,752924,717895,30968
+7,31,Madhya Pradesh,767571,731704,31806
+8,1,Madhya Pradesh,783769,747094,32614
+8,2,Madhya Pradesh,799500,761904,33535
+8,3,Madhya Pradesh,812362,774016,34285
+8,4,Madhya Pradesh,825723,786580,35082
+8,5,Madhya Pradesh,838041,798246,35734
+8,6,Madhya Pradesh,846484,805859,36564
+8,7,Madhya Pradesh,859921,818562,37298
+8,8,Madhya Pradesh,874678,832460,38157
+8,9,Madhya Pradesh,891698,848394,39025
+8,10,Madhya Pradesh,909926,865756,39891
+8,15,Madhya Pradesh,1013332,964620,44433
+8,18,Madhya Pradesh,1072575,1020921,47375
+8,21,Madhya Pradesh,1133826,1078907,50640
+4,6,Maharashtra,17563,15808,868
+4,7,Maharashtra,20877,19290,1018
+4,9,Maharashtra,20877,19290,868
+4,10,Maharashtra,30000,28865,1135
+4,11,Maharashtra,31841,30477,1761
+4,12,Maharashtra,35668,34094,1761
+4,13,Maharashtra,39725,37964,1996
+4,14,Maharashtra,41071,39089,2340
+4,15,Maharashtra,45142,42808,2690
+4,16,Maharashtra,50882,48198,2916
+4,17,Maharashtra,55678,52762,3204
+4,18,Maharashtra,60166,56964,3323
+4,19,Maharashtra,66796,63476,3651
+4,20,Maharashtra,71321,67673,4204
+4,21,Maharashtra,75838,71638,4676
+4,22,Maharashtra,82304,77638,5229
+4,23,Maharashtra,89197,83979,5218
+4,24,Maharashtra,95210,89561,6427
+4,25,Maharashtra,100912,94485,6817
+4,26,Maharashtra,107979,101162,7928
+4,27,Maharashtra,115147,107519,8068
+4,28,Maharashtra,120620,112552,8590
+4,29,Maharashtra,128726,120136,9318
+4,30,Maharashtra,135694,126376,9915
+5,1,Maharashtra,144159,134244,10498
+5,2,Maharashtra,151085,140587,11506
+5,3,Maharashtra,159754,148248,12296
+5,4,Maharashtra,168374,156078,12974
+5,5,Maharashtra,175323,162349,14541
+5,6,Maharashtra,181746,167205,15525
+5,7,Maharashtra,189220,173838,16758
+5,8,Maharashtra,200477,183862,17974
+5,9,Maharashtra,210174,192197,19063
+5,10,Maharashtra,225524,206481,20228
+5,11,Maharashtra,218914,193457,23401
+5,12,Maharashtra,222284,196165,23401
+5,13,Maharashtra,231061,203536,24427
+5,14,Maharashtra,240482,211082,25922
+5,15,Maharashtra,250898,219635,27524
+5,16,Maharashtra,261815,228956,29100
+5,17,Maharashtra,274040,238476,30706
+5,18,Maharashtra,282437,245512,33053
+5,19,Maharashtra,294272,255065,35058
+5,20,Maharashtra,307535,265872,37136
+5,21,Maharashtra,319921,276369,39297
+5,22,Maharashtra,333087,286157,41642
+5,23,Maharashtra,348932,299107,44582
+5,24,Maharashtra,363470,310565,47190
+5,25,Maharashtra,379185,323937,50231
+5,26,Maharashtra,390757,333468,52667
+5,27,Maharashtra,405020,345151,54758
+5,28,Maharashtra,420473,358253,56948
+5,29,Maharashtra,434565,369442,59546
+5,30,Maharashtra,448661,380425,62228
+5,31,Maharashtra,463177,392516,65168
+6,1,Maharashtra,472344,399419,67655
+6,2,Maharashtra,484784,409178,70013
+6,3,Maharashtra,498577,420644,72300
+6,4,Maharashtra,511136,430100,74860
+6,5,Maharashtra,524002,440445,77793
+6,6,Maharashtra,538009,451764,80229
+6,7,Maharashtra,553063,463723,82968
+6,8,Maharashtra,565290,473588,85975
+6,9,Maharashtra,579294,485144,88528
+6,10,Maharashtra,595282,497990,90787
+6,11,Maharashtra,610790,509990,94041
+6,12,Maharashtra,626521,521942,97648
+6,13,Maharashtra,643057,535252,101141
+6,14,Maharashtra,659481,548250,104568
+6,15,Maharashtra,671348,557161,107958
+6,16,Maharashtra,686488,569863,110744
+6,18,Maharashtra,719637,595843,123794
+6,19,Maharashtra,737597,609968,120504
+6,20,Maharashtra,756809,624869,124331
+6,21,Maharashtra,775958,639731,128205
+6,22,Maharashtra,789016,649446,132075
+6,23,Maharashtra,804726,662098,142628
+6,24,Maharashtra,826139,679328,146811
+6,25,Maharashtra,850410,698587,151823
+6,26,Maharashtra,873570,717113,156457
+6,27,Maharashtra,900423,738255,162168
+6,28,Maharashtra,926934,758546,168388
+6,29,Maharashtra,946518,773291,173227
+6,30,Maharashtra,970161,792216,177945
+7,1,Maharashtra,995343,811657,183686
+7,2,Maharashtra,1023296,833225,190071
+7,3,Maharashtra,1052643,856238,196405
+7,4,Maharashtra,1085160,881344,203816
+7,5,Maharashtra,1116112,905891,210221
+7,6,Maharashtra,1138706,922627,216079
+7,7,Maharashtra,1164860,944044,220816
+7,8,Maharashtra,1194565,966881,227684
+7,9,Maharashtra,1225831,990978,234853
+7,10,Maharashtra,1257564,1014697,242867
+7,11,Maharashtra,1289325,1037883,251442
+7,12,Maharashtra,1321715,1062678,259037
+7,13,Maharashtra,1345128,1079404,265724
+7,14,Maharashtra,1376203,1103811,272392
+7,15,Maharashtra,1413185,1132434,280751
+7,16,Maharashtra,1450129,1161433,288696
+7,17,Maharashtra,1487738,1190958,296780
+7,18,Maharashtra,1526037,1220496,305541
+7,19,Maharashtra,1568229,1252842,315387
+7,20,Maharashtra,1603802,1279592,324210
+7,21,Maharashtra,1643981,1311150,332831
+7,22,Maharashtra,1691546,1348610,342936
+7,23,Maharashtra,1741992,1389232,352760
+7,24,Maharashtra,1790610,1428194,362416
+7,25,Maharashtra,1840445,1468714,371731
+7,26,Maharashtra,1890256,1508804,381452
+7,27,Maharashtra,1928333,1538461,389872
+7,28,Maharashtra,1972346,1574833,397513
+7,29,Maharashtra,2021437,1613560,407877
+7,30,Maharashtra,2075528,1656194,419334
+7,31,Maharashtra,2133720,1705036,428684
+8,1,Maharashtra,2198423,1759503,438920
+8,2,Maharashtra,2260160,1811742,448418
+8,3,Maharashtra,2301514,1844038,457476
+8,4,Maharashtra,2354414,1888263,466151
+8,5,Maharashtra,2418299,1941132,477167
+8,6,Maharashtra,2492194,2003524,488670
+8,7,Maharashtra,2574594,2074571,500023
+8,8,Maharashtra,2654681,2141453,513228
+8,9,Maharashtra,2730285,2204204,526081
+8,10,Maharashtra,2776849,2241214,535635
+8,11,Maharashtra,2841240,2294458,546782
+8,12,Maharashtra,2913686,2353630,560056
+8,13,Maharashtra,2981077,2409582,571495
+8,14,Maharashtra,3049468,2464684,584784
+8,15,Maharashtra,3115716,2519062,596654
+8,16,Maharashtra,3165550,2557919,607631
+8,17,Maharashtra,3208735,2592249,616486
+8,18,Maharashtra,3267625,2641156,626469
+8,19,Maharashtra,3343052,2701358,641694
+8,20,Maharashtra,3419643,2763170,656473
+8,21,Maharashtra,3498166,2826129,672037
+8,22,Maharashtra,3575566,2887721,687845
+8,23,Maharashtra,3621321,2923183,698138
+8,24,Maharashtra,3667937,2958512,709425
+8,25,Maharashtra,3711123,2994256,716867
+8,26,Maharashtra,3798306,3063444,734862
+8,27,Maharashtra,3868755,3118343,750412
+8,28,Maharashtra,3939761,3175205,764556
+8,29,Maharashtra,4017175,3236218,780957
+8,30,Maharashtra,4092620,3293650,798970
+8,31,Maharashtra,4145123,3333326,811797
+9,1,Maharashtra,4212148,3391525,820623
+9,2,Maharashtra,4288999,3447952,841047
+9,3,Maharashtra,4382985,3520973,862012
+9,4,Maharashtra,4474971,3592421,882550
+9,5,Maharashtra,4565368,3662248,903120
+9,6,Maharashtra,4655545,3728267,927278
+9,7,Maharashtra,4712017,3768353,943664
+9,8,Maharashtra,4792351,3828396,963955
+9,9,Maharashtra,4890086,3898872,991214
+9,11,Maharashtra,5072521,4056840,1015681
+9,12,Maharashtra,5164840,4127075,1037765
+9,13,Maharashtra,5253676,4193368,1060308
+9,14,Maharashtra,5321116,4243742,1077374
+9,15,Maharashtra,5409060,4311204,1097856
+9,16,Maharashtra,5506276,4385055,1121221
+9,17,Maharashtra,5604890,4459050,1145840
+9,18,Maharashtra,5693345,4525849,1167496
+9,19,Maharashtra,5786147,4598132,1188015
+9,20,Maharashtra,5872241,4663599,1208642
+9,21,Maharashtra,5912258,4687878,1224380
+9,22,Maharashtra,6017284,4774514,1242770
+9,23,Maharashtra,6106787,4842988,1263799
+9,24,Maharashtra,6190389,4907426,1282963
+9,25,Maharashtra,6280788,4980031,1300757
+9,26,Maharashtra,6376676,5055500,1321176
+9,27,Maharashtra,6565649,5226417,1339232
+9,28,Maharashtra,6622384,5271231,1351153
+9,29,Maharashtra,6698024,5331895,1366129
+9,30,Maharashtra,6785205,5400759,1384446
+10,1,Maharashtra,6875451,5474529,1400922
+10,2,Maharashtra,6960203,5543690,1416513
+10,3,Maharashtra,7035296,5604435,1430861
+10,4,Maharashtra,7111204,5667795,1443409
+10,5,Maharashtra,7169887,5716234,1453653
+10,6,Maharashtra,7241376,5775465,1465911
+10,7,Maharashtra,7324188,5843699,1480489
+10,8,Maharashtra,7404231,5910347,1493884
+10,9,Maharashtra,7487383,5981365,1506018
+10,10,Maharashtra,7569447,6052013,1517434
+10,11,Maharashtra,7643584,6115358,1528226
+10,12,Maharashtra,7697906,6162591,1535315
+10,13,Maharashtra,7762005,6218168,1543837
+10,14,Maharashtra,7838318,6283929,1554389
+10,15,Maharashtra,7914651,6350036,1564615
+10,16,Maharashtra,7989693,6413631,1576062
+10,17,Maharashtra,8069100,6482779,1586321
+10,18,Maharashtra,8139466,6544085,1595381
+10,20,Maharashtra,8251234,6641718,1609516
+4,16,Meghalaya,552,299,7
+4,17,Meghalaya,617,541,9
+4,18,Meghalaya,738,667,11
+4,19,Meghalaya,766,678,11
+4,20,Meghalaya,838,714,11
+4,21,Meghalaya,933,821,12
+4,22,Meghalaya,1046,904,12
+4,23,Meghalaya,1109,1000,12
+4,24,Meghalaya,1130,1048,12
+4,25,Meghalaya,1169,1097,12
+4,27,Meghalaya,1254,1182,12
+4,28,Meghalaya,1382,1202,12
+4,29,Meghalaya,1397,1288,12
+4,30,Meghalaya,1595,1433,12
+5,2,Meghalaya,1707,1655,12
+5,4,Meghalaya,1884,1782,12
+5,5,Meghalaya,1944,1822,12
+5,7,Meghalaya,2054,1967,12
+5,9,Meghalaya,2287,2178,12
+5,10,Meghalaya,2287,2178,13
+5,11,Meghalaya,2480,2342,13
+5,15,Meghalaya,2712,2597,13
+5,26,Meghalaya,6553,5599,15
+6,27,Meghalaya,18288,17741,48
+6,28,Meghalaya,18441,17741,50
+6,29,Meghalaya,18707,18651,51
+6,30,Meghalaya,19294,18651,52
+7,16,Meghalaya,25263,24597,377
+7,17,Meghalaya,25981,25178,403
+7,18,Meghalaya,26940,26000,418
+7,19,Meghalaya,26940,26000,450
+7,20,Meghalaya,28163,26000,469
+7,21,Meghalaya,29274,28167,490
+7,22,Meghalaya,30009,28167,514
+7,23,Meghalaya,30796,28967,534
+7,25,Meghalaya,32470,31085,595
+7,27,Meghalaya,34127,32766,738
+7,28,Meghalaya,34362,33492,794
+7,29,Meghalaya,34903,34239,794
+7,30,Meghalaya,35572,34657,803
+7,31,Meghalaya,35572,34657,818
+8,3,Meghalaya,38596,37004,902
+8,4,Meghalaya,38977,37004,913
+8,5,Meghalaya,38977,37004,929
+8,6,Meghalaya,39553,38412,990
+8,7,Meghalaya,39782,39008,1006
+8,8,Meghalaya,40631,39008,1023
+8,9,Meghalaya,40700,39008,1062
+4,6,Mizoram,58,0,1
+4,7,Mizoram,58,0,1
+4,6,Nagaland,60,47,0
+4,10,Nagaland,70,69,0
+4,11,Nagaland,70,70,0
+4,12,Nagaland,74,70,0
+4,14,Nagaland,174,97,0
+4,15,Nagaland,184,174,0
+4,17,Nagaland,274,222,0
+4,18,Nagaland,392,292,0
+4,19,Nagaland,404,345,0
+4,20,Nagaland,434,404,0
+4,21,Nagaland,537,456,0
+4,22,Nagaland,543,481,0
+4,23,Nagaland,607,543,0
+4,25,Nagaland,613,607,0
+4,26,Nagaland,613,613,0
+4,27,Nagaland,629,613,0
+4,28,Nagaland,639,620,0
+4,29,Nagaland,644,631,0
+4,30,Nagaland,653,640,0
+5,1,Nagaland,664,650,0
+5,2,Nagaland,674,661,0
+5,3,Nagaland,684,663,0
+5,4,Nagaland,708,679,0
+5,5,Nagaland,724,771,0
+5,6,Nagaland,763,712,0
+5,7,Nagaland,786,728,0
+5,8,Nagaland,805,775,0
+5,9,Nagaland,848,786,0
+5,10,Nagaland,862,806,0
+5,11,Nagaland,875,848,0
+5,12,Nagaland,882,872,0
+5,13,Nagaland,889,872,0
+5,14,Nagaland,891,873,0
+5,15,Nagaland,910,889,0
+5,16,Nagaland,917,891,0
+5,17,Nagaland,952,914,0
+5,18,Nagaland,961,914,0
+5,19,Nagaland,978,948,0
+5,20,Nagaland,985,952,0
+5,21,Nagaland,1001,978,0
+5,22,Nagaland,1035,1012,0
+5,23,Nagaland,1065,1015,0
+5,24,Nagaland,1097,1032,0
+5,25,Nagaland,1366,1078,3
+5,26,Nagaland,1366,1080,4
+5,27,Nagaland,1554,1224,9
+5,28,Nagaland,1765,1317,18
+5,29,Nagaland,1997,1409,25
+5,30,Nagaland,2210,1496,36
+5,31,Nagaland,2576,1596,43
+6,1,Nagaland,2870,1744,43
+6,2,Nagaland,3257,1836,49
+6,3,Nagaland,3414,2002,58
+6,4,Nagaland,3739,2151,80
+6,5,Nagaland,3974,2372,94
+6,6,Nagaland,4061,2614,107
+6,7,Nagaland,4371,2956,118
+6,8,Nagaland,4729,3176,123
+6,9,Nagaland,4896,3512,127
+6,10,Nagaland,5220,3867,128
+6,11,Nagaland,5667,4198,130
+6,12,Nagaland,6104,4593,156
+6,13,Nagaland,6466,4904,163
+6,14,Nagaland,6478,5155,168
+6,15,Nagaland,7132,5642,177
+6,16,Nagaland,7835,6232,179
+6,18,Nagaland,9039,7567,193
+6,19,Nagaland,10102,8213,198
+6,20,Nagaland,9128, ,201
+4,3,Odisha,1395,1108,20
+4,8,Odisha,2441,2399,42
+4,9,Odisha,3249,3201,48
+4,10,Odisha,3547,3497,50
+4,11,Odisha,3551,3497,51
+4,12,Odisha,3862,3808,54
+4,13,Odisha,4170,4116,54
+4,14,Odisha,4734,4678,56
+4,15,Odisha,5537,5477,60
+4,16,Odisha,6734,6674,60
+4,17,Odisha,7577,7517,60
+4,18,Odisha,8619,8559,60
+4,19,Odisha,9690,9629,61
+4,18,Puducherry,1207,1159,7
+4,19,Puducherry,1245,1214,7
+4,20,Puducherry,1272,1232,7
+4,21,Puducherry,1319,1272,7
+4,22,Puducherry,1473,1354,7
+4,23,Puducherry,1548,1513,7
+4,24,Puducherry,1704,1657,7
+4,25,Puducherry,1864,1793,8
+4,26,Puducherry,1977,1902,8
+4,27,Puducherry,2014,1942,8
+4,28,Puducherry,2156,2099,8
+4,29,Puducherry,2228,2150,8
+4,30,Puducherry,2353,2292,8
+5,1,Puducherry,2698,2583,9
+5,2,Puducherry,2990,2902,12
+5,3,Puducherry,3155,3097,12
+5,4,Puducherry,3281,3220,12
+5,5,Puducherry,3560,3444,12
+5,6,Puducherry,3641,3554,12
+5,7,Puducherry,3866,3766,13
+5,8,Puducherry,4111,3866,15
+5,9,Puducherry,4266,4028,16
+5,10,Puducherry,4364,4273,17
+5,11,Puducherry,4486,4416,17
+5,13,Puducherry,4919,4832,18
+5,14,Puducherry,5112,4963,18
+5,15,Puducherry,5312,5162,21
+5,16,Puducherry,5484,5320,22
+5,17,Puducherry,5619,5501,22
+5,18,Puducherry,5754,5709,22
+5,19,Puducherry,5829,5762,22
+5,20,Puducherry,5960,5889,24
+5,21,Puducherry,6106,5995,31
+5,22,Puducherry,6233,6143,32
+5,23,Puducherry,6349,6254,39
+5,24,Puducherry,6536,6444,45
+5,25,Puducherry,6606,6537,47
+5,26,Puducherry,6677,6593,52
+5,27,Puducherry,6808,6711,60
+5,28,Puducherry,6917,6286,61
+5,29,Puducherry,7043,6910,65
+5,30,Puducherry,7164,7004,71
+5,31,Puducherry,7255,7116,81
+6,1,Puducherry,7354,7198,81
+6,2,Puducherry,7444,7339,91
+6,3,Puducherry,7576,7447,98
+6,4,Puducherry,7794,7647,109
+6,5,Puducherry,7963,7791,115
+6,6,Puducherry,8118,7968,118
+6,7,Puducherry,8274,8112,130
+6,8,Puducherry,8472,8293,139
+6,9,Puducherry,8752,8548,143
+6,10,Puducherry,8954,8712,156
+6,11,Puducherry,9250,8979,168
+6,12,Puducherry,9658,9351,175
+6,13,Puducherry,10008,9636,193
+6,14,Puducherry,10321,9872,206
+6,15,Puducherry,10486,10231,214
+6,16,Puducherry,10929,10511,233
+6,17,Puducherry,11356,10920,257
+6,18,Puducherry,11679,11230,285
+6,19,Puducherry,11992,11486,301
+6,20,Puducherry,12409,11866,353
+6,21,Puducherry,12781,12233,389
+6,22,Puducherry,13037,12526,407
+6,23,Puducherry,13435,12835,426
+6,24,Puducherry,13861,13171,489
+6,25,Puducherry,14267,13474,532
+6,26,Puducherry,14689,13908,565
+6,27,Puducherry,15225,14380,654
+6,28,Puducherry,15892,14969,682
+6,29,Puducherry,16479,15596,690
+6,30,Puducherry,17281,16180,714
+7,1,Puducherry,18092,16984,739
+7,2,Puducherry,18791,17645,802
+7,3,Puducherry,19560,18375,824
+7,4,Puducherry,20186,18848,904
+7,5,Puducherry,20778,19324,946
+7,6,Puducherry,21382,19996,1009
+7,7,Puducherry,22055,20480,1041
+7,8,Puducherry,22743,21242,1151
+7,9,Puducherry,23515,21982,1200
+7,10,Puducherry,24485,22819,1272
+7,11,Puducherry,25342,23697,1337
+7,12,Puducherry,26208,24461,1418
+7,13,Puducherry,26592,24863,1468
+7,14,Puducherry,27229,25264,1531
+7,15,Puducherry,27916,25907,1596
+7,16,Puducherry,28995,26781,1743
+7,17,Puducherry,29851,27542,1832
+7,18,Puducherry,30652,28214,1894
+7,19,Puducherry,31420,28975,1999
+7,20,Puducherry,31947,29495,2092
+7,21,Puducherry,32468,29675,2183
+7,22,Puducherry,33096,30260,2300
+7,23,Puducherry,33658,30648,2420
+7,24,Puducherry,34305,31142,2515
+7,25,Puducherry,35080,31894,2654
+7,26,Puducherry,35704,32291,2787
+7,27,Puducherry,36288,32837,2872
+7,28,Puducherry,37162,33369,3011
+7,29,Puducherry,37999,33991,3177
+7,30,Puducherry,38734,34606,3298
+7,31,Puducherry,39707,35345,3472
+8,1,Puducherry,40652,36142,3606
+8,2,Puducherry,41540,36894,3806
+8,3,Puducherry,41485,37000,3982
+8,4,Puducherry,43134,38073,4147
+8,5,Puducherry,44158,38854,4433
+8,6,Puducherry,45098,39554,4621
+8,7,Puducherry,45954,39960,4862
+8,8,Puducherry,46878,40575,5123
+8,9,Puducherry,47836,41075,5382
+8,10,Puducherry,48748,41941,5624
+8,14,Puducherry,53503,44714,6995
+8,15,Puducherry,54852,45803,7354
+8,16,Puducherry,55937,46456,7732
+8,19,Puducherry,59757,48902,8752
+8,20,Puducherry,61343,50170,9292
+8,22,Puducherry,63590,51422,10112
+9,17,Puducherry,124821,97716,23526
+9,18,Puducherry,130099,101462,24016
+9,19,Puducherry,135259,107765,24559
+9,20,Puducherry,140107,111514,25030
+9,21,Puducherry,143901,115426,25303
+9,22,Puducherry,149501,120366,25796
+9,23,Puducherry,155025,125215,26339
+9,24,Puducherry,161030,130548,27007
+9,25,Puducherry,166535,137054,27615
+9,26,Puducherry,171561,141679,28109
+9,27,Puducherry,176184,145800,28481
+9,28,Puducherry,179780,149327,28773
+9,29,Puducherry,184810,153736,29160
+9,30,Puducherry,189568,158206,29651
+10,1,Puducherry,194718,162652,30140
+10,2,Puducherry,199374,166911,30654
+10,3,Puducherry,202784,170172,30869
+10,4,Puducherry,206509,173957,31222
+10,5,Puducherry,209900,177219,31416
+10,6,Puducherry,215155,181563,31823
+10,7,Puducherry,220349,186349,32310
+10,8,Puducherry,225018,190598,32658
+10,9,Puducherry,230024,195147,33029
+10,11,Puducherry,239208,203658,33686
+10,12,Puducherry,241787,206294,33875
+10,13,Puducherry,246059,210412,34143
+10,14,Puducherry,250582,214793,34389
+10,15,Puducherry,255195,218965,34634
+10,16,Puducherry,259482,223094,34921
+10,17,Puducherry,263481,226851,35133
+10,18,Puducherry,267656,230990,35310
+10,19,Puducherry,270189,233824,35418
+10,20,Puducherry,274238,237011,35624
+10,21,Puducherry,278193,241023,35799
+10,22,Puducherry,282040,244463,36011
+10,23,Puducherry,285824,248100,36169
+10,24,Puducherry,289689,251888,36297
+10,25,Puducherry,292567,254963,36380
+10,26,Puducherry,293626,256349,36524
+10,27,Puducherry,297195,259158,36671
+10,28,Puducherry,301167,262971,36773
+10,29,Puducherry,305068,266632,36954
+10,30,Puducherry,308629,270003,37103
+10,31,Puducherry,311807,273523,37208
+11,1,Puducherry,314989,276367,37304
+11,2,Puducherry,317809,279253,37374
+11,3,Puducherry,321813,282776,37523
+11,4,Puducherry,325632,286377,37631
+11,5,Puducherry,329907,288479,39772
+11,6,Puducherry,333733,292192,39898
+11,7,Puducherry,337714,295971,39971
+11,8,Puducherry,341534,300426,40066
+11,9,Puducherry,344064,302901,40129
+11,10,Puducherry,347785,306196,40231
+11,11,Puducherry,351706,309883,40346
+11,12,Puducherry,355251,313419,40412
+11,13,Puducherry,358606,317003,40487
+11,14,Puducherry,361101,319812,40535
+11,15,Puducherry,361570,320265,40560
+11,16,Puducherry,363331,321971,40573
+11,17,Puducherry,366689,325636,40645
+11,18,Puducherry,370307,329504,40701
+11,19,Puducherry,373826,332979,40770
+11,20,Puducherry,377294,336376,40824
+11,21,Puducherry,380831,339854,40889
+11,22,Puducherry,384417,343301,40935
+11,24,Puducherry,391854,350749,41014
+11,25,Puducherry,395113,353900,41065
+11,26,Puducherry,395810,354623,41086
+11,27,Puducherry,397419,356234,41102
+11,28,Puducherry,400323,359129,41148
+11,29,Puducherry,403249,361956,41181
+11,30,Puducherry,405325,364043,41214
+12,1,Puducherry,408641,367318,41267
+12,2,Puducherry,412072,370672,41327
+12,4,Puducherry,417259,375783,41415
+12,5,Puducherry,419060,377553,41459
+12,6,Puducherry,421165,379564,41494
+12,7,Puducherry,422816,381224,41520
+12,8,Puducherry,425700,384043,41562
+12,9,Puducherry,428947,386699,41580
+12,10,Puducherry,430517,388831,41604
+12,11,Puducherry,431982,390299,41647
+12,12,Puducherry,433791,392046,41668
+12,13,Puducherry,435570,393744,41717
+12,14,Puducherry,437551,395743,41738
+12,15,Puducherry,440944,399050,41776
+12,16,Puducherry,444444,402434,41886
+12,17,Puducherry,447588,405562,41886
+12,18,Puducherry,450501,408468,41937
+12,19,Puducherry,453627,411613,41982
+12,20,Puducherry,456079,414017,42018
+12,21,Puducherry,458050,415945,42032
+12,22,Puducherry,461245,419078,42081
+12,23,Puducherry,464220,422024,42115
+12,24,Puducherry,467228,424989,42155
+12,25,Puducherry,470201,427942,42184
+12,26,Puducherry,473586,431289,42217
+12,27,Puducherry,476570,434181,42265
+12,28,Puducherry,478398,436047,42298
+12,29,Puducherry,481987,439591,42340
+12,30,Puducherry,485332,442895,42366
+12,31,Puducherry,488451,445976,42402
+1,1,Puducherry,491519,448882,42434
+1,2,Puducherry,493897,451332,42444
+1,3,Puducherry,496376,453709,42494
+1,4,Puducherry,498724,455972,42523
+1,5,Puducherry,502458,459609,42570
+1,6,Puducherry,506015,463049,42604
+1,7,Puducherry,509392,466413,42639
+1,8,Puducherry,512803,469855,42659
+1,9,Puducherry,516036,473048,42695
+1,10,Puducherry,519086,476095,42725
+1,11,Puducherry,521149,478069,42747
+1,12,Puducherry,524786,481741,42765
+1,13,Puducherry,527788,484725,42794
+1,14,Puducherry,527780,484588,42837
+1,15,Puducherry,532468,489402,42865
+1,16,Puducherry,534617,491694,42881
+1,17,Puducherry,537161,493994,42916
+1,18,Puducherry,538745,495682,42939
+1,19,Puducherry,542508,499330,42976
+1,20,Puducherry,546187,502913,43007
+1,21,Puducherry,550551,507218,43042
+1,22,Puducherry,553893,510503,43064
+1,25,Puducherry,562668,519016,43145
+2,2,Puducherry,579548,535914,43390
+2,3,Puducherry,584300,540540,43413
+2,4,Puducherry,586350,542580,43452
+2,5,Puducherry,588451,544590,43502
+2,6,Puducherry,590466,546611,43537
+2,7,Puducherry,592495,548537,43559
+2,8,Puducherry,593841,549891,43585
+2,9,Puducherry,596527,552590,43620
+2,10,Puducherry,599234,555120,43639
+2,11,Puducherry,601600,531772,43664
+2,12,Puducherry,603831,560001,43683
+2,13,Puducherry,606413,562583,43683
+2,14,Puducherry,608343,564491,43691
+2,15,Puducherry,609743,566026,43711
+2,16,Puducherry,611825,568003,43731
+2,17,Puducherry,613649,569669,43749
+2,18,Puducherry,615362,571377,43769
+2,19,Puducherry,617198,573117,43783
+2,20,Puducherry,618788,574693,43812
+2,21,Puducherry,620331,576227,43835
+2,22,Puducherry,621084,576657,43840
+2,23,Puducherry,622216,578102,43871
+2,24,Puducherry,624285,580101,43899
+2,25,Puducherry,625920,581752,43920
+2,27,Puducherry,629389,585151,43960
+2,28,Puducherry,630827,586422,43968
+3,1,Puducherry,631520,587139,43977
+3,2,Puducherry,633005,588788,44006
+3,3,Puducherry,634561,590179,44020
+3,4,Puducherry,635847,591471,44037
+4,8,Punjab,2937,2614,106
+4,9,Punjab,3192,2777,130
+4,10,Punjab,3461,2972,151
+4,11,Punjab,3909,3249,158
+4,12,Punjab,4281,3590,170
+4,13,Punjab,4480,3858,176
+4,14,Punjab,4844,4047,184
+4,15,Punjab,5193,4404,186
+4,16,Punjab,5524,4727,197
+4,17,Punjab,5988,5113,211
+4,18,Punjab,6167,5354,234
+4,19,Punjab,6607,5949,244
+4,20,Punjab,6797,6273,245
+4,21,Punjab,7355,6769,251
+4,22,Punjab,7887,7100,257
+4,23,Punjab,8757,7433,283
+4,24,Punjab,10611,8310,298
+4,25,Punjab,13270,9392,308
+4,26,Punjab,14317,10497,322
+4,27,Punjab,15516,12333,330
+4,28,Punjab,17021,13966,342
+4,29,Punjab,18670,15690,375
+4,30,Punjab,21205,17286,480
+5,1,Punjab,23176,18222,585
+5,2,Punjab,24868,19316,772
+5,3,Punjab,26439,20197,1102
+5,4,Punjab,28545,21295,1232
+5,5,Punjab,30199,23352,1451
+5,6,Punjab,32060,24303,1526
+5,7,Punjab,34701,28933,1644
+5,8,Punjab,37950,31219,1731
+5,9,Punjab,39462,33639,1762
+5,10,Punjab,40962,35293,1823
+5,11,Punjab,42306,37993,1877
+5,12,Punjab,43999,39060,1914
+5,13,Punjab,46026,40637,1924
+5,14,Punjab,47408,42425,1935
+5,15,Punjab,49301,44319,1932
+5,16,Punjab,50613,46028,1946
+5,17,Punjab,51812,47484,1964
+5,18,Punjab,52955,48813,1980
+5,19,Punjab,55634,50070,2002
+5,20,Punjab,57737,51956,2005
+5,21,Punjab,59618,53871,2028
+5,22,Punjab,62399,55777,2029
+5,23,Punjab,63567,57899,2045
+5,24,Punjab,66142,60114,2060
+5,25,Punjab,67213,62686,2081
+5,26,Punjab,69818,64160,2106
+5,27,Punjab,72468,66417,2139
+5,28,Punjab,72468,67325,2158
+4,7,Rajasthan,17638,16401,363
+4,8,Rajasthan,17638,16401,363
+4,9,Rajasthan,19107,17851,463
+4,10,Rajasthan,22349,20698,561
+4,11,Rajasthan,24857,22583,678
+4,12,Rajasthan,28505,25105,796
+4,13,Rajasthan,31804,28657,847
+4,14,Rajasthan,34928,29376,1005
+4,15,Rajasthan,37860,31902,1076
+4,16,Rajasthan,40778,33739,1101
+4,17,Rajasthan,42847,36153,1229
+4,18,Rajasthan,47197,39092,1282
+4,19,Rajasthan,51614,43537,1478
+4,20,Rajasthan,57290,47657,1576
+4,21,Rajasthan,61492,54100,1735
+4,22,Rajasthan,66257,58552,1888
+4,23,Rajasthan,69764,63485,1964
+4,24,Rajasthan,74484,68133,2034
+4,25,Rajasthan,78993,71806,2083
+4,26,Rajasthan,82942,75670,2185
+4,27,Rajasthan,87777,80830,2262
+4,28,Rajasthan,92506,85834,2364
+4,29,Rajasthan,97790,90108,2438
+5,1,Rajasthan,108543,100277,2666
+5,2,Rajasthan,113934,104705,2720
+5,3,Rajasthan,120240,112345,2886
+5,4,Rajasthan,129258,122513,3061
+5,5,Rajasthan,134987,128297,3158
+5,6,Rajasthan,139580,134172,3317
+5,7,Rajasthan,145510,139830,3427
+5,8,Rajasthan,152245,146198,3579
+5,9,Rajasthan,159157,152296,3708
+5,10,Rajasthan,166424,158830,3814
+5,11,Rajasthan,176130,168546,3988
+5,13,Rajasthan,194683,186125,4328
+5,14,Rajasthan,204243,197269,4534
+5,15,Rajasthan,212317,203770,4747
+5,16,Rajasthan,221439,213395,4960
+5,17,Rajasthan,231946,221764,5202
+5,18,Rajasthan,243476,234165,5375
+5,19,Rajasthan,254533,244955,5845
+5,20,Rajasthan,265555,254128,6015
+5,21,Rajasthan,275974,266687,6227
+5,22,Rajasthan,287164,277744,6494
+5,23,Rajasthan,303935,292384,6657
+5,24,Rajasthan,317067,306209,7028
+5,25,Rajasthan,327836,318146,7300
+5,26,Rajasthan,337159,326368,7536
+5,27,Rajasthan,350600,338611,7816
+5,28,Rajasthan,365556,351861,8067
+5,29,Rajasthan,379315,365925,8365
+5,30,Rajasthan,395490,382315,8617
+5,31,Rajasthan,409777,396789,8831
+6,1,Rajasthan,425184,411965,9100
+6,2,Rajasthan,440789,428471,9373
+6,3,Rajasthan,454788,440850,9652
+6,4,Rajasthan,467129,451826,9862
+6,5,Rajasthan,480910,465349,10084
+6,6,Rajasthan,494480,478366,10337
+6,7,Rajasthan,506784,491233,10599
+6,8,Rajasthan,518350,503208,10876
+6,9,Rajasthan,530031,515872,11245
+6,10,Rajasthan,543312,527864,11600
+6,11,Rajasthan,558064,542256,11838
+6,12,Rajasthan,571543,556040,12068
+6,13,Rajasthan,584954,569314,12401
+6,14,Rajasthan,598920,583279,12694
+6,15,Rajasthan,609296,594991,12981
+6,16,Rajasthan,622334,606279,13216
+6,17,Rajasthan,637937,620217,13542
+6,18,Rajasthan,654816,636216,13857
+6,19,Rajasthan,667643,650510,14156
+6,20,Rajasthan,683017,664383,14537
+6,21,Rajasthan,699126,680233,14930
+6,22,Rajasthan,709592,691507,15232
+6,23,Rajasthan,726077,706363,15627
+6,24,Rajasthan,740855,721511,16009
+6,25,Rajasthan,757137,737395,16296
+6,26,Rajasthan,770174,750535,16660
+6,27,Rajasthan,784803,764966,16944
+6,28,Rajasthan,800214,780247,17271
+6,29,Rajasthan,809777,789921,17660
+6,30,Rajasthan,824213,803554,18014
+7,1,Rajasthan,839370,818485,18312
+7,2,Rajasthan,854274,832738,18662
+7,3,Rajasthan,869602,846953,19052
+7,4,Rajasthan,889355,865371,19532
+7,5,Rajasthan,909132,884457,20164
+7,6,Rajasthan,920600,896508,20688
+7,7,Rajasthan,940758,915326,21404
+7,8,Rajasthan,963454,936065,22063
+7,9,Rajasthan,987272,960369,22563
+7,10,Rajasthan,1009195,981938,23174
+7,11,Rajasthan,1032198,1003903,23748
+7,12,Rajasthan,1054080,1025295,24392
+7,13,Rajasthan,1068283,1039250,24936
+7,14,Rajasthan,1096696,1065910,25571
+7,15,Rajasthan,1123902,1091930,26437
+7,16,Rajasthan,1151952,1119188,27174
+7,17,Rajasthan,1175379,1142148,27789
+7,18,Rajasthan,1204676,1169662,28500
+7,19,Rajasthan,1231760,1195328,29434
+7,20,Rajasthan,1244387,1207571,30390
+7,21,Rajasthan,1270376,1232900,31373
+7,22,Rajasthan,1298218,1259602,32334
+7,23,Rajasthan,1325580,1285878,33220
+7,24,Rajasthan,1349544,1309112,34178
+7,25,Rajasthan,1377850,1335929,35298
+7,26,Rajasthan,1403124,1361480,36430
+7,27,Rajasthan,1417882,1374679,37564
+7,28,Rajasthan,1445240,1402268,38636
+7,29,Rajasthan,1473098,1429523,39780
+7,30,Rajasthan,1500693,1455427,40936
+7,31,Rajasthan,1526962,1481949,42083
+8,1,Rajasthan,1553942,1507518,43243
+8,2,Rajasthan,1570989,1525094,44410
+8,3,Rajasthan,1584925,1538352,45555
+8,4,Rajasthan,1592318,1545391,46679
+8,5,Rajasthan,1619744,1570626,47272
+8,6,Rajasthan,1651221,1600732,48996
+8,7,Rajasthan,1678314,1626488,50157
+8,8,Rajasthan,1710963,1656370,51328
+8,9,Rajasthan,1740732,1683981,52497
+8,10,Rajasthan,1754897,1699840,53670
+8,12,Rajasthan,1820131,1759088,56100
+8,13,Rajasthan,1839445,1778894,57414
+8,14,Rajasthan,1868534,1807490,58692
+8,15,Rajasthan,1898595,1835625,59979
+8,16,Rajasthan,1913726,1850043,61296
+8,17,Rajasthan,1930842,1865936,62630
+8,18,Rajasthan,1966178,1899725,63977
+8,21,Rajasthan,2062109,1990256,67954
+5,5,Sikkim,181,171,0
+5,6,Sikkim,189,189,0
+5,7,Sikkim,216,207,0
+5,8,Sikkim,216,214,0
+5,9,Sikkim,219,219,0
+5,10,Sikkim,219,219,0
+5,11,Sikkim,219,219,0
+5,12,Sikkim,348,229,0
+5,13,Sikkim,439,268,0
+5,14,Sikkim,579,292,0
+5,15,Sikkim,348,229,0
+5,16,Sikkim,840,424,0
+5,17,Sikkim,947,449,0
+5,18,Sikkim,1087,536,0
+5,19,Sikkim,1204,827,0
+5,20,Sikkim,1342,955,0
+5,22,Sikkim,1637,1347,0
+5,23,Sikkim,1707,1398,0
+5,24,Sikkim,1855,1471,1
+5,25,Sikkim,2103,1508,1
+5,26,Sikkim,2255,1508,1
+5,27,Sikkim,2417,1665,1
+5,28,Sikkim,2626,1801,1
+5,29,Sikkim,2759,1880,1
+5,30,Sikkim,2829,2015,1
+5,31,Sikkim,2925,2173,1
+6,1,Sikkim,3525,2601,1
+6,2,Sikkim,3788,2857,1
+6,3,Sikkim,4102,3062,2
+6,4,Sikkim,4358,3894,2
+6,5,Sikkim,4761,4143,3
+6,6,Sikkim,5005,4273,3
+6,8,Sikkim,5547,4953,6
+6,9,Sikkim,5815,5508,12
+6,10,Sikkim,6161,5850,12
+6,11,Sikkim,6692,6063,12
+6,12,Sikkim,5157,4830,26
+6,13,Sikkim,5377,5029,62
+6,14,Sikkim,5664,5177,67
+6,15,Sikkim,5762,5521,68
+6,16,Sikkim,6192,5715,68
+6,17,Sikkim,6349,6004,70
+6,19,Sikkim,6882,6500,70
+6,20,Sikkim,7183,6932,70
+6,21,Sikkim,9354,8803,70
+7,13,Sikkim,12636,10636,162
+7,16,Sikkim,13762,11751,235
+7,17,Sikkim,14373,12322,254
+7,18,Sikkim,15139,13051,273
+7,19,Sikkim,15957,13857,283
+7,20,Sikkim,16906,14787,305
+7,21,Sikkim,17564,15418,330
+7,22,Sikkim,19484,17218,438
+7,23,Sikkim,20050,18267,460
+7,24,Sikkim,20785,18748,477
+7,28,Sikkim,22993,20465,579
+7,30,Sikkim,24150,21560,610
+7,31,Sikkim,24939,22220,639
+8,1,Sikkim,25916,23282,650
+8,2,Sikkim,26473,23804,658
+8,3,Sikkim,27115,24431,688
+8,4,Sikkim,28089,25310,783
+4,3,Tamil Nadu,3684,2789,411
+4,8,Tamil Nadu,5305,4414,690
+4,9,Tamil Nadu,7267,5824,834
+4,10,Tamil Nadu,8410,6838,911
+4,11,Tamil Nadu,9842,7779,969
+4,14,Tamil Nadu,19255,13234,1204
+4,15,Tamil Nadu,21994,15210,1242
+4,16,Tamil Nadu,26005,18743,1267
+4,17,Tamil Nadu,29673,21628,1323
+4,18,Tamil Nadu,35036,27192,1372
+4,19,Tamil Nadu,40876,31853,1477
+4,20,Tamil Nadu,46985,38082,1520
+4,21,Tamil Nadu,53045,43582,1596
+4,22,Tamil Nadu,59023,49506,1629
+4,23,Tamil Nadu,65977,56836,1683
+4,24,Tamil Nadu,72403,62596,1755
+4,25,Tamil Nadu,80110,69390,1821
+4,26,Tamil Nadu,87605,77133,1885
+4,27,Tamil Nadu,94781,83021,1937
+4,28,Tamil Nadu,101874,97908,2058
+4,29,Tamil Nadu,109961,105864,2162
+4,30,Tamil Nadu,119748,115761,2323
+5,1,Tamil Nadu,129363,124852,2526
+5,2,Tamil Nadu,139490,135698,2757
+5,3,Tamil Nadu,150107,145520,3023
+5,4,Tamil Nadu,162970,158558,3550
+5,5,Tamil Nadu,174828,170174,4058
+5,6,Tamil Nadu,188241,182541,4829
+5,7,Tamil Nadu,202436,195831,5409
+5,8,Tamil Nadu,216416,209495,6009
+5,9,Tamil Nadu,229670,222576,6535
+5,10,Tamil Nadu,243037,235157,7204
+5,11,Tamil Nadu,254899,245562,8002
+5,12,Tamil Nadu,266687,256720,8718
+5,13,Tamil Nadu,279467,269758,9227
+5,14,Tamil Nadu,291432,281001,9674
+5,15,Tamil Nadu,303104,292045,10108
+5,16,Tamil Nadu,313639,302523,10585
+5,17,Tamil Nadu,326720,315019,11224
+5,18,Tamil Nadu,337841,325546,11760
+5,19,Tamil Nadu,348174,334839,12448
+5,20,Tamil Nadu,360068,346311,13191
+5,21,Tamil Nadu,372532,357898,13967
+5,22,Tamil Nadu,385185,369929,14735
+5,23,Tamil Nadu,397340,381216,15512
+5,24,Tamil Nadu,409615,392690,16277
+5,25,Tamil Nadu,421450,403762,17082
+5,26,Tamil Nadu,431739,413455,17728
+5,27,Tamil Nadu,442970,423775,18545
+5,28,Tamil Nadu,455216,435279,19372
+5,29,Tamil Nadu,466550,445668,20246
+5,30,Tamil Nadu,479155,457405,21184
+5,31,Tamil Nadu,491962,468940,22333
+6,1,Tamil Nadu,503339,479208,23495
+6,2,Tamil Nadu,514433,489258,24586
+6,3,Tamil Nadu,528534,502173,25872
+6,4,Tamil Nadu,544981,517137,27256
+6,5,Tamil Nadu,560673,535254,28694
+6,6,Tamil Nadu,576695,545896,30152
+6,7,Tamil Nadu,592970,560890,31667
+6,8,Tamil Nadu,607952,574209,33229
+6,9,Tamil Nadu,621171,585678,34914
+6,10,Tamil Nadu,638846,601363,36841
+6,11,Tamil Nadu,655675,616395,38716
+6,12,Tamil Nadu,673906,632656,40698
+6,13,Tamil Nadu,691817,648545,42687
+6,14,Tamil Nadu,710599,665401,44661
+6,15,Tamil Nadu,729002,681961,46504
+6,16,Tamil Nadu,748244,699645,48019
+6,17,Tamil Nadu,773707,722830,50193
+6,18,Tamil Nadu,800443,747428,52334
+6,19,Tamil Nadu,827980,772937,54449
+6,20,Tamil Nadu,861211,803824,56845
+6,21,Tamil Nadu,892612,832720,59377
+6,22,Tamil Nadu,919204,856475,62087
+6,23,Tamil Nadu,944352,879176,64603
+6,24,Tamil Nadu,976431,908292,67468
+6,25,Tamil Nadu,1008974,937412,70977
+6,26,Tamil Nadu,1042649,967356,74622
+6,27,Tamil Nadu,1077454,998543,78335
+6,28,Tamil Nadu,1110402,1028127,82275
+6,29,Tamil Nadu,1140441,1054217,86224
+6,30,Tamil Nadu,1170683,1080516,90167
+4,19,Telangana,14962,14104,858
+6,16,Telangana,44431,39025,5406
+6,17,Telangana,45911,40236,5675
+6,19,Telangana,50569,44043,6526
+6,20,Telangana,53757,46685,7072
+6,21,Telangana,57054,49252,7802
+6,22,Telangana,60243,51569,8674
+6,23,Telangana,63249,53696,9553
+6,24,Telangana,67318,56874,10444
+6,25,Telangana,70934,59570,11364
+6,26,Telangana,75308,62959,12349
+6,27,Telangana,79231,65795,13436
+6,28,Telangana,82458,68039,14419
+6,29,Telangana,85106,69712,15394
+6,30,Telangana,88563,72224,16339
+7,1,Telangana,92797,75440,17357
+7,2,Telangana,98153,79583,18570
+7,3,Telangana,104118,83656,20462
+7,4,Telangana,110545,83656,22312
+7,5,Telangana,115835,91933,23902
+7,6,Telangana,122218,96485,25733
+7,7,Telangana,128438,100826,27612
+7,8,Telangana,134801,105265,29536
+7,9,Telangana,140755,109809,30946
+7,10,Telangana,151109,118885,32224
+7,11,Telangana,162171,128769,33402
+7,12,Telangana,170324,135653,34671
+7,13,Telangana,181849,145628,36221
+7,14,Telangana,195024,157279,37745
+7,15,Telangana,208666,169324,39342
+4,11,Tripura,337,335,2
+4,16,Tripura,762,760,2
+4,21,Tripura,2604,2602,2
+4,22,Tripura,3215,3123,2
+5,1,Tripura,4828,4825,3
+5,2,Tripura,4955,4950,5
+5,3,Tripura,5162,5157,5
+5,4,Tripura,5394,5377,17
+5,5,Tripura,5850,5820,30
+5,6,Tripura,6228,6185,43
+5,7,Tripura,6917,6828,89
+5,8,Tripura,7448,7359,89
+5,9,Tripura,8340,8221,119
+5,10,Tripura,9091,8955,136
+5,11,Tripura,9596,9442,154
+5,12,Tripura,10344,10189,155
+5,13,Tripura,11146,10991,155
+5,14,Tripura,11804,11648,156
+5,15,Tripura,12561,12405,156
+5,16,Tripura,13178,13011,167
+5,17,Tripura,13750,13583,167
+5,18,Tripura,14286,14119,167
+5,19,Tripura,15083,14914,169
+5,20,Tripura,15822,15694,173
+5,21,Tripura,16873,16610,173
+5,22,Tripura,17721,17546,175
+5,23,Tripura,18737,18546,191
+5,24,Tripura,19278,19537,191
+5,25,Tripura,20871,20637,198
+5,26,Tripura,22049,21840,209
+5,27,Tripura,23264,23032,232
+5,28,Tripura,24126,23884,242
+5,29,Tripura,25403,25159,244
+5,30,Tripura,26376,26105,271
+5,31,Tripura,27475,27159,316
+6,1,Tripura,28360,27937,423
+6,2,Tripura,29066,28595,471
+6,3,Tripura,30481,29859,622
+6,4,Tripura,31138,30492,646
+6,5,Tripura,32300,31606,694
+6,6,Tripura,33331,32582,749
+6,7,Tripura,35263,34461,802
+6,8,Tripura,37453,36613,840
+6,9,Tripura,38572,37706,866
+6,10,Tripura,40027,39130,897
+6,11,Tripura,41389,40474,915
+6,12,Tripura,40837,39877,960
+6,13,Tripura,43972,42930,1042
+6,14,Tripura,46015,44940,1075
+6,15,Tripura,47683,46599,1084
+6,16,Tripura,49208,48118,1090
+6,17,Tripura,50268,49135,1133
+6,18,Tripura,51495,50341,1154
+6,19,Tripura,52752,51571,1181
+6,20,Tripura,53905,52716,1189
+6,21,Tripura,54983,53759,1224
+6,22,Tripura,56035,54795,1240
+6,23,Tripura,56901,55638,1263
+6,24,Tripura,57753,56490,1263
+6,25,Tripura,59025,57730,1295
+6,26,Tripura,60199,58869,1330
+6,27,Tripura,61194,59855,1339
+6,28,Tripura,62278,60927,1351
+6,29,Tripura,63364,61979,1385
+6,30,Tripura,64478,63085,1393
+7,1,Tripura,65549,64148,1401
+7,2,Tripura,67255,65815,1440
+7,3,Tripura,68634,67101,1533
+7,4,Tripura,69891,68333,1558
+7,5,Tripura,71338,69757,1581
+7,6,Tripura,73058,71366,1692
+7,7,Tripura,74230,72514,1716
+7,8,Tripura,75641,73868,1773
+7,9,Tripura,77439,75650,1789
+7,10,Tripura,79429,77498,1931
+7,11,Tripura,81631,79669,1962
+7,12,Tripura,83353,81286,2067
+7,13,Tripura,86211,84118,2093
+7,14,Tripura,88677,86494,2183
+7,15,Tripura,92313,90032,2281
+7,17,Tripura,97471,95092,2497
+7,18,Tripura,105058,102390,2668
+7,19,Tripura,109290,106398,2892
+7,20,Tripura,114165,111072,3093
+7,21,Tripura,119046,115701,3345
+7,22,Tripura,123269,119801,3471
+7,24,Tripura,131485,127708,3777
+7,25,Tripura,135436,131554,3882
+7,26,Tripura,138100,134181,3919
+7,27,Tripura,142275,138209,4066
+7,28,Tripura,148877,144590,4287
+7,29,Tripura,156382,151879,4503
+7,30,Tripura,163640,158918,4722
+7,31,Tripura,170834,165838,4996
+8,1,Tripura,176171,170923,5248
+8,2,Tripura,180684,175295,5389
+8,4,Tripura,184227,178707,5520
+8,5,Tripura,187848,182205,5643
+8,6,Tripura,190492,184752,5740
+8,7,Tripura,193268,187400,5868
+8,8,Tripura,196440,190426,6014
+8,9,Tripura,199937,193776,6161
+8,10,Tripura,202004,195781,6223
+8,11,Tripura,205125,198738,6387
+8,12,Tripura,208165,201668,6497
+8,13,Tripura,210678,204060,6618
+8,14,Tripura,213730,206948,6782
+8,15,Tripura,217119,210170,6949
+8,16,Tripura,218981,211905,7076
+8,17,Tripura,220789,213570,7219
+8,18,Tripura,223966,216542,7424
+8,19,Tripura,228003,220343,7660
+8,20,Tripura,230716,222866,7850
+8,21,Tripura,233713,225607,8106
+8,22,Tripura,237750,229364,8386
+8,23,Tripura,241101,232384,8717
+8,24,Tripura,243613,234696,8917
+8,25,Tripura,247299,238089,9210
+8,26,Tripura,251657,242118,9539
+8,27,Tripura,255877,245953,9924
+8,28,Tripura,260373,249940,10433
+8,29,Tripura,264655,253779,10876
+8,30,Tripura,268276,256953,11323
+8,31,Tripura,271170,259526,11644
+9,1,Tripura,274199,262046,12153
+9,2,Tripura,277951,265232,12719
+9,3,Tripura,282798,269489,13309
+9,4,Tripura,287018,273185,13833
+9,6,Tripura,297100,281973,15127
+9,7,Tripura,300486,284960,15526
+9,8,Tripura,304758,288604,16154
+9,9,Tripura,308922,292186,16736
+9,10,Tripura,313816,296545,17271
+9,11,Tripura,318581,300751,17830
+9,12,Tripura,323628,305328,18300
+9,13,Tripura,327843,308914,18929
+9,14,Tripura,331371,312187,19184
+9,15,Tripura,335686,315971,19715
+9,16,Tripura,340002,319833,20169
+9,17,Tripura,344918,324222,20696
+9,18,Tripura,347959,326990,20969
+9,20,Tripura,356354,334325,22029
+9,21,Tripura,358876,336604,22272
+9,22,Tripura,362478,339647,22831
+9,23,Tripura,366835,343500,23335
+9,24,Tripura,371699,347913,23786
+9,25,Tripura,374960,350833,24127
+9,26,Tripura,378120,353715,24405
+9,27,Tripura,380779,356054,24725
+9,28,Tripura,382589,357671,24918
+9,29,Tripura,385690,360340,25350
+9,30,Tripura,388672,362941,25731
+10,1,Tripura,391684,365621,26063
+10,2,Tripura,394382,368023,26359
+10,3,Tripura,396413,369864,26549
+10,4,Tripura,398609,371738,26871
+10,5,Tripura,399915,372885,27030
+10,6,Tripura,402294,374989,27305
+10,7,Tripura,404688,377146,27542
+10,8,Tripura,406747,378991,27756
+10,9,Tripura,409037,381058,27979
+10,10,Tripura,411567,383417,28150
+10,11,Tripura,414550,386201,28349
+10,12,Tripura,416489,388031,28458
+10,13,Tripura,418985,390310,28675
+10,14,Tripura,421575,392719,28856
+10,15,Tripura,424147,395119,29028
+10,16,Tripura,426745,397555,29190
+10,17,Tripura,428975,399651,29324
+10,18,Tripura,431581,402116,29465
+10,20,Tripura,435868,406183,29685
+10,21,Tripura,438334,408537,29797
+10,22,Tripura,441342,411420,29922
+10,23,Tripura,443478,413411,30067
+10,24,Tripura,446317,416185,30132
+10,25,Tripura,448279,418061,30218
+10,27,Tripura,449911,419621,30290
+10,28,Tripura,452230,421780,30450
+10,29,Tripura,454388,423825,30563
+10,30,Tripura,456957,426297,30660
+10,31,Tripura,458380,427666,30714
+11,1,Tripura,459891,429100,30791
+11,2,Tripura,461315,430466,30849
+11,5,Tripura,469890,438656,31234
+11,6,Tripura,472762,441418,31344
+11,7,Tripura,475245,443814,31431
+11,8,Tripura,477455,445941,31514
+11,9,Tripura,479015,447475,31540
+11,10,Tripura,481806,450187,31619
+11,11,Tripura,484797,453094,31703
+11,12,Tripura,487389,455627,31762
+11,13,Tripura,489812,457974,31838
+11,15,Tripura,493895,461953,31942
+11,16,Tripura,494627,462668,31959
+11,17,Tripura,497045,465009,32036
+11,18,Tripura,500015,467906,32109
+11,19,Tripura,502948,470734,32214
+11,20,Tripura,505954,473665,32289
+11,21,Tripura,508813,476449,32364
+11,22,Tripura,511457,479045,32412
+11,23,Tripura,513037,480606,32431
+11,24,Tripura,515452,482962,32490
+11,25,Tripura,517834,485309,32525
+11,26,Tripura,519862,487287,32575
+11,27,Tripura,521455,488848,32607
+11,28,Tripura,523099,490461,32638
+11,30,Tripura,526407,493715,32692
+12,1,Tripura,528241,495518,32723
+12,2,Tripura,530422,497661,32761
+12,3,Tripura,533103,500303,32800
+12,4,Tripura,535379,502546,32833
+12,5,Tripura,537733,504876,32857
+12,6,Tripura,540088,507200,32888
+12,7,Tripura,541546,508652,32894
+12,8,Tripura,543721,510799,32922
+12,9,Tripura,545848,512906,32942
+12,10,Tripura,548028,515055,32973
+12,15,Tripura,556623,523569,33054
+12,16,Tripura,559048,525970,33078
+12,17,Tripura,560965,527870,33095
+12,18,Tripura,562613,529497,33116
+12,19,Tripura,564129,530987,33142
+12,20,Tripura,565682,532518,33164
+12,21,Tripura,566644,533472,33172
+12,22,Tripura,568104,534919,33185
+12,23,Tripura,569607,536407,33200
+12,24,Tripura,570872,537659,33213
+12,25,Tripura,572189,538967,33222
+12,26,Tripura,572917,539694,33223
+12,27,Tripura,573971,540737,33234
+12,28,Tripura,574733,541492,33241
+12,29,Tripura,575976,542733,33243
+12,30,Tripura,577343,544088,33255
+12,31,Tripura,578723,545462,33261
+1,1,Tripura,580269,547004,33265
+1,4,Tripura,583819,550539,33280
+1,5,Tripura,585181,551900,33281
+1,6,Tripura,586639,553356,33283
+1,7,Tripura,587806,554515,33291
+1,8,Tripura,588991,555695,33296
+1,10,Tripura,590867,557563,33304
+1,11,Tripura,591518,558214,33304
+1,12,Tripura,593224,559918,33306
+1,13,Tripura,595168,561856,33312
+1,14,Tripura,596668,563351,33317
+1,15,Tripura,597659,564337,33322
+1,16,Tripura,598570,565244,33326
+1,18,Tripura,599890,566561,33329
+1,19,Tripura,600698,567366,33332
+1,21,Tripura,602298,568963,33335
+1,22,Tripura,602883,569544,33339
+1,23,Tripura,603530,570189,33341
+1,25,Tripura,604330,570988,33342
+1,26,Tripura,604952,571609,33343
+1,27,Tripura,605314,571971,33343
+1,28,Tripura,605866,572523,33343
+1,29,Tripura,606523,573178,33345
+1,30,Tripura,606978,573631,33347
+2,1,Tripura,607566,574218,33348
+2,2,Tripura,607962,574614,33348
+2,4,Tripura,608947,575599,33348
+2,5,Tripura,609412,576063,33349
+2,6,Tripura,609909,576560,33349
+2,8,Tripura,610893,577544,33349
+2,9,Tripura,611468,578118,33350
+2,10,Tripura,612192,578842,33350
+2,11,Tripura,612813,579463,33350
+2,12,Tripura,613231,579881,33350
+2,13,Tripura,614152,580802,33350
+2,14,Tripura,614394,581044,33350
+2,15,Tripura,614394,581044,33350
+2,17,Tripura,615180,581828,33352
+2,18,Tripura,615776,582422,33354
+2,19,Tripura,616899,583510,33389
+2,20,Tripura,618010,584619,33391
+2,22,Tripura,618010,584619,33391
+2,23,Tripura,618747,585352,32939
+2,24,Tripura,619392,585995,33397
+2,25,Tripura,619842,586445,33397
+2,26,Tripura,620416,587012,33404
+3,1,Tripura,621754,588340,33414
+3,3,Tripura,622896,589479,33417
+3,4,Tripura,622887,589468,33419
+3,6,Tripura,624612,591191,33421
+3,8,Tripura,625498,592077,33421
+3,11,Tripura,627447,594025,33422
+3,13,Tripura,628216,594792,33424
+3,14,Tripura,628767,595341,33426
+3,17,Tripura,630274,596836,33438
+3,18,Tripura,631045,597604,33441
+3,19,Tripura,631809,598358,33451
+3,20,Tripura,632636,599180,33456
+3,21,Tripura,633540,600079,33461
+3,22,Tripura,633806,600345,33461
+3,23,Tripura,634572,601105,33467
+3,24,Tripura,635381,601905,33476
+3,25,Tripura,636356,602879,33477
+3,27,Tripura,637843,604356,33487
+3,30,Tripura,639614,606124,33490
+4,1,Tripura,641498,607984,33514
+4,2,Tripura,642551,609033,33518
+4,3,Tripura,643050,609530,33520
+4,4,Tripura,644275,610741,33534
+4,5,Tripura,644784,611247,33537
+4,6,Tripura,646186,612635,33551
+4,7,Tripura,647320,613748,33572
+4,8,Tripura,648832,615223,33609
+4,9,Tripura,650518,616877,33641
+4,10,Tripura,651965,618283,33682
+4,11,Tripura,653832,620102,33730
+4,12,Tripura,654703,620963,33740
+4,13,Tripura,656802,623000,33802
+4,14,Tripura,658885,625044,33841
+4,16,Tripura,660465,626593,33872
+4,17,Tripura,662606,628676,33930
+4,18,Tripura,665194,631195,33999
+4,19,Tripura,666583,632552,34031
+4,20,Tripura,669149,635058,34091
+4,22,Tripura,674440,640181,34259
+4,23,Tripura,675862,641563,34299
+4,24,Tripura,679298,644872,34426
+4,25,Tripura,683472,648946,34526
+4,26,Tripura,686814,652190,34624
+4,27,Tripura,691184,656449,34735
+4,28,Tripura,695782,660923,34859
+4,29,Tripura,700857,665832,35025
+4,30,Tripura,705279,670113,35166
+5,1,Tripura,709639,674300,33622
+5,2,Tripura,714957,679371,35586
+5,3,Tripura,717664,681944,35720
+5,4,Tripura,723049,687058,35991
+5,5,Tripura,727535,691304,36231
+5,6,Tripura,732887,696356,36531
+5,7,Tripura,738070,701224,36846
+5,8,Tripura,744022,706817,37205
+5,9,Tripura,750382,712826,37556
+5,10,Tripura,753842,716153,37689
+5,11,Tripura,760130,721975,38155
+5,12,Tripura,765518,726947,38571
+5,13,Tripura,771752,732701,39051
+5,14,Tripura,777407,737804,39603
+5,15,Tripura,782257,742205,40052
+5,16,Tripura,789881,749068,40813
+5,17,Tripura,794518,753370,41148
+5,18,Tripura,804307,762413,41894
+5,19,Tripura,814492,771719,42773
+5,20,Tripura,825191,781698,43493
+5,21,Tripura,836629,792273,44356
+5,22,Tripura,851218,805998,45220
+5,23,Tripura,864018,817922,46096
+5,24,Tripura,871202,824680,38039
+5,25,Tripura,881469,834174,47295
+5,26,Tripura,891157,843195,47962
+5,27,Tripura,899078,850574,48504
+5,28,Tripura,910315,861028,49287
+5,29,Tripura,918746,868864,49882
+5,30,Tripura,932117,881381,50736
+5,31,Tripura,947800,896670,51130
+6,1,Tripura,964718,912747,51971
+6,2,Tripura,975840,923298,52542
+6,3,Tripura,990028,936809,53219
+6,4,Tripura,1006421,952552,53869
+6,5,Tripura,1031194,976617,54577
+6,6,Tripura,1047299,992068,55231
+6,7,Tripura,1056126,1000660,55466
+4,5,Uttar Pradesh,5255,4796,278
+4,5,Uttar Pradesh,5255,4796,278
+4,9,Uttar Pradesh,8402,7898,410
+4,10,Uttar Pradesh,9332,8798,433
+4,11,Uttar Pradesh,10595,10012,452
+4,12,Uttar Pradesh,11855,11250,483
+4,13,Uttar Pradesh,13287,12542,558
+4,14,Uttar Pradesh,15914,15134,660
+4,15,Uttar Pradesh,19506,18595,727
+4,16,Uttar Pradesh,21384,20374,805
+4,17,Uttar Pradesh,24643,23648,849
+4,18,Uttar Pradesh,28484,27262,974
+4,20,Uttar Pradesh,34326,32874,1184
+4,21,Uttar Pradesh,37933,36378,1337
+4,22,Uttar Pradesh,42192,40263,1449
+4,23,Uttar Pradesh,45483,43495,1510
+4,24,Uttar Pradesh,53166,51161,1621
+4,25,Uttar Pradesh,56851,54216,1793
+4,26,Uttar Pradesh,61799,58492,1873
+4,27,Uttar Pradesh,67145,64139,1896
+4,28,Uttar Pradesh,70307,67266,2053
+4,29,Uttar Pradesh,73716,70436,2134
+4,30,Uttar Pradesh,78013,74864,2211
+5,1,Uttar Pradesh,82459,79091,2328
+5,2,Uttar Pradesh,85729,82356,2487
+5,3,Uttar Pradesh,95841,91828,2645
+5,4,Uttar Pradesh,98300,94682,2766
+5,5,Uttar Pradesh,105234,101389,2880
+5,6,Uttar Pradesh,109888,106043,2998
+5,7,Uttar Pradesh,113670,109628,3071
+5,8,Uttar Pradesh,119688,115646,3214
+5,9,Uttar Pradesh,124791,120764,3373
+5,10,Uttar Pradesh,129955,125696,3467
+5,11,Uttar Pradesh,135760,131293,3573
+5,12,Uttar Pradesh,140166,135754,3664
+5,13,Uttar Pradesh,145637,141068,3578
+5,14,Uttar Pradesh,153139,147755,3902
+5,15,Uttar Pradesh,159282,153588,4057
+5,16,Uttar Pradesh,163105,157001,4258
+5,17,Uttar Pradesh,172219,165832,4464
+5,18,Uttar Pradesh,176479,170132,4605
+5,19,Uttar Pradesh,182184,175412,4926
+5,20,Uttar Pradesh,191164,184209,5175
+5,21,Uttar Pradesh,206811,199469,5515
+5,22,Uttar Pradesh,214060,207079,5735
+5,23,Uttar Pradesh,217867,210864,6017
+5,24,Uttar Pradesh,229621,222341,6268
+5,25,Uttar Pradesh,235622,228173,6497
+5,26,Uttar Pradesh,240588,232290,6724
+5,27,Uttar Pradesh,240588,239592,6991
+5,28,Uttar Pradesh,256267,247747,7170
+5,29,Uttar Pradesh,270920,261911,7445
+5,30,Uttar Pradesh,279288,270160,7701
+5,31,Uttar Pradesh,289892,279569,8075
+6,1,Uttar Pradesh,297903,287806,8361
+6,2,Uttar Pradesh,307621,296705,8729
+6,3,Uttar Pradesh,317780,306672,8870
+6,4,Uttar Pradesh,330663,318562,9237
+6,5,Uttar Pradesh,344717,332126,9733
+6,6,Uttar Pradesh,355085,342360,10103
+6,7,Uttar Pradesh,360258,346684,10536
+6,8,Uttar Pradesh,380723,366630,10947
+6,9,Uttar Pradesh,391286,377667,11335
+6,10,Uttar Pradesh,404637,390841,11610
+6,11,Uttar Pradesh,420669,405442,12088
+6,12,Uttar Pradesh,435601,421499,12619
+6,13,Uttar Pradesh,449616,433754,13118
+6,14,Uttar Pradesh,467702,442598,13615
+4,2,Uttarakhand,678,554,7
+4,7,Uttarakhand,1289,1092,32
+4,9,Uttarakhand,1531,1235,35
+4,10,Uttarakhand,1688,1320,35
+4,11,Uttarakhand,1705,1340,35
+4,12,Uttarakhand,1820,1452,35
+4,13,Uttarakhand,1998,1665,35
+4,14,Uttarakhand,2174,1838,35
+4,15,Uttarakhand,2413,2022,37
+4,16,Uttarakhand,2593,2210,37
+4,17,Uttarakhand,2831,2420,40
+4,18,Uttarakhand,3158,2710,42
+4,19,Uttarakhand,3344,3046,44
+4,20,Uttarakhand,3677,3228,46
+4,21,Uttarakhand,4061,3445,46
+4,22,Uttarakhand,4275,3664,46
+4,23,Uttarakhand,4473,3879,47
+4,24,Uttarakhand,4767,4239,48
+4,25,Uttarakhand,5194,4423,48
+4,26,Uttarakhand,5277,4675,50
+4,27,Uttarakhand,5463,4912,51
+4,28,Uttarakhand,5739,5212,52
+4,29,Uttarakhand,6046,5547,54
+4,30,Uttarakhand,6565,6100,57
+5,1,Uttarakhand,7042,6533,57
+5,2,Uttarakhand,7369,6786,59
+5,3,Uttarakhand,7578,6986,60
+5,4,Uttarakhand,7806,7134,60
+5,5,Uttarakhand,8060,7357,61
+5,6,Uttarakhand,8346,7698,61
+5,7,Uttarakhand,8783,8138,61
+5,8,Uttarakhand,9116,8485,61
+5,9,Uttarakhand,9386,8659,67
+5,10,Uttarakhand,9668,8990,68
+5,11,Uttarakhand,9915,9151,68
+5,12,Uttarakhand,10471,9390,68
+5,13,Uttarakhand,10792,9750,70
+5,14,Uttarakhand,11294,10157,75
+5,15,Uttarakhand,12045,10523,79
+5,16,Uttarakhand,12597,10990,88
+5,17,Uttarakhand,13212,11316,92
+5,18,Uttarakhand,13870,11812,93
+5,19,Uttarakhand,14691,12242,104
+5,20,Uttarakhand,15503,12945,120
+5,21,Uttarakhand,16528,13808,132
+5,22,Uttarakhand,18008,14960,151
+5,23,Uttarakhand,19248,15757,173
+5,24,Uttarakhand,20969,16640,293
+5,25,Uttarakhand,22117,17315,332
+5,26,Uttarakhand,23076,18193,400
+5,27,Uttarakhand,23975,18645,438
+5,28,Uttarakhand,25380,19702,493
+5,29,Uttarakhand,26951,20636,602
+5,30,Uttarakhand,28433,21512,727
+5,31,Uttarakhand,30438,22546,802
+6,1,Uttarakhand,31703,23400,929
+6,2,Uttarakhand,33081,24262,999
+6,3,Uttarakhand,34413,25385,1066
+6,4,Uttarakhand,35117,26093,1145
+6,5,Uttarakhand,35967,27184,1215
+6,6,Uttarakhand,36638,28172,1245
+6,7,Uttarakhand,37166,28945,1341
+6,8,Uttarakhand,39133,30620,1380
+6,9,Uttarakhand,40264,31945,1488
+6,10,Uttarakhand,40872,33369,1560
+6,11,Uttarakhand,41888,34604,1637
+6,12,Uttarakhand,42783,35670,1692
+6,13,Uttarakhand,44040,36834,1759
+6,14,Uttarakhand,45344,37554,1816
+6,15,Uttarakhand,46573,38643,1836
+6,16,Uttarakhand,47870,39552,1912
+6,17,Uttarakhand,49462,40434,1985
+6,18,Uttarakhand,50796,42008,2079
+6,19,Uttarakhand,53155,43438,2127
+6,20,Uttarakhand,54512,45131,2278
+6,21,Uttarakhand,55819,46286,2324
+6,22,Uttarakhand,56724,47852,2401
+6,23,Uttarakhand,58338,49478,2505
+6,24,Uttarakhand,59616,50950,2568
+6,25,Uttarakhand,61165,52289,2642
+6,26,Uttarakhand,62500,54007,2725
+6,27,Uttarakhand,63960,54918,2791
+6,28,Uttarakhand,64984,55892,2823
+6,29,Uttarakhand,66396,56715,2831
+6,30,Uttarakhand,69024,57862,2881
+7,1,Uttarakhand,70032,59350,2947
+7,2,Uttarakhand,72104,60555,2984
+7,3,Uttarakhand,73738,62340,3048
+7,4,Uttarakhand,76878,64801,3093
+7,5,Uttarakhand,78306,66407,3124
+7,6,Uttarakhand,79605,67731,3161
+7,7,Uttarakhand,81447,69926,3230
+7,8,Uttarakhand,83900,72862,3258
+7,9,Uttarakhand,86458,74975,3305
+7,10,Uttarakhand,89179,77553,3373
+7,11,Uttarakhand,92198,80882,3417
+7,12,Uttarakhand,94121,83089,3537
+7,13,Uttarakhand,96123,84912,3608
+7,14,Uttarakhand,98878,86747,3686
+7,15,Uttarakhand,102529,89212,3785
+7,16,Uttarakhand,109784,95745,3982
+7,17,Uttarakhand,113846,98551,4102
+7,18,Uttarakhand,116694,101613,4276
+7,19,Uttarakhand,119345,104118,4515
+7,20,Uttarakhand,123000,106350,4642
+7,21,Uttarakhand,127098,108488,4849
+7,22,Uttarakhand,129783,112210,5300
+7,23,Uttarakhand,132840,115683,5445
+7,24,Uttarakhand,135447,119647,5717
+7,25,Uttarakhand,139229,124153,5961
+7,26,Uttarakhand,141431,126505,6104
+7,27,Uttarakhand,145627,130531,6328
+7,28,Uttarakhand,150065,134376,6587
+7,29,Uttarakhand,154984,138706,6866
+7,30,Uttarakhand,163683,146230,7065
+7,31,Uttarakhand,168113,149507,7183
+8,1,Uttarakhand,172477,153471,7447
+8,2,Uttarakhand,175881,156823,7593
+8,3,Uttarakhand,178595,159414,7800
+8,4,Uttarakhand,182335,162715,8008
+8,5,Uttarakhand,186966,165690,8254
+8,6,Uttarakhand,190898,169634,8552
+8,7,Uttarakhand,199081,177042,8901
+8,8,Uttarakhand,205565,183248,9402
+8,9,Uttarakhand,209627,186531,9632
+8,10,Uttarakhand,218838,193925,10021
+8,13,Uttarakhand,242150,214203,11302
+8,14,Uttarakhand,251236,221085,11615
+8,15,Uttarakhand,256008,225614,11940
+8,16,Uttarakhand,260790,229387,12175
+8,21,Uttarakhand,294279,258971,14083
+9,30,Uttarakhand,712124,637547,65
+4,1,West Bengal,659,568,37

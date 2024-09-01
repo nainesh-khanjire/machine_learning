@@ -1,0 +1,11 @@
+
+Model Selection Examples are available at the following link
+
+https://drive.google.com/drive/folders/1lTTtMEyaQfRNO1RDZbX2olWC5hMhDxQG?usp=sharing
+
+						Assignment 
+
+Find the best Linear Regression model for the given datasets at following link
+
+https://www.kaggle.com/datasets/quantbruce/real-estate-price-prediction
+

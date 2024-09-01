@@ -1,0 +1,653 @@
+short_name,long_name,overall,age,dob,height_cm,weight_kg,club_position,Position,club_name,league_name,nationality_name,club_jersey_number,preferred_foot
+L. Messi,Lionel Andrés Messi Cuccittini,93,34,1987-06-24,170,72,RW,Forward,Paris Saint-Germain,French Ligue 1,Argentina,30,Left
+R. Lewandowski,Robert Lewandowski,92,32,1988-08-21,185,81,ST,Forward,FC Bayern München,German 1. Bundesliga,Poland,9,Right
+Cristiano Ronaldo,Cristiano Ronaldo dos Santos Aveiro,91,36,1985-02-05,187,83,ST,Forward,Manchester United,English Premier League,Portugal,7,Right
+Neymar Jr,Neymar da Silva Santos Júnior,91,29,1992-02-05,175,68,LW,Forward,Paris Saint-Germain,French Ligue 1,Brazil,10,Right
+K. De Bruyne,Kevin De Bruyne,91,30,1991-06-28,181,70,RCM,Midfield,Manchester City,English Premier League,Belgium,17,Right
+J. Oblak,Jan Oblak,91,28,1993-01-07,188,87,GK,GK,Atlético de Madrid,Spain Primera Division,Slovenia,13,Right
+K. Mbappé,Kylian Mbappé Lottin,91,22,1998-12-20,182,73,ST,Forward,Paris Saint-Germain,French Ligue 1,France,7,Right
+M. Neuer,Manuel Peter Neuer,90,35,1986-03-27,193,93,GK,GK,FC Bayern München,German 1. Bundesliga,Germany,1,Right
+M. ter Stegen,Marc-André ter Stegen,90,29,1992-04-30,187,85,GK,GK,FC Barcelona,Spain Primera Division,Germany,1,Right
+H. Kane,Harry Kane,90,27,1993-07-28,188,89,ST,Forward,Tottenham Hotspur,English Premier League,England,10,Right
+N. Kanté,N'Golo Kanté,90,30,1991-03-29,168,70,RCM,Midfield,Chelsea,English Premier League,France,7,Right
+S. Mané,Sadio Mané,89,29,1992-04-10,175,69,LW,Forward,Liverpool,English Premier League,Senegal,10,Right
+G. Donnarumma,Gianluigi Donnarumma,89,22,1999-02-25,196,90,GK,GK,Paris Saint-Germain,French Ligue 1,Italy,50,Right
+Alisson,Alisson Ramsés Becker,89,28,1992-10-02,191,91,GK,GK,Liverpool,English Premier League,Brazil,1,Right
+Ederson,Ederson Santana de Moraes,89,27,1993-08-17,188,86,GK,GK,Manchester City,English Premier League,Brazil,31,Left
+M. Salah,Mohamed Salah Ghaly,89,29,1992-06-15,175,71,RW,Forward,Liverpool,English Premier League,Egypt,11,Left
+J. Kimmich,Joshua Walter Kimmich,89,26,1995-02-08,177,75,RDM,Midfield,FC Bayern München,German 1. Bundesliga,Germany,6,Right
+V. van Dijk,Virgil van Dijk,89,29,1991-07-08,193,92,LCB,Defender,Liverpool,English Premier League,Netherlands,4,Right
+K. Benzema,Karim Benzema,89,33,1987-12-19,185,81,CF,Forward,Real Madrid CF,Spain Primera Division,France,9,Right
+H. Son,손흥민 孙兴慜,89,28,1992-07-08,183,78,LW,Forward,Tottenham Hotspur,English Premier League,Korea Republic,7,Right
+T. Courtois,Thibaut Courtois,89,29,1992-05-11,199,96,GK,GK,Real Madrid CF,Spain Primera Division,Belgium,1,Left
+Casemiro,Carlos Henrique Venancio Casimiro,89,29,1992-02-23,185,84,CDM,Midfield,Real Madrid CF,Spain Primera Division,Brazil,14,Right
+E. Haaland,Erling Braut Haaland,88,20,2000-07-21,194,94,RS,Forward,Borussia Dortmund,German 1. Bundesliga,Norway,9,Left
+Bruno Fernandes,Bruno Miguel Borges Fernandes,88,26,1994-09-08,179,69,CAM,Midfield,Manchester United,English Premier League,Portugal,18,Right
+R. Lukaku,Romelu Lukaku Menama,88,28,1993-05-13,191,94,ST,Forward,Chelsea,English Premier League,Belgium,9,Left
+T. Kroos,Toni Kroos,88,31,1990-01-04,183,76,LCM,Midfield,Real Madrid CF,Spain Primera Division,Germany,8,Right
+L. Suárez,Luis Alberto Suárez Díaz,88,34,1987-01-24,182,83,RS,Forward,Atlético de Madrid,Spain Primera Division,Uruguay,9,Right
+Sergio Ramos,Sergio Ramos García,88,35,1986-03-30,184,82,LCB,Defender,Paris Saint-Germain,French Ligue 1,Spain,4,Right
+M. Verratti,Marco Verratti,87,28,1992-11-05,165,60,LCM,Midfield,Paris Saint-Germain,French Ligue 1,Italy,6,Right
+Rúben Dias,Rúben dos Santos Gato Alves Dias,87,24,1997-05-14,187,82,RCB,Defender,Manchester City,English Premier League,Portugal,3,Right
+J. Sancho,Jadon Sancho,87,21,2000-03-25,180,76,LM,Midfield,Manchester United,English Premier League,England,25,Right
+T. Alexander-Arnold,Trent Alexander-Arnold,87,22,1998-10-07,180,69,RB,Defender,Liverpool,English Premier League,England,66,Right
+F. de Jong,Frenkie de Jong,87,24,1997-05-12,180,74,RCM,Midfield,FC Barcelona,Spain Primera Division,Netherlands,21,Right
+A. Robertson,Andrew Robertson,87,27,1994-03-11,178,64,LB,Defender,Liverpool,English Premier League,Scotland,26,Left
+L. Goretzka,Leon Christoph Goretzka,87,26,1995-02-06,189,82,LDM,Midfield,FC Bayern München,German 1. Bundesliga,Germany,8,Right
+Marquinhos,Marcos Aoás Corrêa,87,27,1994-05-14,183,75,RCB,Defender,Paris Saint-Germain,French Ligue 1,Brazil,5,Right
+P. Dybala,Paulo Bruno Exequiel Dybala,87,27,1993-11-15,177,75,CAM,Midfield,Juventus,Italian Serie A,Argentina,10,Left
+P. Pogba,Paul Pogba,87,28,1993-03-15,191,84,RDM,Midfield,Manchester United,English Premier League,France,6,Right
+S. Agüero,Sergio Leonel Agüero del Castillo,87,33,1988-06-02,173,70,ST,Forward,FC Barcelona,Spain Primera Division,Argentina,19,Right
+T. Müller,Thomas Müller,87,31,1989-09-13,185,76,CAM,Midfield,FC Bayern München,German 1. Bundesliga,Germany,25,Right
+W. Szczęsny,Wojciech Tomasz Szczęsny,87,31,1990-04-18,195,90,GK,GK,Juventus,Italian Serie A,Poland,1,Right
+L. Modrić,Luka Modrić,87,35,1985-09-09,172,66,RCM,Midfield,Real Madrid CF,Spain Primera Division,Croatia,10,Right
+H. Lloris,Hugo Lloris,87,34,1986-12-26,188,82,GK,GK,Tottenham Hotspur,English Premier League,France,1,Left
+C. Immobile,Ciro Immobile,87,31,1990-02-20,185,85,ST,Forward,Lazio,Italian Serie A,Italy,17,Right
+Fabinho,Fábio Henrique Tavares,86,27,1993-10-23,188,78,CDM,Midfield,Liverpool,English Premier League,Brazil,3,Right
+João Cancelo,João Pedro Cavaco Cancelo,86,27,1994-05-27,182,74,LB,Defender,Manchester City,English Premier League,Portugal,27,Right
+A. Laporte,Aymeric Laporte,86,27,1994-05-27,191,85,LCB,Defender,Manchester City,English Premier League,Spain,14,Left
+Rodri,Rodrigo Hernández Cascante,86,25,1996-06-22,191,82,CDM,Midfield,Manchester City,English Premier League,Spain,16,Right
+Marcos Llorente,Marcos Llorente Moreno,86,26,1995-01-30,184,74,RM,Midfield,Atlético de Madrid,Spain Primera Division,Spain,14,Right
+R. Mahrez,Riyad Mahrez,86,30,1991-02-21,179,67,RW,Forward,Manchester City,English Premier League,Algeria,26,Left
+M. Škriniar,Milan Škriniar,86,26,1995-02-11,188,80,RCB,Defender,Inter,Italian Serie A,Slovakia,37,Right
+Gerard Moreno,Gerard Moreno Balagueró,86,29,1992-04-07,180,77,RS,Forward,Villarreal CF,Spain Primera Division,Spain,7,Left
+J. Vardy,Jamie Vardy,86,34,1987-01-11,179,74,ST,Forward,Leicester City,English Premier League,England,9,Right
+R. Varane,Raphaël Varane,86,28,1993-04-25,191,81,RCB,Defender,Manchester United,English Premier League,France,19,Right
+Thiago,Thiago Alcântara do Nascimento,86,30,1991-04-11,174,70,LCM,Midfield,Liverpool,English Premier League,Spain,6,Right
+K. Koulibaly,Kalidou Koulibaly,86,30,1991-06-20,187,89,LCB,Defender,Napoli,Italian Serie A,Senegal,26,Right
+S. Handanovič,Samir Handanovič,86,36,1984-07-14,193,92,GK,GK,Inter,Italian Serie A,Slovenia,1,Right
+Jordi Alba,Jordi Alba Ramos,86,32,1989-03-21,170,68,LB,Defender,FC Barcelona,Spain Primera Division,Spain,18,Left
+M. Hummels,Mats Hummels,86,32,1988-12-16,191,96,LCB,Defender,Borussia Dortmund,German 1. Bundesliga,Germany,15,Right
+Sergio Busquets,Sergio Busquets i Burgos,86,32,1988-07-16,189,76,CDM,Midfield,FC Barcelona,Spain Primera Division,Spain,5,Right
+Parejo,Daniel Parejo Muñoz,86,32,1989-04-16,182,74,LCM,Midfield,Villarreal CF,Spain Primera Division,Spain,5,Right
+K. Casteels,Koen Casteels,86,29,1992-06-25,197,86,GK,GK,VfL Wolfsburg,German 1. Bundesliga,Belgium,1,Left
+L. Insigne,Lorenzo Insigne,86,30,1991-06-04,163,59,LW,Forward,Napoli,Italian Serie A,Italy,24,Right
+W. Ndidi,Onyinye Wilfred Ndidi,85,24,1996-12-16,183,74,LDM,Midfield,Leicester City,English Premier League,Nigeria,25,Right
+M. Depay,Memphis Depay,85,27,1994-02-13,176,78,LW,Forward,FC Barcelona,Spain Primera Division,Netherlands,9,Right
+Carvajal,Daniel Carvajal Ramos,85,29,1992-01-11,173,73,RB,Defender,Real Madrid CF,Spain Primera Division,Spain,2,Right
+Jorginho,Luiz Frello Filho Jorge,85,29,1991-12-20,180,68,LCM,Midfield,Chelsea,English Premier League,Italy,5,Right
+S. Gnabry,Serge David Gnabry,85,25,1995-07-14,176,77,RM,Midfield,FC Bayern München,German 1. Bundesliga,Germany,7,Right
+S. Milinković-Savić,Sergej Milinković-Savić,85,26,1995-02-27,191,76,RCM,Midfield,Lazio,Italian Serie A,Serbia,21,Right
+M. de Ligt,Matthijs de Ligt,85,21,1999-08-12,189,89,LCB,Defender,Juventus,Italian Serie A,Netherlands,4,Right
+Oyarzabal,Mikel Oyarzabal Ugarte,85,24,1997-04-21,181,79,LW,Forward,Real Sociedad,Spain Primera Division,Spain,10,Left
+L. Martínez,Lautaro Javier Martínez,85,23,1997-08-22,174,72,LS,Forward,Inter,Italian Serie A,Argentina,10,Right
+A. Hakimi,Achraf Hakimi Mouh,85,22,1998-11-04,181,73,RB,Defender,Paris Saint-Germain,French Ligue 1,Morocco,2,Right
+A. Griezmann,Antoine Griezmann,85,30,1991-03-21,176,73,LS,Forward,Atlético de Madrid,Spain Primera Division,France,17,Left
+Roberto Firmino,Roberto Firmino Barbosa de Oliveira,85,29,1991-10-02,181,76,CF,Forward,Liverpool,English Premier League,Brazil,9,Right
+S. de Vrij,Stefan de Vrij,85,29,1992-02-05,189,78,CB,Defender,Inter,Italian Serie A,Netherlands,6,Right
+Koke,Jorge Resurrección Merodio,85,29,1992-01-08,176,75,RCM,Midfield,Atlético de Madrid,Spain Primera Division,Spain,6,Right
+E. Hazard,Eden Hazard,85,30,1991-01-07,175,74,LW,Forward,Real Madrid CF,Spain Primera Division,Belgium,7,Right
+A. Gómez,Alejandro Darío Gómez,85,33,1988-02-15,167,68,LCM,Midfield,Sevilla FC,Spain Primera Division,Argentina,24,Right
+K. Schmeichel,Kasper Peter Schmeichel,85,34,1986-11-05,189,89,GK,GK,Leicester City,English Premier League,Denmark,1,Right
+David Silva,David Josué Jiménez Silva,85,35,1986-01-08,173,67,CAM,Midfield,Real Sociedad,Spain Primera Division,Spain,21,Left
+Y. Sommer,Yann Sommer,85,32,1988-12-17,183,79,GK,GK,Borussia Mönchengladbach,German 1. Bundesliga,Switzerland,1,Right
+L. Bonucci,Leonardo Bonucci,85,34,1987-05-01,190,85,RCB,Defender,Juventus,Italian Serie A,Italy,19,Right
+P. Gulácsi,Péter Gulácsi,85,31,1990-05-06,191,86,GK,GK,RB Leipzig,German 1. Bundesliga,Hungary,1,Right
+İ. Gündoğan,İlkay Gündoğan,85,30,1990-10-24,180,80,LCM,Midfield,Manchester City,English Premier League,Germany,8,Right
+M. Reus,Marco Reus,85,32,1989-05-31,180,71,CAM,Midfield,Borussia Dortmund,German 1. Bundesliga,Germany,11,Right
+K. Walker,Kyle Walker,85,31,1990-05-28,183,83,RB,Defender,Manchester City,English Premier League,England,2,Right
+P. Aubameyang,Pierre-Emerick Emiliano François Aubameyang,85,32,1989-06-18,187,80,ST,Forward,Arsenal,English Premier League,Gabon,14,Right
+J. Giménez,José María Giménez de Vargas,84,26,1995-01-20,185,79,CB,Defender,Atlético de Madrid,Spain Primera Division,Uruguay,2,Right
+Y. Carrasco,Yannick Ferreira Carrasco,84,27,1993-09-04,185,73,LM,Midfield,Atlético de Madrid,Spain Primera Division,Belgium,21,Right
+F. Kostić,Filip Kostić,84,28,1992-11-01,184,82,LM,Midfield,Eintracht Frankfurt,German 1. Bundesliga,Serbia,10,Left
+R. Guerreiro,Raphaël Adelino José Guerreiro,84,27,1993-12-22,170,71,LB,Defender,Borussia Dortmund,German 1. Bundesliga,Portugal,13,Left
+Ricardo Pereira,Ricardo Domingos Barbosa Pereira,84,27,1993-10-06,175,70,RB,Defender,Leicester City,English Premier League,Portugal,21,Right
+M. Maignan,Mike Maignan,84,25,1995-07-03,191,89,GK,GK,AC Milan,Italian Serie A,France,16,Right
+M. Brozović,Marcelo Brozović,84,28,1992-11-16,181,68,CDM,Midfield,Inter,Italian Serie A,Croatia,77,Right
+Y. Tielemans,Youri Tielemans,84,24,1997-05-07,176,72,RDM,Midfield,Leicester City,English Premier League,Belgium,8,Right
+T. Hernández,Theo Bernard François Hernández,84,23,1997-10-06,184,81,LB,Defender,AC Milan,Italian Serie A,France,19,Left
+N. Fekir,Nabil Fekir,84,27,1993-07-18,173,75,CAM,Midfield,Real Betis Balompié,Spain Primera Division,France,8,Left
+L. Sané,Leroy Aziz Sané,84,25,1996-01-11,183,80,LM,Midfield,FC Bayern München,German 1. Bundesliga,Germany,10,Left
+N. Barella,Nicolò Barella,84,24,1997-02-07,172,68,RCM,Midfield,Inter,Italian Serie A,Italy,23,Right
+M. Acuña,Marcos Javier Acuña,84,29,1991-10-28,172,69,LB,Defender,Sevilla FC,Spain Primera Division,Argentina,19,Left
+André Silva,André Miguel Valente da Silva,84,25,1995-11-06,185,84,ST,Forward,RB Leipzig,German 1. Bundesliga,Portugal,33,Right
+F. Kessié,Franck Yannick Kessié,84,24,1996-12-19,183,88,LDM,Midfield,AC Milan,Italian Serie A,Côte d'Ivoire,79,Right
+J. Grealish,Jack Grealish,84,25,1995-09-10,180,81,LW,Forward,Manchester City,English Premier League,England,10,Right
+M. Ginter,Matthias Ginter,84,27,1994-01-19,191,86,RCB,Defender,Borussia Mönchengladbach,German 1. Bundesliga,Germany,28,Right
+L. Shaw,Luke Shaw,84,25,1995-07-12,181,75,LB,Defender,Manchester United,English Premier League,England,23,Left
+De Gea,David De Gea Quintana,84,30,1990-11-07,192,82,GK,GK,Manchester United,English Premier League,Spain,1,Right
+Jesús Navas,Jesús Navas González,84,35,1985-11-21,172,60,RB,Defender,Sevilla FC,Spain Primera Division,Spain,16,Right
+Piqué,Gerard Piqué Bernabéu,84,34,1987-02-02,194,85,LCB,Defender,FC Barcelona,Spain Primera Division,Spain,3,Right
+J. Henderson,Jordan Henderson,84,31,1990-06-17,182,80,RCM,Midfield,Liverpool,English Premier League,England,14,Right
+Fernando,Fernando Francisco Reges,84,33,1987-07-25,183,76,CDM,Midfield,Sevilla FC,Spain Primera Division,Brazil,25,Right
+Iago Aspas,Iago Aspas Juncal,84,33,1987-08-01,176,67,RS,Forward,RC Celta de Vigo,Spain Primera Division,Spain,10,Left
+G. Wijnaldum,Georginio Wijnaldum,84,30,1990-11-11,175,74,RCM,Midfield,Paris Saint-Germain,French Ligue 1,Netherlands,18,Right
+D. Alaba,David Olatukunbo Alaba,84,29,1992-06-24,180,78,LB,Defender,Real Madrid CF,Spain Primera Division,Austria,4,Left
+D. Tadić,Dušan Tadić,84,32,1988-11-20,181,76,LW,Forward,Ajax,Holland Eredivisie,Serbia,10,Left
+W. Ben Yedder,Wissam Ben Yedder,84,30,1990-08-12,170,68,ST,Forward,AS Monaco,French Ligue 1,France,10,Right
+L. Digne,Lucas Digne,84,27,1993-07-20,178,74,LB,Defender,Everton,English Premier League,France,12,Left
+E. Martínez,Damián Emiliano Martínez,84,28,1992-09-02,195,88,GK,GK,Aston Villa,English Premier League,Argentina,1,Right
+H. Maguire,Harry Maguire,84,28,1993-03-05,194,100,LCB,Defender,Manchester United,English Premier League,England,5,Right
+Luis Alberto,Luis Alberto Romero Alconchel,84,28,1992-09-28,183,74,LCM,Midfield,Lazio,Italian Serie A,Spain,10,Right
+S. Savić,Stefan Savić,84,30,1991-01-08,187,80,RCB,Defender,Atlético de Madrid,Spain Primera Division,Montenegro,15,Right
+D. Zapata,Duván Esteban Zapata Banguera,83,30,1991-04-01,189,88,ST,Forward,Atalanta,Italian Serie A,Colombia,91,Right
+W. Weghorst,Wout Weghorst,83,28,1992-08-07,197,84,ST,Forward,VfL Wolfsburg,German 1. Bundesliga,Netherlands,9,Right
+Angeliño,José Ángel Esmoris Tasende,83,24,1997-01-04,175,69,LB,Defender,RB Leipzig,German 1. Bundesliga,Spain,3,Left
+A. Kramarić,Andrej Kramarić,83,30,1991-06-19,177,73,CAM,Midfield,TSG Hoffenheim,German 1. Bundesliga,Croatia,27,Right
+Gayà,José Luís Gayà Peña,83,26,1995-05-25,172,66,LB,Defender,Valencia CF,Spain Primera Division,Spain,14,Left
+P. Højbjerg,Pierre-Emile Kordt Højbjerg,83,25,1995-08-05,185,84,RCM,Midfield,Tottenham Hotspur,English Premier League,Denmark,5,Right
+T. Lemar,Thomas Lemar,83,25,1995-11-12,171,66,LCM,Midfield,Atlético de Madrid,Spain Primera Division,France,11,Left
+T. Partey,Thomas Partey,83,28,1993-06-13,185,77,RDM,Midfield,Arsenal,English Premier League,Ghana,5,Right
+Merino,Mikel Merino Zazón,83,25,1996-06-22,189,83,RCM,Midfield,Real Sociedad,Spain Primera Division,Spain,8,Left
+R. Gosens,Robin Everardus Gosens,83,26,1994-07-05,183,76,LM,Midfield,Atalanta,Italian Serie A,Germany,8,Left
+F. Chiesa,Federico Chiesa,83,23,1997-10-25,175,70,LM,Midfield,Juventus,Italian Serie A,Italy,22,Right
+A. Wan-Bissaka,Aaron Wan-Bissaka,83,23,1997-11-26,183,72,RB,Defender,Manchester United,English Premier League,England,29,Right
+Ronaldo Cabrais,Ronaldo Jailson Cabrais Petri,83,29,1992-02-29,177,75,CAM,Midfield,Grêmio,Campeonato Brasileiro Série A,Brazil,7,Right
+O. Dembélé,Ousmane Dembélé,83,24,1997-05-15,178,67,RW,Forward,FC Barcelona,Spain Primera Division,France,7,Left
+M. Mount,Mason Mount,83,22,1999-01-10,178,70,RW,Forward,Chelsea,English Premier League,England,19,Right
+É. Mendy,Édouard Mendy,83,29,1992-03-01,197,86,GK,GK,Chelsea,English Premier League,Senegal,16,Right
+A. Rüdiger,Antonio Rüdiger,83,28,1993-03-03,190,85,LCB,Defender,Chelsea,English Premier League,Germany,2,Right
+L. Ocampos,Lucas Ariel Ocampos,83,26,1994-07-11,188,84,LW,Forward,Sevilla FC,Spain Primera Division,Argentina,5,Right
+R. Jiménez,Raúl Alonso Jiménez Rodríguez,83,30,1991-05-05,188,81,ST,Forward,Wolverhampton Wanderers,English Premier League,Mexico,9,Right
+J. Pickford,Jordan Pickford,83,27,1994-03-07,185,77,GK,GK,Everton,English Premier League,England,1,Left
+B. Leno,Bernd Leno,83,29,1992-03-04,190,83,GK,GK,Arsenal,English Premier League,Germany,1,Right
+C. Vela,Carlos Alberto Vela Garrido,83,32,1989-03-01,177,77,RW,Forward,Los Angeles FC,USA Major League Soccer,Mexico,10,Left
+S. Kjær,Simon Thorup Kjær,83,32,1989-03-26,190,86,RCB,Defender,AC Milan,Italian Serie A,Denmark,24,Right
+Azpilicueta,César Azpilicueta Tanco,83,31,1989-08-28,178,77,RWB,Defender,Chelsea,English Premier League,Spain,28,Right
+Paulinho,José Paulo Bezzera Maciel Júnior,83,32,1988-07-25,183,80,LCM,Midfield,Al Ahli,Saudi Abdul L. Jameel League,Brazil,15,Right
+Muniain,Iker Muniain Goñi,83,28,1992-12-19,170,66,LM,Midfield,Athletic Club de Bilbao,Spain Primera Division,Spain,10,Right
+Canales,Sergio Canales Madrazo,83,30,1991-02-16,176,65,LM,Midfield,Real Betis Balompié,Spain Primera Division,Spain,10,Left
+L. Hrádecký,Lukáš Hrádecký,83,31,1989-11-24,192,83,GK,GK,Bayer 04 Leverkusen,German 1. Bundesliga,Finland,1,Right
+Alex Sandro,Alex Sandro Lobo Silva,83,30,1991-01-26,180,80,LB,Defender,Juventus,Italian Serie A,Brazil,12,Left
+E. Džeko,Edin Džeko,83,35,1986-03-17,193,80,RS,Forward,Inter,Italian Serie A,Bosnia and Herzegovina,9,Right
+K. Manolas,Konstantinos Manolas,83,30,1991-06-14,189,83,RCB,Defender,Napoli,Italian Serie A,Greece,44,Right
+K. Volland,Kevin Volland,83,28,1992-07-30,179,85,RF,Forward,AS Monaco,French Ligue 1,Germany,31,Left
+H. Mkhitaryan,Henrikh Mkhitaryan,83,32,1989-01-21,177,75,LM,Midfield,Roma,Italian Serie A,Armenia,77,Right
+N. Pope,Nick Pope,83,29,1992-04-19,199,76,GK,GK,Burnley,English Premier League,England,1,Right
+Morata,Álvaro Borja Morata Martín,83,28,1992-10-23,190,84,ST,Forward,Juventus,Italian Serie A,Spain,9,Right
+Allan,Allan Marques Loureiro,83,30,1991-01-08,175,74,LDM,Midfield,Everton,English Premier League,Brazil,6,Right
+F. Acerbi,Francesco Acerbi,83,33,1988-02-10,192,88,LCB,Defender,Lazio,Italian Serie A,Italy,33,Left
+S. Coates,Sebastián Coates Nión,83,30,1990-10-07,196,92,CB,Defender,Sporting CP,Portuguese Liga ZON SAGRES,Uruguay,4,Right
+J. Matip,Joël Andre Job Matip,83,29,1991-08-08,194,90,RCB,Defender,Liverpool,English Premier League,Cameroon,32,Right
+J. Cuadrado,Juan Guillermo Cuadrado Bello,83,33,1988-05-26,179,72,RM,Midfield,Juventus,Italian Serie A,Colombia,11,Right
+J. Maddison,James Maddison,82,24,1996-11-23,175,73,CAM,Midfield,Leicester City,English Premier League,England,10,Right
+Palhinha,João Maria Lobo Alves Palhinha Gonçalves,82,25,1995-07-09,190,82,LCM,Midfield,Sporting CP,Portuguese Liga ZON SAGRES,Portugal,6,Right
+C. Pulisic,Christian Mate Pulisic,82,22,1998-09-18,177,69,LW,Forward,Chelsea,English Premier League,United States,10,Right
+Fabián,Fabián Ruiz Peña,82,25,1996-04-03,189,70,RCM,Midfield,Napoli,Italian Serie A,Spain,8,Left
+Rúben Neves,Rúben Diogo da Silva Neves,82,24,1997-03-13,180,80,RCM,Midfield,Wolverhampton Wanderers,English Premier League,Portugal,8,Right
+M. Ødegaard,Martin Ødegaard,82,22,1998-12-17,178,68,CAM,Midfield,Arsenal,English Premier League,Norway,8,Left
+A. Rebić,Ante Rebić,82,27,1993-09-21,185,78,LM,Midfield,AC Milan,Italian Serie A,Croatia,12,Right
+Diego Carlos,Diego Carlos Santos Silva,82,28,1993-03-15,185,86,LCB,Defender,Sevilla FC,Spain Primera Division,Brazil,20,Right
+Rafa,Rafael Alexandre Fernandes Ferreira da Silva,82,28,1993-05-17,170,63,RM,Midfield,SL Benfica,Portuguese Liga ZON SAGRES,Portugal,27,Right
+Anderson Talisca,Anderson Souza Conceição,82,27,1994-02-01,190,80,CAM,Midfield,Al Nassr,Saudi Abdul L. Jameel League,Brazil,94,Left
+N. Süle,Niklas Süle,82,25,1995-09-03,195,99,LCB,Defender,FC Bayern München,German 1. Bundesliga,Germany,4,Right
+Mario Hermoso,Mario Hermoso Canseco,82,26,1995-06-18,185,76,LCB,Defender,Atlético de Madrid,Spain Primera Division,Spain,22,Left
+T. Souček,Tomáš Souček,82,26,1995-02-27,192,86,RDM,Midfield,West Ham United,English Premier League,Czech Republic,28,Right
+F. Neuhaus,Florian Christian Neuhaus,82,24,1997-03-16,185,74,LDM,Midfield,Borussia Mönchengladbach,German 1. Bundesliga,Germany,32,Right
+D. Livaković,Dominik Livaković,82,26,1995-01-09,187,79,GK,GK,Dinamo Zagreb,Croatian Prva HNL,Croatia,40,Right
+Ferran Torres,Ferran Torres García,82,21,2000-02-29,184,77,ST,Forward,Manchester City,English Premier League,Spain,21,Right
+D. Berardi,Domenico Berardi,82,26,1994-08-01,183,72,RM,Midfield,U.S. Sassuolo Calcio,Italian Serie A,Italy,25,Left
+Y. En-Nesyri,Youssef En-Nesyri,82,24,1997-06-01,188,78,ST,Forward,Sevilla FC,Spain Primera Division,Morocco,15,Left
+A. Davies,Alphonso Boyle Davies,82,20,2000-11-02,183,75,LB,Defender,FC Bayern München,German 1. Bundesliga,Canada,19,Left
+Raphaelinho Anjos,Raphael William Anjos Rochedo,82,33,1988-02-29,190,85,GK,GK,RB Bragantino,Campeonato Brasileiro Série A,Brazil,1,Right
+D. Rice,Declan Rice,82,22,1999-01-14,185,80,LDM,Midfield,West Ham United,English Premier League,England,41,Right
+A. Isak,Alexander Isak,82,21,1999-09-21,192,77,ST,Forward,Real Sociedad,Spain Primera Division,Sweden,19,Right
+Raphinha,Raphael Dias Belloli,82,24,1996-12-14,176,68,RM,Midfield,Leeds United,English Premier League,Brazil,10,Left
+Richarlison,Richarlison de Andrade,82,24,1997-05-10,181,71,LM,Midfield,Everton,English Premier League,Brazil,7,Right
+Unai Simón,Unai Simón Mendibil,82,24,1997-06-11,190,89,GK,GK,Athletic Club de Bilbao,Spain Primera Division,Spain,1,Right
+M. Locatelli,Manuel Locatelli,82,23,1998-01-08,185,75,RDM,Midfield,Juventus,Italian Serie A,Italy,27,Right
+I. Gueye,Idrissa Gana Gueye,82,31,1989-09-26,174,66,CM,Midfield,Paris Saint-Germain,French Ligue 1,Senegal,27,Right
+M. Götze,Mario Götze,82,29,1992-06-03,177,71,CAM,Midfield,PSV,Holland Eredivisie,Germany,27,Right
+D. Blind,Daley Blind,82,31,1990-03-09,180,72,LB,Defender,Ajax,Holland Eredivisie,Netherlands,17,Left
+K. Trapp,Kevin Trapp,82,30,1990-07-08,189,88,GK,GK,Eintracht Frankfurt,German 1. Bundesliga,Germany,1,Right
+Oscar,Oscar dos Santos Emboaba Júnior,82,29,1991-09-09,179,70,CAM,Midfield,Shanghai Port FC,Chinese Super League,Brazil,8,Right
+L. Stindl,Lars Edi Stindl,82,32,1988-08-26,181,80,CAM,Midfield,Borussia Mönchengladbach,German 1. Bundesliga,Germany,13,Right
+M. Pjanić,Miralem Pjanić,82,31,1990-04-02,178,72,RCM,Midfield,Beşiktaş JK,Turkish Süper Lig,Bosnia and Herzegovina,15,Right
+É. Banega,Éver Maximiliano David Banega,82,33,1988-06-29,174,75,CAM,Midfield,Al Shabab,Saudi Abdul L. Jameel League,Argentina,10,Right
+Rui Patrício,Rui Pedro dos Santos Patrício,82,33,1988-02-15,190,84,GK,GK,Roma,Italian Serie A,Portugal,1,Left
+G. Bale,Gareth Frank Bale,82,31,1989-07-16,185,82,RW,Forward,Real Madrid CF,Spain Primera Division,Wales,18,Left
+S. Sirigu,Salvatore Sirigu,82,34,1987-01-12,192,85,GK,GK,Genoa,Italian Serie A,Italy,57,Right
+Ł. Fabiański,Łukasz Fabiański,82,36,1985-04-18,190,83,GK,GK,West Ham United,English Premier League,Poland,1,Right
+Raúl Albiol,Raúl Albiol Tortajada,82,35,1985-09-04,190,82,RCB,Defender,Villarreal CF,Spain Primera Division,Spain,3,Right
+Pepe,Kléper Laveran de Lima Ferreira,82,38,1983-02-26,188,80,LCB,Defender,FC Porto,Portuguese Liga ZON SAGRES,Portugal,3,Right
+Grimaldo,Alejandro Grimaldo García,82,25,1995-09-20,171,69,LWB,Defender,SL Benfica,Portuguese Liga ZON SAGRES,Spain,3,Left
+Mário Fernandes,Mário Figueira Fernandes,82,30,1990-09-19,187,80,RB,Defender,PFC CSKA Moscow,Russian Premier League,Russia,2,Right
+Suso,Jesús Joaquín Fernández Sáez de la Torre,82,27,1993-11-19,176,70,RW,Forward,Sevilla FC,Spain Primera Division,Spain,7,Left
+Y. Bounou,Yassine Bounou,82,30,1991-04-05,192,78,GK,GK,Sevilla FC,Spain Primera Division,Morocco,13,Left
+O. Baumann,Oliver Baumann,82,31,1990-06-02,187,82,GK,GK,TSG Hoffenheim,German 1. Bundesliga,Germany,1,Right
+M. de Roon,Marten Elco de Roon,82,30,1991-03-29,185,76,RCM,Midfield,Atalanta,Italian Serie A,Netherlands,15,Right
+H. Çalhanoğlu,Hakan Çalhanoğlu,82,27,1994-02-08,178,76,LCM,Midfield,Inter,Italian Serie A,Turkey,20,Right
+Juan Bernat,Juan Bernat Velasco,82,28,1993-03-01,170,67,LB,Defender,Paris Saint-Germain,French Ligue 1,Spain,14,Left
+J. Veretout,Jordan Veretout,82,28,1993-03-01,177,67,LDM,Midfield,Roma,Italian Serie A,France,17,Right
+Gabriel Paulista,Gabriel Armando de Abreu,82,30,1990-11-26,185,72,RCB,Defender,Valencia CF,Spain Primera Division,Brazil,5,Right
+Campaña,José Ángel Gómez Campaña,82,28,1993-05-31,179,70,LCM,Midfield,Levante Unión Deportiva,Spain Primera Division,Spain,24,Right
+A. Lopes,Anthony Lopes,82,30,1990-10-01,184,81,GK,GK,Olympique Lyonnais,French Ligue 1,Portugal,1,Left
+W. Zaha,Wilfried Zaha,82,28,1992-11-10,180,66,RW,Forward,Crystal Palace,English Premier League,Côte d'Ivoire,11,Right
+K. Laimer,Konrad Laimer,81,24,1997-05-27,180,72,RDM,Midfield,RB Leipzig,German 1. Bundesliga,Austria,27,Right
+D. Calvert-Lewin,Dominic Calvert-Lewin,81,24,1997-03-16,187,71,ST,Forward,Everton,English Premier League,England,9,Right
+K. Phillips,Kalvin Phillips,81,25,1995-12-02,178,72,CDM,Midfield,Leeds United,English Premier League,England,23,Right
+David Soria,David Soria Solís,81,28,1993-04-04,192,85,GK,GK,Getafe CF,Spain Primera Division,Spain,13,Right
+N. Pépé,Nicolas Pépé,81,26,1995-05-29,183,73,RM,Midfield,Arsenal,English Premier League,Côte d'Ivoire,19,Left
+Gonçalo Guedes,Gonçalo Manuel Ganchinho Guedes,81,24,1996-11-29,179,68,LS,Forward,Valencia CF,Spain Primera Division,Portugal,7,Right
+Morales,José Luis Morales Nogales,81,33,1987-07-23,180,70,LS,Forward,Levante Unión Deportiva,Spain Primera Division,Spain,11,Right
+D. Djené,Djené Dakonam Ortega,81,29,1991-12-31,178,72,RCB,Defender,Getafe CF,Spain Primera Division,Togo,2,Right
+D. Machís,Darwin Daniel Machís Marcano,81,28,1993-02-07,174,74,RM,Midfield,Granada CF,Spain Primera Division,Venezuela,11,Right
+M. Politano,Matteo Politano,81,27,1993-08-03,171,67,RW,Forward,Napoli,Italian Serie A,Italy,21,Left
+Iñaki Williams,Iñaki Williams Arthuer,81,27,1994-06-15,186,80,LS,Forward,Athletic Club de Bilbao,Spain Primera Division,Spain,9,Right
+O. Vlachodimos,Odisseas Vlachodimos,81,27,1994-04-26,191,78,GK,GK,SL Benfica,Portuguese Liga ZON SAGRES,Greece,99,Right
+Otávio,Otávio Edmilson da Silva Monteiro,81,26,1995-02-09,172,71,RM,Midfield,FC Porto,Portuguese Liga ZON SAGRES,Portugal,25,Right
+P. Zieliński,Piotr Sebastian Zieliński,81,27,1994-05-20,180,75,CAM,Midfield,Napoli,Italian Serie A,Poland,20,Right
+Rui Silva,Rui Tiago Dantas da Silva,81,27,1994-02-07,191,91,GK,GK,Real Betis Balompié,Spain Primera Division,Portugal,13,Right
+N. Mukiele,Nordi Mukiele Mulere,81,23,1997-11-01,187,84,RB,Defender,RB Leipzig,German 1. Bundesliga,France,22,Right
+Reguilón,Sergio Reguilón Rodríguez,81,24,1996-12-16,178,68,LB,Defender,Tottenham Hotspur,English Premier League,Spain,3,Left
+Álex Remiro,Alejandro Remiro Gargallo,81,26,1995-03-24,191,83,GK,GK,Real Sociedad,Spain Primera Division,Spain,1,Right
+Yeray,Yeray Álvarez López,81,26,1995-01-24,182,79,RCB,Defender,Athletic Club de Bilbao,Spain Primera Division,Spain,5,Right
+Fred,Frederico Rodrigues de Paula Santos,81,28,1993-03-05,169,62,LDM,Midfield,Manchester United,English Premier League,Brazil,17,Left
+Pedri,Pedro González López,81,18,2002-11-25,174,61,LCM,Midfield,FC Barcelona,Spain Primera Division,Spain,16,Right
+E. Tapsoba,Edmond Fayçal Tapsoba,81,22,1999-02-02,194,85,RCB,Defender,Bayer 04 Leverkusen,German 1. Bundesliga,Burkina Faso,12,Right
+M. Diaby,Moussa Diaby,81,21,1999-07-07,170,68,RM,Midfield,Bayer 04 Leverkusen,German 1. Bundesliga,France,19,Left
+Pedro Gonçalves,Pedro António Pereira Gonçalves,81,23,1998-06-28,173,65,RW,Forward,Sporting CP,Portuguese Liga ZON SAGRES,Portugal,28,Right
+R. James,Reece James,81,21,1999-12-08,178,87,RCB,Defender,Chelsea,English Premier League,England,24,Right
+M. Lazzari,Manuel Lazzari,81,27,1993-11-29,174,67,RB,Defender,Lazio,Italian Serie A,Italy,29,Right
+H. Aouar,Houssem Aouar,81,23,1998-06-30,175,70,LM,Midfield,Olympique Lyonnais,French Ligue 1,France,8,Right
+H. Barnes,Harvey Lewis Barnes,81,23,1997-12-09,180,66,LM,Midfield,Leicester City,English Premier League,England,7,Right
+Carlos Soler,Carlos Soler Barragán,81,24,1997-01-02,180,76,RM,Midfield,Valencia CF,Spain Primera Division,Spain,10,Right
+Lucas Paquetá,Lucas Tolentino Coelho de Lima,81,23,1997-08-27,180,72,CAM,Midfield,Olympique Lyonnais,French Ligue 1,Brazil,10,Left
+C. Nkunku,Christopher Nkunku,81,23,1997-11-14,179,72,LAM,Midfield,RB Leipzig,German 1. Bundesliga,France,18,Right
+R. Malinovskyi,Ruslan Malinovskyi,81,28,1993-05-04,181,79,RF,Forward,Atalanta,Italian Serie A,Ukraine,18,Left
+Oswaldinato,Marvin Oswaldo Rangel Azevedo,81,29,1992-02-29,184,79,ST,Forward,Flamengo,Campeonato Brasileiro Série A,Brazil,20,Right
+Louri Beretta,Lourival Adnan Beretta Barbosa,81,29,1992-02-29,188,83,ST,Forward,RB Bragantino,Campeonato Brasileiro Série A,Brazil,9,Right
+Rosberto Dourado,Rosberto J. Dourado Santos,81,21,2000-02-29,175,70,RDM,Midfield,Sport Club Corinthians Paulista,Campeonato Brasileiro Série A,Brazil,22,Right
+Juiano Mestres,Juan Everton Mestres de Mesquita,81,25,1996-02-29,181,82,RCB,Defender,Clube Atlético Mineiro,Campeonato Brasileiro Série A,Brazil,21,Right
+L. Pellegrini,Lorenzo Pellegrini,81,25,1996-06-19,186,77,CAM,Midfield,Roma,Italian Serie A,Italy,7,Right
+José Fonte,José Miguel da Rocha Fonte,81,37,1983-12-22,191,84,RCB,Defender,LOSC Lille,French Ligue 1,Portugal,6,Right
+Jonathan Viera,Jonathan Viera Ramos,81,31,1989-10-01,171,67,CAM,Midfield,Unión Deportiva Las Palmas,Spanish Segunda División,Spain,21,Right
+D. Ings,Daniel William John Ings,81,28,1992-07-23,178,73,ST,Forward,Aston Villa,English Premier League,England,20,Right
+K. Kampl,Kevin Kampl,81,30,1990-10-09,178,66,LDM,Midfield,RB Leipzig,German 1. Bundesliga,Slovenia,44,Right
+Aitor,Aitor Fernández Abarisketa,81,30,1991-05-03,182,78,GK,GK,Levante Unión Deportiva,Spain Primera Division,Spain,1,Right
+N. Otamendi,Nicolás Hernán Gonzalo Otamendi,81,33,1988-02-12,183,76,CB,Defender,SL Benfica,Portuguese Liga ZON SAGRES,Argentina,30,Right
+B. André,Benjamin André,81,30,1990-08-03,180,74,RCM,Midfield,LOSC Lille,French Ligue 1,France,21,Right
+Marlos,Marlos Romero Bonfim,81,33,1988-06-07,174,76,RM,Midfield,Shakhtar Donetsk,Ukrainian Premier League,Ukraine,11,Left
+M. Arnautović,Marko Arnautović,81,32,1989-04-19,192,83,ST,Forward,Bologna,Italian Serie A,Austria,9,Right
+M. Kruse,Max Bennet Kruse,81,33,1988-03-19,180,76,LS,Forward,1. FC Union Berlin,German 1. Bundesliga,Germany,10,Left
+I. Perišić,Ivan Perišić,81,32,1989-02-02,186,80,LM,Midfield,Inter,Italian Serie A,Croatia,14,Left
+Lucas Leiva,Lucas Pezzini Leiva,81,34,1987-01-09,179,78,CDM,Midfield,Lazio,Italian Serie A,Brazil,6,Right
+J. Vertonghen,Jan Vertonghen,81,34,1987-04-24,189,86,LCB,Defender,SL Benfica,Portuguese Liga ZON SAGRES,Belgium,5,Left
+Joaquín,Joaquín Sánchez Rodríguez,81,39,1981-07-21,179,75,RM,Midfield,Real Betis Balompié,Spain Primera Division,Spain,17,Right
+G. Higuaín,Gonzalo Gerardo Higuaín,81,33,1987-12-10,186,89,ST,Forward,Inter Miami CF,USA Major League Soccer,Argentina,9,Right
+S. Mandanda,Steve Mandanda,81,36,1985-03-28,185,82,GK,GK,Olympique de Marseille,French Ligue 1,France,30,Right
+A. Gignac,André-Pierre Christian Gignac,81,35,1985-12-05,189,85,RS,Forward,Tigres U.A.N.L.,Mexican Liga MX,France,10,Right
+Nani,Luís Carlos Almeida da Cunha,81,34,1986-11-17,177,70,ST,Forward,Orlando City Soccer Club,USA Major League Soccer,Portugal,17,Right
+B. Yılmaz,Burak Yılmaz,81,35,1985-07-15,188,77,LS,Forward,LOSC Lille,French Ligue 1,Turkey,17,Right
+A. Belotti,Andrea Belotti,81,27,1993-12-20,181,84,ST,Forward,Torino F.C.,Italian Serie A,Italy,9,Right
+Adán,Antonio Adán Garrido,81,34,1987-05-13,190,86,GK,GK,Sporting CP,Portuguese Liga ZON SAGRES,Spain,1,Left
+E. Forsberg,Emil Peter Forsberg,81,29,1991-10-23,177,76,CAM,Midfield,RB Leipzig,German 1. Bundesliga,Sweden,10,Right
+Danilo,Danilo Luiz da Silva,81,29,1991-07-15,184,78,RB,Defender,Juventus,Italian Serie A,Brazil,6,Right
+A. Januzaj,Adnan Januzaj,81,26,1995-02-05,186,76,RW,Forward,Real Sociedad,Spain Primera Division,Belgium,11,Left
+M. Arnold,Maximilian Arnold,81,27,1994-05-27,184,74,LDM,Midfield,VfL Wolfsburg,German 1. Bundesliga,Germany,27,Left
+E. Višća,Edin Višća,81,31,1990-02-17,172,63,RM,Midfield,İstanbul Başakşehir FK,Turkish Süper Lig,Bosnia and Herzegovina,7,Right
+J. Ward-Prowse,James Ward-Prowse,81,26,1994-11-01,173,66,RCM,Midfield,Southampton,English Premier League,England,8,Right
+A. Milik,Arkadiusz Krystian Milik,81,27,1994-02-28,186,78,ST,Forward,Olympique de Marseille,French Ligue 1,Poland,9,Left
+W. Orban,Vilmos Tamás Orban,81,28,1992-11-03,186,87,RCB,Defender,RB Leipzig,German 1. Bundesliga,Hungary,4,Right
+Iñigo Martínez,Íñigo Martínez Berridi,81,30,1991-05-17,182,77,LCB,Defender,Athletic Club de Bilbao,Spain Primera Division,Spain,4,Left
+A. Cragno,Alessio Cragno,81,27,1994-06-28,184,78,GK,GK,Cagliari,Italian Serie A,Italy,28,Right
+Nacho Fernández,José Ignacio Fernández Iglesias,81,31,1990-01-18,180,76,LCB,Defender,Real Madrid CF,Spain Primera Division,Spain,6,Right
+J. Tarkowski,James Tarkowski,81,28,1992-11-19,188,81,RCB,Defender,Burnley,English Premier League,England,5,Right
+A. Marchesín,Agustín Federico Marchesín,81,33,1988-03-16,188,84,GK,GK,FC Porto,Portuguese Liga ZON SAGRES,Argentina,1,Right
+Lucas Moura,Lucas Rodrigues Moura da Silva,81,28,1992-08-13,174,70,RW,Forward,Tottenham Hotspur,English Premier League,Brazil,27,Right
+Paco Alcácer,Francisco Alcácer García,81,27,1993-08-30,175,70,LS,Forward,Villarreal CF,Spain Primera Division,Spain,9,Right
+T. Vaclík,Tomáš Vaclík,81,32,1989-03-29,188,85,GK,GK,Olympiacos CFP,Greek Super League,Czech Republic,1,Right
+J. Rodríguez,Jonathan Javier Rodríguez Portillo,80,27,1993-07-06,177,79,ST,Forward,Cruz Azul,Mexican Liga MX,Uruguay,21,Right
+Joan Jordán,Joan Jordán Moreno,80,26,1994-07-06,183,74,RCM,Midfield,Sevilla FC,Spain Primera Division,Spain,8,Right
+Borja Iglesias,Borja Iglesias Quintas,80,28,1993-01-17,187,86,ST,Forward,Real Betis Balompié,Spain Primera Division,Spain,9,Right
+J. Bamba,Jonathan Bamba,80,25,1996-03-26,175,70,LM,Midfield,LOSC Lille,French Ligue 1,France,7,Right
+Álex Berenguer,Alejandro Berenguer Remiro,80,25,1995-07-04,175,73,RM,Midfield,Athletic Club de Bilbao,Spain Primera Division,Spain,7,Right
+K. Tierney,Kieran Tierney,80,24,1997-06-05,178,70,LB,Defender,Arsenal,English Premier League,Scotland,3,Left
+Everton,Éverton Sousa Soares,80,25,1996-03-22,174,72,LM,Midfield,SL Benfica,Portuguese Liga ZON SAGRES,Brazil,7,Right
+A. Christensen,Andreas Bødtker Christensen,80,25,1996-04-10,187,81,CB,Defender,Chelsea,English Premier League,Denmark,4,Right
+J. Denayer,Jason Denayer,80,26,1995-06-28,184,80,LCB,Defender,Olympique Lyonnais,French Ligue 1,Belgium,5,Right
+Embarba,Adrián Embarba Blázquez,80,29,1992-05-07,173,68,RM,Midfield,RCD Espanyol de Barcelona,Spain Primera Division,Spain,23,Right
+Capa,Ander Capa Rodríguez,80,29,1992-02-08,175,75,RB,Defender,Athletic Club de Bilbao,Spain Primera Division,Spain,21,Right
+G. Rulli,Gerónimo Rulli,80,29,1992-05-20,189,84,GK,GK,Villarreal CF,Spain Primera Division,Argentina,13,Right
+W. Benítez,Walter Daniel Benítez,80,28,1993-01-19,191,93,GK,GK,OGC Nice,French Ligue 1,Argentina,40,Right
+F. Armani,Franco Armani,80,34,1986-10-16,189,88,GK,GK,River Plate,Argentina Primera División,Argentina,1,Right
+João Mário,João Mário Naval da Costa Eduardo,80,28,1993-01-19,179,73,LCM,Midfield,SL Benfica,Portuguese Liga ZON SAGRES,Portugal,20,Right
+P. Max,Philipp Martin Max,80,27,1993-09-30,177,77,LB,Defender,PSV,Holland Eredivisie,Germany,31,Left
+Nélson Semedo,Nélson Cabral Semedo,80,27,1993-11-16,177,69,RWB,Defender,Wolverhampton Wanderers,English Premier League,Portugal,22,Right
+G. Mancini,Gianluca Mancini,80,25,1996-04-17,190,77,RCB,Defender,Roma,Italian Serie A,Italy,23,Right
+B. Saka,Bukayo Saka,80,19,2001-09-05,178,65,LM,Midfield,Arsenal,English Premier League,England,7,Left
+V. Coufal,Vladimír Coufal,80,28,1992-08-22,175,76,RB,Defender,West Ham United,English Premier League,Czech Republic,5,Right
+V. Tsygankov,Viktor Tsygankov,80,23,1997-11-15,178,72,RM,Midfield,Dynamo Kyiv,Ukrainian Premier League,Ukraine,15,Left
+Pedro Porro,Pedro Antonio Porro Sauceda,80,21,1999-09-13,176,71,RWB,Defender,Sporting CP,Portuguese Liga ZON SAGRES,Spain,24,Right
+D. Alli,Bamidele Alli,80,25,1996-04-11,188,80,LCM,Midfield,Tottenham Hotspur,English Premier League,England,20,Right
+L. Díaz,Luis Fernando Díaz Marulanda,80,24,1997-01-13,180,73,LM,Midfield,FC Porto,Portuguese Liga ZON SAGRES,Colombia,7,Right
+R. Baku,Ridle Bote Baku,80,23,1998-04-08,176,75,RM,Midfield,VfL Wolfsburg,German 1. Bundesliga,Germany,20,Right
+M. Gómez,Maximiliano Gómez González,80,24,1996-08-14,186,84,RS,Forward,Valencia CF,Spain Primera Division,Uruguay,9,Right
+A. Bastoni,Alessandro Bastoni,80,22,1999-04-13,190,75,LCB,Defender,Inter,Italian Serie A,Italy,95,Left
+B. Kamara,Boubacar Bernard Kamara,80,21,1999-11-23,184,68,RDM,Midfield,Olympique de Marseille,French Ligue 1,France,4,Right
+J. Pavlenka,Jiří Pavlenka,80,29,1992-04-14,196,81,GK,GK,SV Werder Bremen,German 2. Bundesliga,Czech Republic,1,Right
+N. Mazraoui,Noussair Mazraoui,80,23,1997-11-14,183,62,RB,Defender,Ajax,Holland Eredivisie,Morocco,12,Right
+X. Schlager,Xaver Schlager,80,23,1997-09-28,174,76,RDM,Midfield,VfL Wolfsburg,German 1. Bundesliga,Austria,24,Left
+V. Osimhen,Victor James Osimhen,80,22,1998-12-29,185,78,ST,Forward,Napoli,Italian Serie A,Nigeria,9,Right
+D. Malen,Donyell Malen,80,22,1999-01-19,179,78,LS,Forward,Borussia Dortmund,German 1. Bundesliga,Netherlands,21,Right
+Renato Sanches,Renato Júnior Luz Sanches,80,23,1997-08-18,176,70,LCM,Midfield,LOSC Lille,French Ligue 1,Portugal,18,Right
+Laure Santeiro,Laureano Thomas Santeiro Marre,80,21,2000-02-29,171,63,LM,Midfield,Fluminense,Campeonato Brasileiro Série A,Brazil,10,Left
+Héniton Pires,Héniton Enaldo Pires Tramontino,80,25,1996-02-29,182,74,GK,GK,Flamengo,Campeonato Brasileiro Série A,Brazil,1,Right
+Maikel Catarino,Maikel Renan Catarino Fagundes,80,25,1996-02-29,177,75,RB,Defender,Sport Club Corinthians Paulista,Campeonato Brasileiro Série A,Brazil,2,Right
+E. Pérez,Enzo Nicolás Pérez,80,35,1986-02-22,178,77,RDM,Midfield,River Plate,Argentina Primera División,Argentina,24,Right
+R. Pereyra,Roberto Maximiliano Pereyra,80,30,1991-01-07,182,77,CM,Midfield,Udinese Calcio,Italian Serie A,Argentina,37,Right
+Guaita,Vicente Guaita Panadero,80,34,1987-01-10,190,80,GK,GK,Crystal Palace,English Premier League,Spain,13,Right
+José Callejón,José María Callejón Bueno,80,34,1987-02-11,178,73,RW,Forward,Fiorentina,Italian Serie A,Spain,7,Right
+A. Ogbonna,Angelo Obinze Ogbonna,80,33,1988-05-23,191,86,LCB,Defender,West Ham United,English Premier League,Italy,21,Left
+F. Muslera,Néstor Fernando Muslera Micol,80,35,1986-06-16,190,74,GK,GK,Galatasaray SK,Turkish Süper Lig,Uruguay,1,Right
+D. Godín,Diego Roberto Godín Leal,80,35,1986-02-16,187,78,CB,Defender,Cagliari,Italian Serie A,Uruguay,2,Right
+R. Nainggolan,Radja Nainggolan,80,33,1988-05-04,176,65,CM,Midfield,Royal Antwerp FC,Belgian Jupiler Pro League,Belgium,44,Right
+Nacho Monreal,Ignacio Monreal Eraso,80,35,1986-02-26,180,77,LB,Defender,Real Sociedad,Spain Primera Division,Spain,20,Left
+D. Payet,Dimitri Payet,80,34,1987-03-29,175,77,CF,Forward,Olympique de Marseille,French Ligue 1,France,10,Right
+S. Mignolet,Simon Luc Hildebert Mignolet,80,33,1988-03-06,193,87,GK,GK,Club Brugge KV,Belgian Jupiler Pro League,Belgium,22,Right
+D. Wass,Daniel Wass,80,32,1989-05-31,181,74,RCM,Midfield,Valencia CF,Spain Primera Division,Denmark,18,Right
+M. Hamšík,Marek Hamšík,80,33,1987-07-27,183,73,LCM,Midfield,Trabzonspor,Turkish Süper Lig,Slovakia,17,Right
+Raúl García,Raúl García Escudero,80,34,1986-07-11,184,83,RS,Forward,Athletic Club de Bilbao,Spain Primera Division,Spain,22,Right
+João Moutinho,João Filipe Iria Santos Moutinho,80,34,1986-09-08,170,61,LCM,Midfield,Wolverhampton Wanderers,English Premier League,Portugal,28,Right
+I. Akinfeev,Igor Akinfeev,80,35,1986-04-08,186,78,GK,GK,PFC CSKA Moscow,Russian Premier League,Russia,35,Right
+G. Ochoa,Francisco Guillermo Ochoa Magaña,80,35,1985-07-13,190,85,GK,GK,Club América,Mexican Liga MX,Mexico,13,Right
+G. Buffon,Gianluigi Buffon,80,43,1978-01-28,192,92,GK,GK,Parma,Italian Serie B,Italy,1,Right
+Pacheco,Fernando Pacheco Flores,80,29,1992-05-18,186,81,GK,GK,Deportivo Alavés,Spain Primera Division,Spain,1,Left
+N. Lodeiro,Marcelo Nicolás Lodeiro Benítez,80,32,1989-03-21,170,69,LF,Forward,Seattle Sounders FC,USA Major League Soccer,Uruguay,10,Left
+M. Benatia,Medhi Amine El Mouttaqi Benatia,80,34,1987-04-17,189,94,RCB,Defender,Fatih Karagümrük S.K.,Turkish Süper Lig,Morocco,5,Right
+Pozuelo,Alejandro Pozuelo Melero,80,29,1991-09-20,170,63,CAM,Midfield,Toronto FC,USA Major League Soccer,Spain,10,Right
+Sérgio Oliveira,Sérgio Miguel Relvas de Oliveira,80,29,1992-06-02,181,78,LCM,Midfield,FC Porto,Portuguese Liga ZON SAGRES,Portugal,27,Right
+Q. Promes,Quincy Anton Promes,80,29,1992-01-04,174,72,LM,Midfield,Spartak Moskva,Russian Premier League,Netherlands,24,Right
+J. Martínez,Josef Alexander Martínez Mencia,80,28,1993-05-19,170,69,LS,Forward,Atlanta United,USA Major League Soccer,Venezuela,7,Right
+Roger,Roger Martí Salvador,80,30,1991-01-03,179,74,RS,Forward,Levante Unión Deportiva,Spain Primera Division,Spain,9,Right
+M. Keane,Michael Keane,80,28,1993-01-11,191,82,LCB,Defender,Everton,English Premier League,England,5,Right
+E. Andrada,Esteban Maximiliano Andrada,80,30,1991-01-26,194,83,GK,GK,CF Monterrey,Mexican Liga MX,Argentina,1,Right
+S. Haller,Sébastien Haller,80,27,1994-06-22,190,82,ST,Forward,Ajax,Holland Eredivisie,Côte d'Ivoire,22,Right
+T. Savanier,Téji Tedy Savanier,80,29,1991-12-22,172,69,CAM,Midfield,Montpellier Hérault SC,French Ligue 1,France,11,Right
+F. Thauvin,Florian Tristan Mariano Thauvin,80,28,1993-01-26,179,70,RM,Midfield,Tigres U.A.N.L.,Mexican Liga MX,France,26,Left
+E. Zahavi,Eran Zahavi,80,33,1987-07-25,182,71,ST,Forward,PSV,Holland Eredivisie,Israel,7,Right
+Z. Feddal,Zouhair Feddal Agharbi,80,31,1989-12-23,192,84,LCB,Defender,Sporting CP,Portuguese Liga ZON SAGRES,Morocco,3,Left
+A. Mandi,Aïssa Mandi,80,29,1991-10-22,184,78,LCB,Defender,Villarreal CF,Spain Primera Division,Algeria,22,Right
+C. Bakambu,Cédric Bakambu,80,30,1991-04-11,182,74,LS,Forward,Beijing Guoan FC,Chinese Super League,Congo DR,17,Right
+C. Aránguiz,Charles Mariano Aránguiz Sandoval,80,32,1989-04-17,171,68,RDM,Midfield,Bayer 04 Leverkusen,German 1. Bundesliga,Chile,20,Right
+Bartra,Marc Bartra Aregall,80,30,1991-01-15,184,73,RCB,Defender,Real Betis Balompié,Spain Primera Division,Spain,5,Right
+Ismaily,Ismaily Gonçalves dos Santos,80,31,1990-01-11,177,86,LB,Defender,Shakhtar Donetsk,Ukrainian Premier League,Brazil,31,Left
+João Pedro,João Pedro Geraldino dos Santos Galvão,80,29,1992-03-09,184,73,LS,Forward,Cagliari,Italian Serie A,Brazil,10,Right
+M. Hinteregger,Martin Hinteregger,80,28,1992-09-07,184,83,LCB,Defender,Eintracht Frankfurt,German 1. Bundesliga,Austria,13,Left
+G. Arias,Gabriel Arias Arroyo,79,33,1987-09-13,188,82,GK,GK,Racing Club,Argentina Primera División,Chile,21,Right
+R. Bensebaini,Ramy Bensebaini,79,26,1995-04-16,186,82,LB,Defender,Borussia Mönchengladbach,German 1. Bundesliga,Algeria,25,Left
+U. Çakır,Uğurcan Çakır,79,25,1996-04-05,191,82,GK,GK,Trabzonspor,Turkish Süper Lig,Turkey,1,Right
+A. Golovin,Aleksandr Golovin,79,25,1996-05-30,180,69,LF,Forward,AS Monaco,French Ligue 1,Russia,17,Right
+E. Buendía,Emiliano Buendía,79,24,1996-12-25,172,65,RW,Forward,Aston Villa,English Premier League,Argentina,10,Right
+Aritz Elustondo,Aritz Elustondo Irribaria,79,27,1994-03-28,180,71,RCB,Defender,Real Sociedad,Spain Primera Division,Spain,6,Right
+M. Thuram,Marcus Lilian Thuram-Ulien,79,23,1997-08-06,192,88,LM,Midfield,Borussia Mönchengladbach,German 1. Bundesliga,France,10,Right
+Pablo Fornals,Pablo Fornals Malla,79,25,1996-02-22,178,67,RM,Midfield,West Ham United,English Premier League,Spain,8,Right
+Ricardo Horta,Ricardo Jorge da Luz Horta,79,26,1994-09-15,173,63,LF,Forward,SC Braga,Portuguese Liga ZON SAGRES,Portugal,21,Right
+D. Sánchez,Davinson Sánchez Mina,79,25,1996-06-12,187,79,RCB,Defender,Tottenham Hotspur,English Premier League,Colombia,6,Right
+K. Dolberg,Kasper Dolberg Rasmussen,79,23,1997-10-06,187,84,RS,Forward,OGC Nice,French Ligue 1,Denmark,9,Right
+V. Grifo,Vincenzo Grifo,79,28,1993-04-07,180,76,LM,Midfield,Sport-Club Freiburg,German 1. Bundesliga,Italy,32,Right
+P. Onuachu,Paul Ebere Onuachu,79,27,1994-05-28,201,93,ST,Forward,KRC Genk,Belgian Jupiler Pro League,Nigeria,18,Right
+José Sá,José Pedro Malheiro de Sá,79,28,1993-01-17,192,84,GK,GK,Wolverhampton Wanderers,English Premier League,Portugal,1,Right
+M. Uribe,Andrés Mateus Uribe Villa,79,30,1991-03-21,182,71,RCM,Midfield,FC Porto,Portuguese Liga ZON SAGRES,Colombia,8,Right
+A. Izzo,Armando Izzo,79,29,1992-03-02,183,81,RCB,Defender,Torino F.C.,Italian Serie A,Italy,5,Right
+D. Zappacosta,Davide Zappacosta,79,29,1992-06-11,182,75,RM,Midfield,Atalanta,Italian Serie A,Italy,77,Right
+A. Saint-Maximin,Allan Saint-Maximin,79,24,1997-03-12,173,67,LS,Forward,Newcastle United,English Premier League,France,10,Right
+Paulinho,João Paulo Dias Fernandes,79,28,1992-11-09,188,84,ST,Forward,Sporting CP,Portuguese Liga ZON SAGRES,Portugal,21,Left
+M. Dahoud,Mahmoud Dahoud,79,25,1996-01-01,178,68,CDM,Midfield,Borussia Dortmund,German 1. Bundesliga,Germany,8,Right
+H. Traoré,Hamari Traoré,79,29,1992-01-27,175,71,RB,Defender,Stade Rennais FC,French Ligue 1,Mali,27,Right
+C. Gakpo,Cody Mathès Gakpo,79,22,1999-05-07,189,76,LAM,Midfield,PSV,Holland Eredivisie,Netherlands,11,Right
+Ronaldo Esler,Ronaldo Diego Esler Domingues,79,21,2000-02-29,168,65,LB,Defender,Fortaleza,Campeonato Brasileiro Série A,Brazil,27,Left
+M. Taremi,Mehdi Taremi,79,28,1992-07-18,187,83,RS,Forward,FC Porto,Portuguese Liga ZON SAGRES,Iran,9,Right
+E. Bardhi,Enis Bardhi,79,25,1995-07-02,172,64,LM,Midfield,Levante Unión Deportiva,Spain Primera Division,North Macedonia,10,Right
+A. Tchouaméni,Aurélien Tchouaméni,79,21,2000-01-27,187,81,LCM,Midfield,AS Monaco,French Ligue 1,France,8,Right
+Emerson,Emerson Aparecido Leite de Souza Junior,79,22,1999-01-14,181,79,RB,Defender,Tottenham Hotspur,English Premier League,Brazil,12,Right
+Bruno Guimarães,Bruno Guimarães Rodriguez Moura,79,23,1997-11-16,182,78,RDM,Midfield,Olympique Lyonnais,French Ligue 1,Brazil,39,Right
+S. Botman,Sven Botman,79,21,2000-01-12,193,81,LCB,Defender,LOSC Lille,French Ligue 1,Netherlands,4,Left
+J. Bellingham,Jude Victor William Bellingham,79,18,2003-06-29,186,75,RCM,Midfield,Borussia Dortmund,German 1. Bundesliga,England,22,Right
+Antony,Antony Matheus dos Santos,79,21,2000-02-24,174,63,RW,Forward,Ajax,Holland Eredivisie,Brazil,11,Left
+O. Wijndal,Owen Wijndal,79,21,1999-11-28,176,65,LB,Defender,AZ Alkmaar,Holland Eredivisie,Netherlands,5,Left
+M. Senesi,Marcos Nicolás Senesi Barón,79,24,1997-05-10,183,78,LCB,Defender,Feyenoord,Holland Eredivisie,Argentina,4,Left
+Y. Bissouma,Yves Bissouma,79,24,1996-08-30,182,80,LCM,Midfield,Brighton & Hove Albion,English Premier League,Mali,8,Right
+Gabri Prestão,Bernard Gabriel Prestão Chaves,79,29,1992-02-29,186,80,GK,GK,Internacional,Campeonato Brasileiro Série A,Brazil,44,Right
+Luimo Boas Santos,Luan Vágner Boas Macedo,79,21,2000-02-29,176,73,ST,Forward,Santos,Campeonato Brasileiro Série A,Brazil,9,Right
+M. Arambarri,Mauro Wilney Arambarri Rosa,79,25,1995-09-30,175,74,RDM,Midfield,Getafe CF,Spain Primera Division,Uruguay,18,Right
+D. Kamada,鎌田 大地,79,24,1996-08-05,184,76,CAM,Midfield,Eintracht Frankfurt,German 1. Bundesliga,Japan,15,Right
+P. Schick,Patrik Schick,79,25,1996-01-24,191,85,ST,Forward,Bayer 04 Leverkusen,German 1. Bundesliga,Czech Republic,14,Left
+J. Ikoné,Nanitamo Jonathan Ikoné,79,23,1998-05-02,175,73,RM,Midfield,LOSC Lille,French Ligue 1,France,10,Left
+G. Kobel,Gregor Kobel,79,23,1997-12-06,195,88,GK,GK,Borussia Dortmund,German 1. Bundesliga,Switzerland,1,Right
+Lucas Veríssimo,Lucas Veríssimo da Silva,79,25,1995-07-02,188,77,RCB,Defender,SL Benfica,Portuguese Liga ZON SAGRES,Brazil,4,Right
+K. Demirbay,Kerem Demirbay,79,27,1993-07-03,183,73,LDM,Midfield,Bayer 04 Leverkusen,German 1. Bundesliga,Germany,10,Left
+L. Martínez,Lisandro Martínez,79,23,1998-01-18,178,77,LCB,Defender,Ajax,Holland Eredivisie,Argentina,21,Left
+Rubén García,Rubén García Santos,79,27,1993-07-14,171,71,LM,Midfield,CA Osasuna,Spain Primera Division,Spain,14,Left
+Gao Late,高拉特,79,30,1991-06-05,185,78,CAM,Midfield,Guangzhou FC,Chinese Super League,China PR,11,Right
+M. Antonio,Michail Antonio,79,31,1990-03-28,178,82,ST,Forward,West Ham United,English Premier League,Jamaica,9,Right
+M. Silvestri,Marco Silvestri,79,30,1991-03-02,191,80,GK,GK,Udinese Calcio,Italian Serie A,Italy,1,Right
+C. Wood,Christopher Grant Wood,79,29,1991-12-07,191,92,RS,Forward,Burnley,English Premier League,New Zealand,9,Right
+A. Cresswell,Aaron Cresswell,79,31,1989-12-15,175,66,LB,Defender,West Ham United,English Premier League,England,3,Left
+Ai Kesen,艾克森,79,31,1989-07-13,180,77,RS,Forward,Guangzhou FC,Chinese Super League,China PR,9,Right
+Marcos Alonso,Marcos Alonso Mendoza,79,30,1990-12-28,188,85,LWB,Defender,Chelsea,English Premier League,Spain,3,Left
+Mario Gaspar,Mario Gaspar Pérez Martínez,79,30,1990-11-24,180,77,RB,Defender,Villarreal CF,Spain Primera Division,Spain,2,Right
+L. Rodríguez,Luis Miguel Rodríguez,79,36,1985-01-01,168,71,CF,Forward,Gimnasia y Esgrima La Plata,Argentina Primera División,Argentina,8,Right
+X. Shaqiri,Xherdan Shaqiri,79,29,1991-10-10,169,72,RM,Midfield,Olympique Lyonnais,French Ligue 1,Switzerland,29,Left
+Y. El Arabi,Youssef El Arabi,79,34,1987-02-03,182,84,ST,Forward,Olympiacos CFP,Greek Super League,Morocco,11,Right
+B. Mee,Ben Mee,79,31,1989-09-21,180,82,LCB,Defender,Burnley,English Premier League,England,6,Left
+C. Wilson,Callum Wilson,79,29,1992-02-27,180,66,RS,Forward,Newcastle United,English Premier League,England,9,Right
+A. Candreva,Antonio Candreva,79,34,1987-02-28,180,70,RM,Midfield,U.C. Sampdoria,Italian Serie A,Italy,87,Right
+C. Mbemba,Chancel Mbemba Mangulu,79,26,1994-08-08,182,82,RCB,Defender,FC Porto,Portuguese Liga ZON SAGRES,Congo DR,19,Right
+F. Ribéry,Franck Bilal Ribéry,79,38,1983-04-07,170,72,RS,Forward,US Salernitana 1919,Italian Serie A,France,7,Right
+B. Costil,Benoît Costil,79,33,1987-07-03,187,82,GK,GK,FC Girondins de Bordeaux,French Ligue 1,France,1,Right
+B. Gomis,Bafétimbi Fredius Gomis,79,35,1985-08-06,186,86,LS,Forward,Al Hilal,Saudi Abdul L. Jameel League,France,18,Right
+M. Dembélé,Mousa Sidi Yaya Dembélé,79,33,1987-07-16,185,85,LCM,Midfield,Guangzhou City,Chinese Super League,Belgium,8,Left
+B. Matuidi,Blaise Matuidi,79,34,1987-04-09,180,75,LDM,Midfield,Inter Miami CF,USA Major League Soccer,France,8,Left
+D. Ospina,David Ospina Ramírez,79,32,1988-08-31,183,80,GK,GK,Napoli,Italian Serie A,Colombia,25,Right
+M. Suárez,Matías Ezequiel Suárez,79,33,1988-05-09,183,75,LS,Forward,River Plate,Argentina Primera División,Argentina,7,Right
+M. Özil,Mesut Özil,79,32,1988-10-15,180,71,RF,Forward,Fenerbahçe SK,Turkish Süper Lig,Germany,10,Left
+N. Guzmán,Nahuel Ignacio Guzmán,79,35,1986-02-10,193,94,GK,GK,Tigres U.A.N.L.,Mexican Liga MX,Argentina,1,Right
+O. Giroud,Olivier Giroud,79,34,1986-09-30,193,91,ST,Forward,AC Milan,Italian Serie A,France,9,Left
+Y. M'Vila,Yann Gérard M'Vila,79,31,1990-06-29,182,80,CM,Midfield,Olympiacos CFP,Greek Super League,France,6,Right
+Rafael Carioca,Rafael de Souza Pereira,79,32,1989-06-18,181,78,RDM,Midfield,Tigres U.A.N.L.,Mexican Liga MX,Brazil,5,Right
+Iniesta,Andrés Iniesta Luján,79,37,1984-05-11,171,68,CAM,Midfield,Vissel Kobe,Japanese J. League Division 1,Spain,8,Right
+Germán,Germán Sánchez Barahona,79,34,1986-10-31,187,82,LCB,Defender,Granada CF,Spain Primera Division,Spain,6,Right
+R. Ruidíaz,Raúl Mario Ruidíaz Misitich,79,30,1990-07-25,169,66,ST,Forward,Seattle Sounders FC,USA Major League Soccer,Peru,9,Right
+T. Stepanenko,Taras Stepanenko,79,31,1989-08-08,181,80,RDM,Midfield,Shakhtar Donetsk,Ukrainian Premier League,Ukraine,6,Left
+A. Plea,Alassane Alexandre Pléa,79,28,1993-03-10,181,79,ST,Forward,Borussia Mönchengladbach,German 1. Bundesliga,France,14,Right
+Manu Trigueros,Manuel Trigueros Muñoz,79,29,1991-10-17,178,75,RCM,Midfield,Villarreal CF,Spain Primera Division,Spain,14,Right
+C. Günter,Christian Günter,79,28,1993-02-28,184,83,LB,Defender,Sport-Club Freiburg,German 1. Bundesliga,Germany,30,Left
+De Tomás,Raúl De Tomás Gómez,79,26,1994-10-17,180,79,LS,Forward,RCD Espanyol de Barcelona,Spain Primera Division,Spain,11,Right
+J. Hofmann,Jonas Hofmann,79,28,1992-07-14,176,73,RM,Midfield,Borussia Mönchengladbach,German 1. Bundesliga,Germany,23,Right
+J. Quintero,Juan Fernando Quintero Paniagua,79,28,1993-01-18,169,65,RM,Midfield,Shenzhen FC,Chinese Super League,Colombia,10,Left
+K. Mbabu,Melingo Kevin Mbabu,79,26,1995-04-19,184,83,RB,Defender,VfL Wolfsburg,German 1. Bundesliga,Switzerland,19,Right
+Matheus,Matheus Lima Magalhães,79,28,1992-07-19,190,84,GK,GK,SC Braga,Portuguese Liga ZON SAGRES,Brazil,1,Right
+C. Kramer,Christoph Kramer,79,30,1991-02-19,191,76,RDM,Midfield,Borussia Mönchengladbach,German 1. Bundesliga,Germany,6,Right
+C. Coady,Conor Coady,79,28,1993-02-25,186,80,CB,Defender,Wolverhampton Wanderers,English Premier League,England,16,Right
+D. Klaassen,Davy Klaassen,79,28,1993-02-21,179,70,CAM,Midfield,Ajax,Holland Eredivisie,Netherlands,6,Right
+G. Xhaka,Granit Xhaka,79,28,1992-09-27,185,82,LDM,Midfield,Arsenal,English Premier League,Switzerland,34,Left
+Deulofeu,Gerard Deulofeu Lázaro,79,27,1994-03-13,177,73,CF,Forward,Udinese Calcio,Italian Serie A,Spain,10,Right
+E. Dier,Eric Dier,79,27,1994-01-15,190,90,LCB,Defender,Tottenham Hotspur,English Premier League,England,15,Right
+A. Carrillo,André Martín Carrillo Díaz,79,30,1991-06-14,182,78,RM,Midfield,Al Hilal,Saudi Abdul L. Jameel League,Peru,19,Right
+M. Cash,Matty Cash,78,23,1997-08-07,179,74,RB,Defender,Aston Villa,English Premier League,England,2,Right
+Gelson Martins,Gelson Dany Batalha Martins,78,26,1995-05-11,173,74,RM,Midfield,AS Monaco,French Ligue 1,Portugal,7,Right
+A. Fulgini,Angelo Fulgini,78,24,1996-08-20,183,71,CAM,Midfield,Angers SCO,French Ligue 1,France,10,Right
+G. Rodríguez,Guido Rodríguez,78,26,1995-04-11,185,80,RDM,Midfield,Real Betis Balompié,Spain Primera Division,Argentina,21,Right
+E. Konsa,Ezri Konsa Ngoyo,78,23,1997-10-23,183,77,RCB,Defender,Aston Villa,English Premier League,England,4,Right
+Antônio Chiamuloira,A. Benjamin Chiamuloira Paes,78,21,2000-02-29,182,79,LCB,Defender,Internacional,Campeonato Brasileiro Série A,Brazil,5,Left
+F. Grillitsch,Florian Grillitsch,78,25,1995-08-07,187,77,RDM,Midfield,TSG Hoffenheim,German 1. Bundesliga,Austria,11,Right
+E. Audero,Emil Audero Mulyadi,78,24,1997-01-18,192,83,GK,GK,U.C. Sampdoria,Italian Serie A,Italy,1,Right
+Gerson Armão,Gérson Adriano Gutierres Serra,78,21,2000-02-29,186,73,RM,Midfield,Internacional,Campeonato Brasileiro Série A,Brazil,15,Left
+Wellington Sabrão,Wellingt. Edson Sabrão Rolim,78,33,1988-02-29,169,66,RB,Defender,Flamengo,Campeonato Brasileiro Série A,Brazil,4,Right
+Vincente Dourado,Vincente Filho Dourado Hermes,78,25,1996-02-29,190,88,RCB,Defender,Flamengo,Campeonato Brasileiro Série A,Brazil,6,Right
+Everticinho,Everton Jorge Simão Resende,78,21,2000-02-29,176,75,RB,Defender,RB Bragantino,Campeonato Brasileiro Série A,Brazil,21,Right
+Dani García,Daniel García Carrillo,78,31,1990-05-24,180,81,LCM,Midfield,Athletic Club de Bilbao,Spain Primera Division,Spain,14,Right
+Sergio Herrera,Sergio Herrera Pirón,78,28,1993-06-06,192,82,GK,GK,CA Osasuna,Spain Primera Division,Spain,1,Right
+Arturo Inálcio,Arturo Adolfo Inálcio Dutra,78,21,2000-02-29,170,60,CAM,Midfield,Flamengo,Campeonato Brasileiro Série A,Brazil,21,Right
+B. Bourigeaud,Benjamin Bourigeaud,78,27,1994-01-14,178,68,RCM,Midfield,Stade Rennais FC,French Ligue 1,France,14,Right
+C. Izquierdoz,Carlos Roberto Izquierdoz,78,32,1988-11-03,185,88,RCB,Defender,Boca Juniors,Argentina Primera División,Argentina,24,Right
+Ayoze Pérez,Ayoze Pérez Gutiérrez,78,27,1993-07-29,178,72,RM,Midfield,Leicester City,English Premier League,Spain,17,Right
+S. Fofana,Seko Fofana,78,26,1995-05-07,185,74,LCM,Midfield,Racing Club de Lens,French Ligue 1,Côte d'Ivoire,8,Right
+Álex Moreno,Alexandre Moreno Lopera,78,28,1993-06-08,179,68,LB,Defender,Real Betis Balompié,Spain Primera Division,Spain,15,Left
+S. Gigot,Samuel Gigot,78,27,1993-10-12,187,83,RCB,Defender,Spartak Moskva,Russian Premier League,France,2,Right
+L. Ajorque,Ludovic Ajorque,78,27,1994-02-25,197,92,LS,Forward,RC Strasbourg Alsace,French Ligue 1,France,25,Left
+B. Santamaria,Baptiste Santamaría,78,26,1995-03-09,183,73,LCM,Midfield,Stade Rennais FC,French Ligue 1,France,8,Right
+R. Borré,Rafael Santos Borré Maury,78,25,1995-09-15,174,70,ST,Forward,Eintracht Frankfurt,German 1. Bundesliga,Colombia,19,Right
+L. Olaza,Lucas René Olaza Catrofe,78,26,1994-07-21,175,70,LWB,Defender,Real Valladolid CF,Spanish Segunda División,Uruguay,21,Left
+M. Friedrich,Marvin Friedrich,78,25,1995-12-13,192,81,RCB,Defender,1. FC Union Berlin,German 1. Bundesliga,Germany,5,Right
+R. Karsdorp,Rick Karsdorp,78,26,1995-02-11,184,80,RB,Defender,Roma,Italian Serie A,Netherlands,2,Right
+Á. Mena,Ángel Israel Mena Delgado,78,33,1988-01-21,168,71,RM,Midfield,Club León,Mexican Liga MX,Ecuador,13,Left
+Puado,Javier Puado Díaz,78,23,1998-05-25,177,69,LM,Midfield,RCD Espanyol de Barcelona,Spain Primera Division,Spain,9,Right
+Fredditinho,Fred Claudinei Tófoli Vilela,78,33,1988-02-29,188,87,ST,Forward,Palmeiras,Campeonato Brasileiro Série A,Brazil,10,Right
+N. De la Cruz,Diego Nicolás De La Cruz Arcosa,78,24,1997-06-01,167,65,RAM,Midfield,River Plate,Argentina Primera División,Uruguay,11,Right
+Junior Firpo,Héctor Junior Firpo Adamés,78,24,1996-08-22,184,78,LB,Defender,Leeds United,English Premier League,Spain,3,Left
+P. Rajković,Predrag Rajković,78,25,1995-10-31,191,85,GK,GK,Stade de Reims,French Ligue 1,Serbia,1,Right
+C. Baumgartner,Christoph Baumgartner,78,21,1999-08-01,180,73,RM,Midfield,TSG Hoffenheim,German 1. Bundesliga,Austria,14,Right
+Luis Milla,Luis Milla Manzanares,78,26,1994-10-07,175,67,LCM,Midfield,Granada CF,Spain Primera Division,Spain,5,Right
+De Frutos,Jorge de Frutos Sebastián,78,24,1997-02-20,176,71,RM,Midfield,Levante Unión Deportiva,Spain Primera Division,Spain,18,Right
+J. David,Jonathan Christian David,78,21,2000-01-14,177,77,RS,Forward,LOSC Lille,French Ligue 1,Canada,9,Right
+Jovane Cabral,Jovane Eduardo Borges Cabral,78,23,1998-06-14,176,72,LW,Forward,Sporting CP,Portuguese Liga ZON SAGRES,Cape Verde Islands,10,Right
+O. Kolář,Ondřej Kolář,78,26,1994-10-17,193,81,GK,GK,SK Slavia Praha,Czech Republic Gambrinus Liga,Czech Republic,1,Right
+Adama Traoré,Adama Traoré Diarra,78,25,1996-01-25,178,72,LW,Forward,Wolverhampton Wanderers,English Premier League,Spain,37,Right
+Y. Fofana,Youssouf Fofana,78,22,1999-01-10,176,69,RCM,Midfield,AS Monaco,French Ligue 1,France,22,Right
+R. Gravenberch,Ryan Jiro Gravenberch,78,19,2002-05-16,190,79,LCM,Midfield,Ajax,Holland Eredivisie,Netherlands,8,Right
+M. Greenwood,Mason Greenwood,78,19,2001-10-01,181,70,RM,Midfield,Manchester United,English Premier League,England,11,Left
+M. Caqueret,Maxence Caqueret,78,21,2000-02-15,174,63,LDM,Midfield,Olympique Lyonnais,French Ligue 1,France,25,Right
+F. Wirtz,Florian Richard Wirtz,78,18,2003-05-03,176,70,CAM,Midfield,Bayer 04 Leverkusen,German 1. Bundesliga,Germany,27,Right
+A. Gouiri,Amine Gouiri,78,21,2000-02-16,180,72,LS,Forward,OGC Nice,French Ligue 1,France,11,Right
+Brahim,Brahim Abdelkader Díaz,78,21,1999-08-03,171,59,CAM,Midfield,AC Milan,Italian Serie A,Spain,10,Right
+A. Lafont,Alban Lafont,78,22,1999-01-23,196,90,GK,GK,FC Nantes,French Ligue 1,France,1,Right
+J. Harrison,Jack Harrison,78,24,1996-11-20,175,70,LM,Midfield,Leeds United,English Premier League,England,22,Left
+W. Endo,遠藤 航,78,28,1993-02-09,178,76,LCM,Midfield,VfB Stuttgart,German 1. Bundesliga,Japan,3,Right
+R. Le Normand,Robin Le Normand,78,24,1996-11-11,187,81,LCB,Defender,Real Sociedad,Spain Primera Division,France,24,Right
+Y. Herrera,Yangel Clemente Herrera Ravelo,78,23,1998-01-07,184,77,LDM,Midfield,RCD Espanyol de Barcelona,Spain Primera Division,Venezuela,25,Right
+Domingos Duarte,Domingos Sousa Coutinho Meneses Duarte,78,26,1995-03-03,190,78,RCB,Defender,Granada CF,Spain Primera Division,Portugal,22,Right
+I. Sarr,Ismaïla Sarr,78,23,1998-02-25,185,76,RM,Midfield,Watford,English Premier League,Senegal,23,Right
+Luiz Felipe,Luiz Felipe Ramos Marchi,78,24,1997-03-22,187,80,RCB,Defender,Lazio,Italian Serie A,Brazil,3,Right
+A. Barák,Antonín Barák,78,26,1994-12-03,190,86,RF,Forward,Hellas Verona,Italian Serie A,Czech Republic,7,Left
+N. Zaniolo,Nicolò Zaniolo,78,21,1999-07-02,190,79,RM,Midfield,Roma,Italian Serie A,Italy,22,Left
+N. Lang,Noa Noëll Lang,78,22,1999-06-17,179,69,RW,Forward,Club Brugge KV,Belgian Jupiler Pro League,Netherlands,10,Right
+F. Fabra,Frank Yusty Fabra Palacios,78,30,1991-02-22,174,86,LB,Defender,Boca Juniors,Argentina Primera División,Colombia,18,Left
+A. Westwood,Ashley Westwood,78,31,1990-04-01,175,73,RCM,Midfield,Burnley,English Premier League,England,18,Right
+M. Sissoko,Moussa Sissoko,78,31,1989-08-16,187,91,RCM,Midfield,Watford,English Premier League,France,19,Right
+G. Kakuta,Gaël Kakuta,78,30,1991-06-21,173,72,CAM,Midfield,Racing Club de Lens,French Ligue 1,Congo DR,10,Left
+C. Kouyaté,Cheikhou Kouyaté,78,31,1989-12-21,189,83,CDM,Midfield,Crystal Palace,English Premier League,Senegal,8,Right
+F. Caputo,Francesco Caputo,78,33,1987-08-06,181,74,LS,Forward,U.C. Sampdoria,Italian Serie A,Italy,10,Right
+G. Bonaventura,Giacomo Bonaventura,78,31,1989-08-22,181,75,RCM,Midfield,Fiorentina,Italian Serie A,Italy,5,Right
+Pedro,Pedro Eliezer Rodríguez Ledesma,78,33,1987-07-28,169,65,RW,Forward,Lazio,Italian Serie A,Spain,9,Right
+S. Coleman,Séamus Coleman,78,32,1988-10-11,177,77,RB,Defender,Everton,English Premier League,Republic of Ireland,23,Right
+L. Rodríguez,Luis Alfonso Rodríguez Alanís,78,30,1991-01-21,177,76,RB,Defender,Tigres U.A.N.L.,Mexican Liga MX,Mexico,28,Right
+Escudero,Sergio Escudero Palomo,78,31,1989-09-02,176,72,LB,Defender,Granada CF,Spain Primera Division,Spain,3,Left
+R. Soriano,Roberto Soriano,78,30,1991-02-08,182,76,CM,Midfield,Bologna,Italian Serie A,Italy,21,Right
+H. Seferović,Haris Seferović,78,29,1992-02-22,189,85,ST,Forward,SL Benfica,Portuguese Liga ZON SAGRES,Switzerland,14,Left
+R. Vormer,Ruud Willem Vormer,78,33,1988-05-11,178,79,RCM,Midfield,Club Brugge KV,Belgian Jupiler Pro League,Netherlands,25,Right
+A. Guardado,José Andrés Guardado Hernández,78,34,1986-09-28,169,67,LDM,Midfield,Real Betis Balompié,Spain Primera Division,Mexico,18,Left
+Pepe Reina,José Manuel Reina Páez,78,38,1982-08-31,188,92,GK,GK,Lazio,Italian Serie A,Spain,25,Right
+Negredo,Álvaro Negredo Sánchez,78,35,1985-08-20,186,86,ST,Forward,Cádiz CF,Spain Primera Division,Spain,18,Left
+A. Talavera,Alfredo Talavera Díaz,78,38,1982-09-18,186,85,GK,GK,Club Universidad Nacional,Mexican Liga MX,Mexico,1,Right
+F. Quagliarella,Fabio Quagliarella,78,38,1983-01-31,180,79,RS,Forward,U.C. Sampdoria,Italian Serie A,Italy,27,Right
+L. Koscielny,Laurent Koscielny,78,35,1985-09-10,186,80,CB,Defender,FC Girondins de Bordeaux,French Ligue 1,France,6,Right
+Falcao,Radamel Falcao García Zárate,78,35,1986-02-10,177,72,ST,Forward,Rayo Vallecano,Spain Primera Division,Colombia,16,Right
+V. Moses,Victor Moses,78,30,1990-12-12,177,79,RM,Midfield,Spartak Moskva,Russian Premier League,Nigeria,8,Right
+C. Ansaldi,Cristian Daniel Ansaldi,78,34,1986-09-20,181,76,LM,Midfield,Torino F.C.,Italian Serie A,Argentina,15,Right
+K. Boateng,Kevin-Prince Boateng,78,34,1987-03-06,185,86,CDM,Midfield,Hertha BSC,German 1. Bundesliga,Ghana,27,Right
+Pedro León,Pedro León Sánchez Gil,78,34,1986-11-24,183,73,RM,Midfield,CF Fuenlabrada,Spanish Segunda División,Spain,14,Right
+A. Oukidja,Alexandre Oukidja,78,32,1988-07-19,184,80,GK,GK,FC Metz,French Ligue 1,Algeria,16,Right
+Miguel Veloso,Miguel Luís Pinto Veloso,78,35,1986-05-11,180,79,LCM,Midfield,Hellas Verona,Italian Serie A,Portugal,4,Left
+J. Hernández,Javier Hernández Balcázar,78,33,1988-06-01,175,73,ST,Forward,LA Galaxy,USA Major League Soccer,Mexico,14,Right
+Víctor Ruiz,Víctor Ruíz Torre,78,32,1989-01-25,185,78,LCB,Defender,Real Betis Balompié,Spain Primera Division,Spain,6,Left
+Ángel,Ángel Luís Rodríguez Díaz,78,34,1987-04-26,172,68,ST,Forward,RCD Mallorca,Spain Primera Division,Spain,22,Right
+Fransérgio,Fransérgio Rodrigues Barbosa,78,30,1990-10-18,187,82,LCM,Midfield,FC Girondins de Bordeaux,French Ligue 1,Brazil,13,Right
+R. Steffen,Renato Steffen,78,29,1991-11-03,170,65,LM,Midfield,VfL Wolfsburg,German 1. Bundesliga,Switzerland,11,Left
+B. Cristante,Bryan Cristante,78,26,1995-03-03,186,80,RDM,Midfield,Roma,Italian Serie A,Italy,4,Right
+R. Saïss,Romain Saïss,78,31,1990-03-26,188,84,LCB,Defender,Wolverhampton Wanderers,English Premier League,Morocco,27,Left
+J. Hector,Jonas Hector,78,31,1990-05-27,185,75,LB,Defender,1. FC Köln,German 1. Bundesliga,Germany,14,Left
+Clinton Mata,Clinton Mukoni Mata Pedro Lourenço,78,28,1992-11-07,180,73,RB,Defender,Club Brugge KV,Belgian Jupiler Pro League,Angola,77,Right
+F. Mollet,Florent Mollet,78,29,1991-11-19,170,67,LM,Midfield,Montpellier Hérault SC,French Ligue 1,France,25,Right
+R. Ghezzal,Rachid Ghezzal,78,29,1992-05-09,182,70,RW,Forward,Beşiktaş JK,Turkish Süper Lig,Algeria,18,Left
+P. Bamford,Patrick Bamford,78,27,1993-09-05,185,71,ST,Forward,Leeds United,English Premier League,England,9,Left
+J. McGinn,John McGinn,78,26,1994-10-18,178,68,RCM,Midfield,Aston Villa,English Premier League,Scotland,7,Left
+Carles Gil,Carles Gil de Pareja Vicent,78,28,1992-11-02,170,66,CAM,Midfield,New England Revolution,USA Major League Soccer,Spain,22,Left
+M. Dembélé,Moussa Dembélé,78,24,1996-07-12,183,79,ST,Forward,Olympique Lyonnais,French Ligue 1,France,9,Right
+N. Stanciu,Nicolae Claudiu Stanciu,78,28,1993-05-07,170,63,CAM,Midfield,SK Slavia Praha,Czech Republic Gambrinus Liga,Romania,7,Right
+T. Mings,Tyrone Mings,78,28,1993-03-13,196,77,LCB,Defender,Aston Villa,English Premier League,England,5,Left
+R. Zobnin,Roman Zobnin,78,27,1994-02-11,182,78,RDM,Midfield,Spartak Moskva,Russian Premier League,Russia,47,Right
+D. Boyata,Anga Dedryck Boyata,78,30,1990-11-28,188,84,RCB,Defender,Hertha BSC,German 1. Bundesliga,Belgium,20,Right
+J. Tah,Jonathan Tah,78,25,1996-02-11,195,98,LCB,Defender,Bayer 04 Leverkusen,German 1. Bundesliga,Germany,4,Right
+Moi Gómez,Moisés Gómez Bordonado,78,27,1994-06-23,176,73,RM,Midfield,Villarreal CF,Spain Primera Division,Spain,23,Right
+Emerson,Emerson Palmieri dos Santos,78,26,1994-08-03,176,79,LB,Defender,Olympique Lyonnais,French Ligue 1,Italy,3,Left
+D. Sidibé,Djibril Sidibé,78,28,1992-07-29,182,71,RCB,Defender,AS Monaco,French Ligue 1,France,29,Right
+J. Svensson,Jonas Svensson,78,28,1993-03-06,170,70,RB,Defender,Adana Demirspor,Turkish Süper Lig,Norway,22,Right
+F. Midtsjø,Fredrik Midtsjø,78,27,1993-08-11,176,70,RCM,Midfield,AZ Alkmaar,Holland Eredivisie,Norway,6,Right
+S. Sosa,Carlos Sebastián Sosa Silva,78,34,1986-08-19,179,79,GK,GK,Club Atlético Independiente,Argentina Primera División,Uruguay,1,Right
+D. Vida,Domagoj Vida,78,32,1989-04-29,184,76,LCB,Defender,Beşiktaş JK,Turkish Süper Lig,Croatia,24,Right
+L. Dunk,Lewis Dunk,78,29,1991-11-21,192,88,LCB,Defender,Brighton & Hove Albion,English Premier League,England,5,Right
+H. Vanaken,Hans Vanaken,78,28,1992-08-24,195,80,LCM,Midfield,Club Brugge KV,Belgian Jupiler Pro League,Belgium,20,Right
+S. Ortega,Stefan Ortega Moreno,78,28,1992-11-06,185,88,GK,GK,DSC Arminia Bielefeld,German 1. Bundesliga,Germany,1,Right
+Felipe Anderson,Felipe Anderson Pereira Gomes,78,28,1993-04-15,175,70,LW,Forward,Lazio,Italian Serie A,Brazil,7,Right
+J. Vestergaard,Jannik Vestergaard,78,28,1992-08-03,199,96,LCB,Defender,Leicester City,English Premier League,Denmark,23,Right
+P. Kadeřábek,Pavel Kadeřábek,78,29,1992-04-25,182,81,RB,Defender,TSG Hoffenheim,German 1. Bundesliga,Czech Republic,3,Right
+Héctor Bellerín,Héctor Bellerín Moruno,78,26,1995-03-19,178,74,RB,Defender,Real Betis Balompié,Spain Primera Division,Spain,12,Right
+D. Suárez,Damián Nicolás Suárez Suárez,78,33,1988-04-27,173,68,RB,Defender,Getafe CF,Spain Primera Division,Uruguay,22,Right
+J. Brooks,John Anthony Brooks,78,28,1993-01-28,193,78,LCB,Defender,VfL Wolfsburg,German 1. Bundesliga,United States,25,Left
+Denis Suárez,Denis Suárez Fernández,78,27,1994-01-06,178,66,CM,Midfield,RC Celta de Vigo,Spain Primera Division,Spain,6,Right
+Mário Rui,Mário Rui Silva Duarte,78,30,1991-05-27,170,67,LB,Defender,Napoli,Italian Serie A,Portugal,6,Left
+Sidney Pessinho,Sidney Adrián Pessoa Vidigal,77,29,1992-02-29,187,85,LCM,Midfield,Internacional,Campeonato Brasileiro Série A,Brazil,24,Right
+Nuno Padrenda,Nuno Ailton Padrenda Mendes,77,25,1996-02-29,180,75,LS,Forward,Clube Atlético Mineiro,Campeonato Brasileiro Série A,Brazil,30,Right
+Vieirundinho,Danilo Manuel Vieira Espíndola,77,33,1988-02-29,189,84,RCB,Defender,Santos,Campeonato Brasileiro Série A,Brazil,12,Right
+Alexo Baia,Alessandro Baia Marques,77,33,1988-02-29,175,71,RB,Defender,Clube Atlético Mineiro,Campeonato Brasileiro Série A,Brazil,18,Right
+Enzo Chissano,Enzo Leandro Chissano Baia,77,29,1992-02-29,165,62,LB,Defender,Palmeiras,Campeonato Brasileiro Série A,Brazil,7,Left
+Claudio Coíntra,Claudio Nuno Coíntra Calegari,77,25,1996-02-29,174,71,CAM,Midfield,Palmeiras,Campeonato Brasileiro Série A,Brazil,23,Left
+N. Nández,Nahitan Michel Nández Acosta,77,25,1995-12-28,172,70,RM,Midfield,Cagliari,Italian Serie A,Uruguay,18,Right
+M. Almirón,Miguel Ángel Almirón Rejala,77,27,1994-02-10,174,70,LCM,Midfield,Newcastle United,English Premier League,Paraguay,24,Left
+L. Blas,Ludovic Blas,77,23,1997-12-31,180,70,RS,Forward,FC Nantes,French Ligue 1,France,10,Left
+R. Perraud,Romain Perraud,77,23,1997-09-22,173,68,LB,Defender,Southampton,English Premier League,France,15,Left
+J. Bijlow,Justin Bijlow,77,23,1998-01-22,188,76,GK,GK,Feyenoord,Holland Eredivisie,Netherlands,1,Right
+F. Centonze,Fabien Centonze,77,25,1996-01-16,182,75,RWB,Defender,FC Metz,French Ligue 1,France,18,Right
+J. Ito,伊东 纯也,77,28,1993-03-09,176,66,RW,Forward,KRC Genk,Belgian Jupiler Pro League,Japan,7,Right
+Fábio Martins,Fábio Santos Martins,77,27,1993-07-24,180,72,RF,Forward,SC Braga,Portuguese Liga ZON SAGRES,Portugal,26,Right
+G. Castrovilli,Gaetano Castrovilli,77,24,1997-02-17,179,72,LCM,Midfield,Fiorentina,Italian Serie A,Italy,10,Right
+O. Pineda,Orbelín Pineda Alvarado,77,25,1996-03-24,169,63,RW,Forward,Cruz Azul,Mexican Liga MX,Mexico,31,Right
+J. Boga,Jérémie Boga,77,24,1997-01-03,174,72,LM,Midfield,U.S. Sassuolo Calcio,Italian Serie A,Côte d'Ivoire,7,Right
+J. Larsson,Carl Henrik Jordan Larsson,77,24,1997-06-20,175,68,CAM,Midfield,Spartak Moskva,Russian Premier League,Sweden,11,Left
+J. Andersen,Joachim Christian Andersen,77,25,1996-05-31,192,90,RCB,Defender,Crystal Palace,English Premier League,Denmark,16,Right
+P. Bernardoni,Paul Jean François Bernardoni,77,24,1997-04-18,190,78,GK,GK,Angers SCO,French Ligue 1,France,1,Left
+J. Omlin,Jonas Omlin,77,27,1994-01-10,189,80,GK,GK,Montpellier Hérault SC,French Ligue 1,Switzerland,1,Right
+G. Dzhikiya,Georgiy Dzhikiya,77,27,1993-11-21,188,86,LCB,Defender,Spartak Moskva,Russian Premier League,Russia,14,Left
+Z. Ferhat,Zinedine Ferhat,77,28,1993-03-01,183,70,LM,Midfield,Nîmes Olympique,French Ligue 2,Algeria,10,Right
+Unai López,Unai López Cabrera,77,25,1995-10-30,170,69,RDM,Midfield,Rayo Vallecano,Spain Primera Division,Spain,12,Right
+M. Holgate,Mason Holgate,77,24,1996-10-22,184,75,RCB,Defender,Everton,English Premier League,England,4,Right
+E. Skhiri,Ellyes Joris Skhiri,77,26,1995-05-10,185,73,CDM,Midfield,1. FC Köln,German 1. Bundesliga,Tunisia,28,Right
+Rubén Duarte,Rubén Duarte Sánchez,77,25,1995-10-18,180,75,LB,Defender,Deportivo Alavés,Spain Primera Division,Spain,3,Left
+A. Rossi,Agustín Daniel Rossi,77,25,1995-08-21,195,95,GK,GK,Boca Juniors,Argentina Primera División,Argentina,1,Right
+B. Romero,Braian Ezequiel Romero,77,30,1991-06-15,178,73,RS,Forward,River Plate,Argentina Primera División,Argentina,19,Right
+M. Marega,Moussa Marega,77,30,1991-04-14,183,83,RS,Forward,Al Hilal,Saudi Abdul L. Jameel League,Mali,17,Right
+Pedraza,Alfonso Pedraza Sag,77,25,1996-04-09,184,73,LB,Defender,Villarreal CF,Spain Primera Division,Spain,24,Left
+M. Rashica,Milot Rashica,77,25,1996-06-28,177,73,LM,Midfield,Norwich City,English Premier League,Kosovo,17,Right
+Y. Soteldo,Yeferson Julio Soteldo Martínez,77,24,1997-06-30,158,55,LM,Midfield,Toronto FC,USA Major League Soccer,Venezuela,30,Right
+L. Romo,Luis Francisco Romo Barrón,77,26,1995-06-05,182,84,CDM,Midfield,Cruz Azul,Mexican Liga MX,Mexico,7,Right
+A. Bayındır,Altay Bayındır,77,23,1998-04-14,198,73,GK,GK,Fenerbahçe SK,Turkish Süper Lig,Turkey,1,Right
+B. Sosa,Borna Sosa,77,23,1998-01-21,187,79,LM,Midfield,VfB Stuttgart,German 1. Bundesliga,Croatia,24,Left
+D. McNeil,Dwight McNeil,77,21,1999-11-22,183,70,LM,Midfield,Burnley,English Premier League,England,11,Left
+I. Meslier,Illan Meslier,77,21,2000-03-02,196,74,GK,GK,Leeds United,English Premier League,France,1,Left
+E. Reynoso,Emanuel Reynoso,77,25,1995-11-16,176,67,CAM,Midfield,Minnesota United FC,USA Major League Soccer,Argentina,10,Left
+A. Nwakaeme,Anthony Nuatuzor Nwakaeme,77,32,1989-03-21,185,80,LW,Forward,Trabzonspor,Turkish Süper Lig,Nigeria,9,Right
+M. Damsgaard,Mikkel Krogh Damsgaard,77,20,2000-07-03,180,71,LM,Midfield,U.C. Sampdoria,Italian Serie A,Denmark,38,Right
+S. Tonali,Sandro Tonali,77,21,2000-05-08,181,79,RDM,Midfield,AC Milan,Italian Serie A,Italy,8,Right
+Gorosabel,Andoni Gorosabel Espinosa,77,24,1996-08-04,174,70,RB,Defender,Real Sociedad,Spain Primera Division,Spain,18,Right
+L. Suárez,Luis Javier Suárez Charris,77,23,1997-12-02,185,74,LM,Midfield,Granada CF,Spain Primera Division,Colombia,9,Right
+G. Reyna,Giovanni Alejandro Reyna,77,18,2002-11-13,185,79,LCM,Midfield,Borussia Dortmund,German 1. Bundesliga,United States,7,Right
+Arthur Cabral,Arthur Mendonça Cabral,77,23,1998-04-25,186,89,ST,Forward,FC Basel 1893,Swiss Super League,Brazil,10,Right
+J. Doku,Jérémy Doku,77,19,2002-05-27,171,60,RM,Midfield,Stade Rennais FC,French Ligue 1,Belgium,11,Right
+Ibañez,Roger Ibañez Da Silva,77,22,1998-11-23,185,73,LCB,Defender,Roma,Italian Serie A,Brazil,3,Right
+T. Holeš,Tomáš Holeš,77,28,1993-03-31,180,73,LCB,Defender,SK Slavia Praha,Czech Republic Gambrinus Liga,Czech Republic,3,Right
+S. Weissman,Shon Zalman Weissman,77,25,1996-02-14,174,79,ST,Forward,Real Valladolid CF,Spanish Segunda División,Israel,9,Right
+A. Musrati,Almoatasembellah Ali Mohamed Al musrati,77,25,1996-04-06,189,83,LCM,Midfield,SC Braga,Portuguese Liga ZON SAGRES,Libya,8,Right
+J. Veerman,Joey Veerman,77,22,1998-11-19,185,75,LDM,Midfield,SC Heerenveen,Holland Eredivisie,Netherlands,20,Right
+N. Madueke,Chukwunonso Tristan Madueke,77,19,2002-03-10,182,70,RAM,Midfield,PSV,Holland Eredivisie,England,10,Left
+M. Oršić,Mislav Oršić,77,28,1992-12-29,179,69,LM,Midfield,Dinamo Zagreb,Croatian Prva HNL,Croatia,99,Right
+N. González,Nicolás Iván González,77,23,1998-04-06,180,72,LW,Forward,Fiorentina,Italian Serie A,Argentina,22,Left
+V. Rosier,Valentin André Henri Rosier,77,24,1996-08-19,175,75,RB,Defender,Beşiktaş JK,Turkish Süper Lig,France,2,Right
+Salvi Sánchez,Salvador Sánchez Ponce,77,30,1991-03-30,175,64,RM,Midfield,Cádiz CF,Spain Primera Division,Spain,7,Right
+F. Müller,Florian Müller,77,23,1997-11-13,190,88,GK,GK,VfB Stuttgart,German 1. Bundesliga,Germany,1,Left
+I. Sangaré,Ibrahim Sangaré,77,23,1997-12-02,191,77,LDM,Midfield,PSV,Holland Eredivisie,Côte d'Ivoire,6,Right
+E. Álvarez,Edson Omar Álvarez Velázquez,77,23,1997-10-24,187,73,RCM,Midfield,Ajax,Holland Eredivisie,Mexico,4,Right
+C. Ünder,Cengiz Ünder,77,23,1997-07-14,173,66,RM,Midfield,Olympique de Marseille,French Ligue 1,Turkey,17,Left
+F. Bustos,Fabricio Bustos Sein,77,25,1996-04-28,167,66,RB,Defender,Club Atlético Independiente,Argentina Primera División,Argentina,16,Right
+Douglas Luiz,Douglas Luiz Soares de Paulo,77,23,1998-05-09,175,66,CDM,Midfield,Aston Villa,English Premier League,Brazil,6,Right
+F. Gorriarán,Fernando Gorriarán Fontes,77,26,1994-11-27,168,68,LDM,Midfield,Santos Laguna,Mexican Liga MX,Uruguay,11,Right
+C. Stengs,Calvin Stengs,77,22,1998-12-18,187,68,RM,Midfield,OGC Nice,French Ligue 1,Netherlands,22,Left
+D. Szoboszlai,Dominik Szoboszlai,77,20,2000-10-25,186,74,RAM,Midfield,RB Leipzig,German 1. Bundesliga,Hungary,17,Right
+M. Terrier,Martin Terrier,77,24,1997-03-04,184,73,RS,Forward,Stade Rennais FC,French Ligue 1,France,7,Right
+M. Camara,Mohamed Mady Camara,77,24,1997-02-28,182,75,RCM,Midfield,Olympiacos CFP,Greek Super League,Guinea,4,Right
+T. Malacia,Tyrell Malacia,77,21,1999-08-17,169,67,LB,Defender,Feyenoord,Holland Eredivisie,Netherlands,15,Left
+Wilson Manafá,Wilson Miguéis Manafá Jancó,77,26,1994-07-23,177,69,LB,Defender,FC Porto,Portuguese Liga ZON SAGRES,Portugal,18,Right
+J. Clauss,Jonathan Clauss,77,28,1992-09-25,178,67,RWB,Defender,Racing Club de Lens,French Ligue 1,France,11,Right
+Galeno,Wenderson Rodrigues do Nascimento Galeno,77,23,1997-10-22,179,62,LM,Midfield,SC Braga,Portuguese Liga ZON SAGRES,Brazil,90,Right
+J. Lascelles,Jamaal Lascelles,77,27,1993-11-11,188,83,CB,Defender,Newcastle United,English Premier League,England,6,Right
